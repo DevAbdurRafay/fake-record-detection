@@ -64,6 +64,7 @@ function setFile(file) {
 
   dropVisual.classList.add('hidden');
   filePreview.classList.remove('hidden');
+  filePreview.style.display = 'flex';
 
   analyzeBtn.disabled = false;
   hideError();
@@ -77,6 +78,7 @@ function clearFile() {
 
   dropVisual.classList.remove('hidden');
   filePreview.classList.add('hidden');
+  filePreview.style.display = 'none';
 
   analyzeBtn.disabled = true;
   progressWrap.classList.add('hidden');

@@ -171,7 +171,8 @@ function renderPagination() {
 
 // ── CHARTS ───────────────────────────────────────────
 function initCharts(fake, susp, norm, results) {
-  // Doughnut - Distribution
+
+  // ── Doughnut — Prediction Distribution ──────────────
   const distCtx = document.getElementById('distributionChart').getContext('2d');
   new Chart(distCtx, {
     type: 'doughnut',
@@ -197,6 +198,18 @@ function initCharts(fake, susp, norm, results) {
       responsive: true,
       maintainAspectRatio: false,
       cutout: '68%',
+      // FIX: click chart segment → filter table
+      onClick: (e, elements) => {
+        if (!elements.length) {
+          filterSelect.value = 'all';
+          applyFilters();
+          return;
+        }
+        const labels = ['fake', 'suspicious', 'normal'];
+        filterSelect.value = labels[elements[0].index];
+        applyFilters();
+        document.querySelector('.filters-row').scrollIntoView({ behavior: 'smooth', block: 'center' });
+      },
       plugins: {
         legend: {
           position: 'bottom',
@@ -207,6 +220,13 @@ function initCharts(fake, susp, norm, results) {
             usePointStyle: true,
             pointStyleWidth: 8,
           },
+          // FIX: clicking legend label also filters
+          onClick: (e, legendItem, legend) => {
+            const labels = ['fake', 'suspicious', 'normal'];
+            filterSelect.value = labels[legendItem.index];
+            applyFilters();
+            document.querySelector('.filters-row').scrollIntoView({ behavior: 'smooth', block: 'center' });
+          },
         },
         tooltip: {
           backgroundColor: '#0d1020',
@@ -215,14 +235,14 @@ function initCharts(fake, susp, norm, results) {
           titleColor: '#f1f5f9',
           bodyColor: '#94a3b8',
           callbacks: {
-            label: (ctx) => ` ${ctx.label}: ${ctx.raw} (${((ctx.raw / (fake + susp + norm)) * 100).toFixed(1)}%)`,
+            label: (ctx) => ` ${ctx.label}: ${ctx.raw} (${((ctx.raw / (fake + susp + norm)) * 100).toFixed(1)}%) — click to filter`,
           },
         },
       },
     },
   });
 
-  // Bar - Cluster Composition
+  // ── Bar — Cluster Composition ────────────────────────
   const clusterCounts = [0, 1, 2].map(c => {
     const group = results.filter(r => r.cluster === c);
     return {
@@ -267,6 +287,18 @@ function initCharts(fake, susp, norm, results) {
     options: {
       responsive: true,
       maintainAspectRatio: false,
+      // FIX: click bar segment → filter table by prediction type
+      onClick: (e, elements) => {
+        if (!elements.length) {
+          filterSelect.value = 'all';
+          applyFilters();
+          return;
+        }
+        const labels = ['fake', 'suspicious', 'normal'];
+        filterSelect.value = labels[elements[0].datasetIndex];
+        applyFilters();
+        document.querySelector('.filters-row').scrollIntoView({ behavior: 'smooth', block: 'center' });
+      },
       plugins: {
         legend: {
           position: 'bottom',
@@ -277,6 +309,13 @@ function initCharts(fake, susp, norm, results) {
             usePointStyle: true,
             pointStyleWidth: 8,
           },
+          // FIX: clicking legend label also filters
+          onClick: (e, legendItem, legend) => {
+            const labels = ['fake', 'suspicious', 'normal'];
+            filterSelect.value = labels[legendItem.datasetIndex];
+            applyFilters();
+            document.querySelector('.filters-row').scrollIntoView({ behavior: 'smooth', block: 'center' });
+          },
         },
         tooltip: {
           backgroundColor: '#0d1020',
@@ -284,6 +323,9 @@ function initCharts(fake, susp, norm, results) {
           borderWidth: 1,
           titleColor: '#f1f5f9',
           bodyColor: '#94a3b8',
+          callbacks: {
+            afterLabel: () => 'Click to filter table',
+          },
         },
       },
       scales: {
@@ -302,6 +344,10 @@ function initCharts(fake, susp, norm, results) {
       },
     },
   });
+
+  // FIX: pointer cursor on both charts
+  document.getElementById('distributionChart').style.cursor = 'pointer';
+  document.getElementById('clusterChart').style.cursor = 'pointer';
 }
 
 // ── EXPORT CSV ───────────────────────────────────────

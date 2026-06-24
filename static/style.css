@@ -743,7 +743,7 @@ body {
 
 .filter-group select {
   padding: 10px 32px 10px 14px;
-  background: var(--surface);
+  background: #0d1020;
   border: 1px solid var(--border);
   border-radius: var(--radius-sm);
   color: var(--text);
@@ -757,6 +757,11 @@ body {
   background-repeat: no-repeat;
   background-position: right 10px center;
   white-space: nowrap;
+}
+
+.filter-group select option {
+  background: #0d1020;
+  color: var(--text);
 }
 
 .filter-group select:focus { border-color: var(--accent); }
