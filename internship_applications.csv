@@ -1,0 +1,1101 @@
+application_id,applicant_name,email,phone,university,department,cgpa,submission_time,submission_hour,ip_address,device_type,time_to_fill_sec,resume_similarity_score,is_duplicate_email,is_duplicate_phone,apps_from_same_ip_1hr,email_domain_type,label
+APP00329,Wendy Perez,gail02434@live.com,336850369,COMSATS,Business Administration,2.41,18/03/2024 18:33,18,106.77.179.92,Mobile,758,0.056,FALSE,FALSE,1,legit,normal
+APP00689,Tina Perez,erica68445@yahoo.com,301098097,University of Karachi,Computer Science,2.03,16/06/2024 15:29,15,13.71.43.90,Mobile,828,0.362,FALSE,FALSE,1,legit,normal
+APP00414,Cassandra Hines,garciatravis103@hotmail.com,319528589,University of Karachi,Mechanical Engineering,2.64,20/05/2024 17:44,17,161.51.224.138,Desktop,820,0.088,FALSE,FALSE,1,legit,normal
+APP00789,Joyce Yu,svasquez335@hotmail.com,339132910,COMSATS,Computer Science,2.16,17/06/2024 11:45,11,5.242.154.199,Mobile,568,0.451,FALSE,FALSE,1,legit,normal
+APP00245,Michael Baxter,bridgetsmith541@lums.edu.pk,327520284,NED University,Electrical Engineering,3.12,30/03/2024 13:54,13,113.19.107.37,Desktop,588,0.448,FALSE,FALSE,1,university,normal
+APP00760,Steven Mcdonald,mroy372@gmail.com,302237003,Quaid-i-Azam University,Computer Science,3.05,06/02/2024 12:28,12,177.223.26.166,Desktop,319,0.502,FALSE,FALSE,1,legit,normal
+APP00097,Philip Sanchez,uholt991@nust.edu.pk,322515030,GIK Institute,Electrical Engineering,2.03,17/05/2024 9:29,9,106.66.60.131,Desktop,497,0.37,FALSE,FALSE,1,university,normal
+APP00606,Christopher Hampton,davismary524@uet.edu.pk,307057663,University of Karachi,Software Engineering,3.36,19/04/2024 13:24,13,178.245.79.20,Mobile,501,0.19,FALSE,FALSE,1,university,normal
+APP00735,Justin Tucker,moorezachary985@lums.edu.pk,323808198,FAST NUCES,Computer Science,3.77,03/05/2024 12:38,12,140.149.222.42,Desktop,376,0.209,FALSE,FALSE,1,university,normal
+APP00102,Steven Case,sstewart876@outlook.com,322666893,SZABIST,Business Administration,3.03,14/06/2024 13:03,13,131.84.96.106,Mobile,527,0.533,FALSE,FALSE,1,legit,normal
+APP01094,Peter Molina,user8852@yopmail.com,3001161102,NED University,Electrical Engineering,3.94,19/02/2024 23:00,23,3.115.24.253,Mobile,5,0.939,TRUE,FALSE,10,disposable,fake
+APP00071,Jennifer Horton,jacksonamy73@lums.edu.pk,315438490,GIK Institute,Mechanical Engineering,3.19,18/06/2024 20:59,20,7.64.52.118,Mobile,322,0.3,FALSE,FALSE,1,university,normal
+APP00334,Veronica Jones,cbarton743@live.com,316630978,SZABIST,Computer Science,2.42,27/02/2024 19:55,19,9.201.204.1,Mobile,434,0.488,FALSE,FALSE,1,legit,normal
+APP00454,Patty Green,benjaminjose333@nust.edu.pk,303807840,GIK Institute,Business Administration,3.11,11/04/2024 20:15,20,33.96.60.236,Tablet,129,0.32,FALSE,FALSE,1,university,normal
+APP00142,Cynthia Martinez,carrie69778@hotmail.com,338526283,NED University,Computer Science,3.72,05/01/2024 12:13,12,68.203.172.248,Desktop,273,0.4,FALSE,FALSE,1,legit,normal
+APP00544,Dalton Mills,imeyers748@hotmail.com,328800337,Air University,Computer Science,2.99,05/06/2024 9:15,9,2.35.169.199,Desktop,603,0.365,FALSE,FALSE,1,legit,normal
+APP00293,David Ruiz,nicolejohnson511@live.com,339036805,FAST NUCES,Computer Science,2.53,05/02/2024 14:12,14,77.246.88.122,Tablet,778,0.289,FALSE,FALSE,1,legit,normal
+APP00399,John Fox,joshua95584@iba.edu.pk,317319298,SZABIST,Electrical Engineering,2.69,16/06/2024 22:53,22,131.220.92.52,Desktop,199,0.207,FALSE,FALSE,1,university,normal
+APP00765,David Walsh,justinjohnston944@outlook.com,304172607,PMAS-UAAR,Data Science,2.56,08/02/2024 13:15,13,37.24.113.87,Desktop,174,0.154,FALSE,FALSE,1,legit,normal
+APP00487,Denise Gallagher,savannah42283@iba.edu.pk,305323142,University of Punjab,Electrical Engineering,3.69,08/01/2024 16:17,16,49.246.235.84,Mobile,350,0.493,FALSE,FALSE,1,university,normal
+APP00520,Robert Meyers,kbrewer936@outlook.com,308445293,Air University,Computer Science,3.52,08/05/2024 10:12,10,5.42.134.40,Tablet,468,0.403,FALSE,FALSE,1,legit,normal
+APP00546,Luke White,mjordan432@nu.edu.pk,325942868,UET Lahore,Software Engineering,2.07,01/06/2024 19:19,19,126.187.209.123,Desktop,864,0.143,FALSE,FALSE,1,university,normal
+APP00931,Mary Buchanan,charles04@yahoo.com,329706758,PMAS-UAAR,Accounting,3.17,26/03/2024 10:36,10,89.47.167.222,Mobile,15,0.535,FALSE,FALSE,1,legit,suspicious
+APP00868,Linda Salazar,ericadavis@live.com,308286823,COMSATS,Business Administration,2.55,22/01/2024 20:27,20,102.255.169.20,Desktop,373,0.401,TRUE,FALSE,1,legit,suspicious
+APP00992,Caleb Mendez,rcalderon@yahoo.com,312619679,SZABIST,Computer Science,2.97,22/06/2024 15:20,15,78.149.203.53,Mobile,898,0.876,FALSE,FALSE,1,legit,suspicious
+APP00662,Jason Bullock,anthonybell204@live.com,307954096,Quaid-i-Azam University,Software Engineering,2.75,06/04/2024 21:56,21,31.253.23.144,Mobile,704,0.521,FALSE,FALSE,1,legit,normal
+APP00221,John Kirby,jamesmccoy487@uet.edu.pk,321781180,University of Punjab,Computer Science,3.3,12/03/2024 22:34,22,6.181.214.142,Desktop,697,0.099,FALSE,FALSE,1,university,normal
+APP01051,Danielle Rodriguez,user5071@tempmail.com,3003915393,COMSATS,Accounting,4.44,04/04/2024 1:01,1,177.219.29.131,Mobile,3,0.93,TRUE,FALSE,8,disposable,fake
+APP00696,Erika Thomas,mjackson911@nust.edu.pk,332961940,COMSATS,Data Science,3.78,29/03/2024 15:44,15,89.191.78.179,Mobile,566,0.158,FALSE,FALSE,1,university,normal
+APP00443,Alyssa Freeman,merrittluke656@iba.edu.pk,326824517,COMSATS,Data Science,2.43,23/01/2024 15:19,15,210.66.211.151,Mobile,494,0.086,FALSE,FALSE,1,university,normal
+APP01100,Mary Thompson,user1993@throwam.com,3007415713,Quaid-i-Azam University,Data Science,3.61,22/04/2024 3:00,3,197.67.240.58,Mobile,3,0.919,TRUE,TRUE,20,disposable,fake
+APP00209,Katherine Reyes,villanuevajoshua223@iba.edu.pk,334504577,PMAS-UAAR,Business Administration,2.58,04/01/2024 11:59,11,76.6.31.195,Tablet,314,0.065,FALSE,FALSE,1,university,normal
+APP00274,Martin Brown,andrealozano123@hotmail.com,303302031,Bahria University,Computer Science,2.31,29/03/2024 16:33,16,215.138.85.94,Mobile,858,0.205,FALSE,FALSE,1,legit,normal
+APP00429,Crystal Boyd,whardy13@gmail.com,317365745,NED University,Computer Science,2.62,05/06/2024 21:16,21,123.116.217.216,Desktop,311,0.13,FALSE,FALSE,1,legit,normal
+APP00695,Miguel Vega,mike51498@nust.edu.pk,334890733,Bahria University,Computer Science,3,18/04/2024 17:20,17,211.58.99.107,Mobile,686,0.491,FALSE,FALSE,1,university,normal
+APP00410,Frederick Gallagher,stephen47264@nust.edu.pk,311091762,Bahria University,Accounting,3.5,27/05/2024 16:07,16,67.96.41.19,Mobile,652,0.36,FALSE,FALSE,1,university,normal
+APP01074,Patricia Cowan,user1420@yopmail.com,3009414832,SZABIST,Computer Science,0.37,02/01/2024 23:01,23,197.67.240.58,Mobile,5,0.913,TRUE,TRUE,19,disposable,fake
+APP00550,Lisa Smith,williamscynthia610@hotmail.com,319320631,GIK Institute,Electrical Engineering,3.46,01/03/2024 18:28,18,86.39.0.91,Desktop,863,0.116,FALSE,FALSE,1,legit,normal
+APP00045,Sara Martinez,ronaldedwards225@nust.edu.pk,319689889,COMSATS,Computer Science,3.06,01/02/2024 15:08,15,29.130.239.57,Desktop,595,0.543,FALSE,FALSE,1,university,normal
+APP01035,Brian Miller,user2033@yopmail.com,3005529825,PMAS-UAAR,Computer Science,3.85,16/04/2024 1:00,1,197.67.240.58,Mobile,6,0.891,TRUE,FALSE,17,disposable,fake
+APP00763,Mrs. Rebecca Moore,dgallagher313@outlook.com,335029047,Quaid-i-Azam University,Mechanical Engineering,2.71,13/02/2024 16:51,16,154.189.20.201,Tablet,758,0.483,FALSE,FALSE,1,legit,normal
+APP00333,Cassandra Neal,smithmichael654@iba.edu.pk,337014583,Air University,Business Administration,3.61,17/06/2024 22:35,22,161.195.75.166,Mobile,305,0.259,FALSE,FALSE,1,university,normal
+APP00352,Nathan Sanchez,sanchezkaitlyn665@nust.edu.pk,312896774,LUMS,Accounting,3.38,10/02/2024 9:26,9,53.133.9.27,Mobile,724,0.313,FALSE,FALSE,1,university,normal
+APP00200,Angelica Gamble,robertwheeler542@nust.edu.pk,314736121,PMAS-UAAR,Computer Science,3.44,17/03/2024 15:43,15,113.6.35.245,Desktop,856,0.293,FALSE,FALSE,1,university,normal
+APP00972,Erika Williams,gregory15@yopmail.com,325838692,NUST,Computer Science,2.97,24/06/2024 10:29,10,193.143.164.124,Mobile,817,0.532,FALSE,FALSE,1,disposable,suspicious
+APP00159,Melissa Gonzales,msloan813@hotmail.com,329535505,IBA Karachi,Computer Science,3.87,05/02/2024 11:50,11,142.189.166.24,Mobile,625,0.305,FALSE,FALSE,1,legit,normal
+APP00356,Mark Gross,christopher89914@iba.edu.pk,301195368,SZABIST,Software Engineering,2.96,30/04/2024 21:31,21,136.73.52.213,Mobile,289,0.27,FALSE,FALSE,1,university,normal
+APP00193,Steven Villarreal,michaela57377@live.com,314676367,LUMS,Electrical Engineering,2.29,04/06/2024 13:26,13,41.236.227.213,Desktop,838,0.259,FALSE,FALSE,1,legit,normal
+APP00884,Elizabeth Garcia,rsmith@hotmail.com,318418631,IBA Karachi,Business Administration,2.52,28/05/2024 18:51,18,167.144.139.122,Mobile,890,0.844,FALSE,FALSE,1,legit,suspicious
+APP00232,Clifford Morales,delacruzbrianna140@uet.edu.pk,326379868,NED University,Accounting,2.38,21/03/2024 10:25,10,161.50.6.89,Mobile,446,0.382,FALSE,FALSE,1,university,normal
+APP00052,Tyrone Mccarthy,dawn6286@gmail.com,333276659,PMAS-UAAR,Electrical Engineering,2.35,07/03/2024 14:20,14,150.147.143.146,Mobile,336,0.186,FALSE,FALSE,1,legit,normal
+APP00724,Kimberly Alexander,smithlisa136@uet.edu.pk,319468532,SZABIST,Electrical Engineering,3.45,19/06/2024 15:09,15,81.202.153.129,Mobile,865,0.44,FALSE,FALSE,1,university,normal
+APP00319,Eric Bonilla,johnlandry597@uet.edu.pk,302772258,NED University,Mechanical Engineering,2.19,14/03/2024 21:34,21,115.112.134.76,Tablet,472,0.145,FALSE,FALSE,1,university,normal
+APP00732,Timothy Matthews,jennifer62521@lums.edu.pk,332930745,UET Lahore,Computer Science,2.6,21/05/2024 14:04,14,101.146.46.176,Mobile,615,0.348,FALSE,FALSE,1,university,normal
+APP01039,David Nichols,user451@mailinator.com,3004899524,FAST NUCES,Mechanical Engineering,4.25,10/01/2024 3:03,3,129.226.0.248,Mobile,4,0.971,TRUE,TRUE,20,disposable,fake
+APP00057,Lori Castaneda,jennifer71871@live.com,301689025,Quaid-i-Azam University,Data Science,2.81,04/04/2024 9:32,9,141.73.254.99,Mobile,783,0.467,FALSE,FALSE,1,legit,normal
+APP00505,Melissa Proctor,lmcgrath244@lums.edu.pk,318981122,COMSATS,Electrical Engineering,2.84,02/06/2024 17:00,17,137.212.131.248,Tablet,370,0.153,FALSE,FALSE,1,university,normal
+APP00297,Christine Patel,shannonmelendez590@outlook.com,336952633,University of Punjab,Mechanical Engineering,3.88,14/02/2024 10:15,10,33.215.48.214,Mobile,726,0.406,FALSE,FALSE,1,legit,normal
+APP00529,Isabel Rivera,anthonylopez482@lums.edu.pk,314754647,LUMS,Mechanical Engineering,3.7,07/03/2024 22:23,22,22.13.105.199,Mobile,521,0.504,FALSE,FALSE,1,university,normal
+APP00211,Daniel Butler,dandrews526@nu.edu.pk,338818250,NUST,Mechanical Engineering,3.86,30/04/2024 20:53,20,25.170.221.67,Tablet,447,0.204,FALSE,FALSE,1,university,normal
+APP00514,Theresa Jones,jillwilson316@yahoo.com,329500841,Air University,Business Administration,3.46,30/01/2024 18:21,18,167.160.190.212,Mobile,469,0.313,FALSE,FALSE,1,legit,normal
+APP00139,Chad Martin,patelderek872@iba.edu.pk,305782563,NUST,Mechanical Engineering,2.3,25/04/2024 22:32,22,176.172.217.255,Desktop,270,0.05,FALSE,FALSE,1,university,normal
+APP00179,Jon Stevenson,amyshaw894@lums.edu.pk,303316639,Air University,Software Engineering,3.07,18/06/2024 15:33,15,63.247.193.202,Mobile,505,0.095,FALSE,FALSE,1,university,normal
+APP00644,Charles Manning,mark48517@live.com,328263032,SZABIST,Data Science,2.6,16/04/2024 14:16,14,99.1.111.101,Desktop,759,0.369,FALSE,FALSE,1,legit,normal
+APP01012,Melissa Rodriguez,user1259@throwam.com,3006465833,NED University,Business Administration,0.3,13/03/2024 2:00,2,154.254.232.9,Mobile,6,0.92,TRUE,TRUE,18,disposable,fake
+APP00175,Colleen Nelson,madison02758@uet.edu.pk,326643410,Air University,Mechanical Engineering,2.97,05/05/2024 19:36,19,57.54.30.138,Mobile,426,0.009,FALSE,FALSE,1,university,normal
+APP00431,Matthew Williams,amanda32185@lums.edu.pk,314834713,PMAS-UAAR,Computer Science,3.37,01/03/2024 16:27,16,217.66.193.155,Mobile,510,0.44,FALSE,FALSE,1,university,normal
+APP00971,Michelle Price,christinecook@hotmail.com,326556541,University of Karachi,Data Science,2.81,11/03/2024 12:12,12,63.120.120.108,Desktop,55,0.386,FALSE,FALSE,7,legit,suspicious
+APP00110,Miss Patricia Paul,nrobinson441@outlook.com,334833486,University of Karachi,Business Administration,3.57,12/04/2024 14:46,14,75.88.21.241,Mobile,217,0.172,FALSE,FALSE,1,legit,normal
+APP00276,Glen Wagner,arthurjordan467@lums.edu.pk,321930113,COMSATS,Mechanical Engineering,3.08,04/04/2024 10:16,10,221.77.230.233,Tablet,225,0.371,FALSE,FALSE,1,university,normal
+APP00032,Steven Pope,matthew68559@hotmail.com,307194416,NED University,Data Science,2.28,02/02/2024 8:19,8,155.21.118.89,Tablet,493,0.438,FALSE,FALSE,1,legit,normal
+APP00087,Deborah Hickman,jacquelineroy37@iba.edu.pk,304938791,SZABIST,Accounting,3.75,28/02/2024 19:05,19,160.26.204.172,Tablet,564,0.418,FALSE,FALSE,1,university,normal
+APP00405,David Wallace,andrew16814@hotmail.com,319569884,UET Lahore,Software Engineering,3.38,28/03/2024 22:29,22,26.79.90.86,Desktop,730,0.126,FALSE,FALSE,1,legit,normal
+APP00089,Kayla Chandler,mwilliams580@nust.edu.pk,313851852,LUMS,Computer Science,3.16,07/04/2024 17:43,17,190.157.123.52,Mobile,366,0.321,FALSE,FALSE,1,university,normal
+APP00108,Rebecca Powell,wtaylor76@lums.edu.pk,306404139,NED University,Software Engineering,2.12,11/03/2024 17:40,17,7.247.16.86,Desktop,719,0.179,FALSE,FALSE,1,university,normal
+APP00810,Scott Townsend,guy72316@lums.edu.pk,307858317,University of Punjab,Computer Science,3.89,01/02/2024 14:59,14,71.140.92.213,Mobile,699,0.42,FALSE,FALSE,1,university,normal
+APP00889,Melody Lewis,fsalas@throwam.com,313335893,COMSATS,Mechanical Engineering,3.1,23/04/2024 21:10,21,123.207.23.138,Mobile,434,0.085,TRUE,FALSE,1,legit,suspicious
+APP00157,Amber King,lewisamber220@lums.edu.pk,329240971,IBA Karachi,Computer Science,2.26,19/01/2024 15:11,15,142.195.80.214,Mobile,850,0.048,FALSE,FALSE,1,university,normal
+APP00713,Gary Cain,hughesdesiree291@iba.edu.pk,312557253,Air University,Data Science,2.59,28/03/2024 20:40,20,78.139.134.7,Mobile,283,0.49,FALSE,FALSE,1,university,normal
+APP00482,Nicole Olsen,lprice217@iba.edu.pk,319778944,GIK Institute,Business Administration,3.04,08/06/2024 19:09,19,142.72.205.125,Desktop,831,0.01,FALSE,FALSE,1,university,normal
+APP00852,Elaine Snyder,felicia98@yopmail.com,332761653,GIK Institute,Computer Science,2.34,19/03/2024 17:52,17,192.18.241.254,Mobile,621,0.192,FALSE,FALSE,1,disposable,suspicious
+APP00999,Monica Perry,suzannerussell@hotmail.com,327550268,Bahria University,Business Administration,2.13,10/02/2024 12:04,12,200.19.214.50,Desktop,104,0.469,FALSE,FALSE,7,legit,suspicious
+APP00759,Debbie Johnson,paula50710@outlook.com,318827187,NED University,Software Engineering,2.45,25/03/2024 20:47,20,92.47.217.243,Mobile,504,0.101,FALSE,FALSE,1,legit,normal
+APP00571,Theresa Davis,meganclark226@uet.edu.pk,304399754,University of Karachi,Business Administration,3.54,22/06/2024 14:20,14,50.157.248.175,Tablet,243,0.317,FALSE,FALSE,1,university,normal
+APP00310,Daniel Gomez,whitebianca305@live.com,312609202,FAST NUCES,Electrical Engineering,3.09,05/05/2024 10:03,10,55.116.113.190,Mobile,489,0.048,FALSE,FALSE,1,legit,normal
+APP00495,Amy Sullivan,gary73761@outlook.com,314431982,NUST,Software Engineering,3.76,22/04/2024 21:39,21,12.18.135.3,Desktop,621,0.477,FALSE,FALSE,1,legit,normal
+APP00324,Grace Alexander,randy16139@nust.edu.pk,303914829,IBA Karachi,Mechanical Engineering,2.38,15/01/2024 11:02,11,8.165.114.56,Mobile,587,0.198,FALSE,FALSE,1,university,normal
+APP00011,Taylor Webb,rodneyrodriguez611@nust.edu.pk,339877065,UET Lahore,Data Science,3.64,03/01/2024 18:46,18,24.204.112.3,Desktop,237,0.295,FALSE,FALSE,1,university,normal
+APP00372,Stacie Morgan,ellislisa980@nust.edu.pk,321902651,FAST NUCES,Accounting,2.48,07/06/2024 21:49,21,153.186.89.27,Desktop,573,0.501,FALSE,FALSE,1,university,normal
+APP00740,Cindy George,julie96552@yahoo.com,308468826,SZABIST,Computer Science,2.67,06/04/2024 21:38,21,118.107.255.49,Mobile,486,0.462,FALSE,FALSE,1,legit,normal
+APP00698,Jon Calhoun,vcollins135@lums.edu.pk,327549342,University of Karachi,Mechanical Engineering,3.79,16/06/2024 19:23,19,21.236.23.35,Desktop,603,0.464,FALSE,FALSE,1,university,normal
+APP00947,Rhonda Nguyen,stephen37@live.com,312726714,Air University,Business Administration,3.4,20/06/2024 9:36,9,188.150.235.4,Mobile,65,0.416,FALSE,FALSE,5,legit,suspicious
+APP00553,Eric Fletcher,wberry700@iba.edu.pk,302633502,University of Punjab,Data Science,3.21,20/04/2024 17:58,17,35.208.194.175,Tablet,787,0.184,FALSE,FALSE,1,university,normal
+APP00599,Alice Perez,lewisbailey789@live.com,303488704,Quaid-i-Azam University,Business Administration,2.87,12/02/2024 17:59,17,202.220.175.110,Desktop,284,0.157,FALSE,FALSE,1,legit,normal
+APP00406,Mr. Eric Harper PhD,danielwilliams136@nust.edu.pk,301277874,IBA Karachi,Data Science,3.63,09/05/2024 18:26,18,45.161.235.237,Desktop,273,0.098,FALSE,FALSE,1,university,normal
+APP00885,William May,housetroy@tempmail.com,319036402,NUST,Electrical Engineering,2.35,17/02/2024 21:55,21,68.120.113.220,Mobile,300,0.27,FALSE,FALSE,1,disposable,suspicious
+APP00555,Shannon Carlson,whitemichelle346@iba.edu.pk,316255795,Air University,Computer Science,3.28,18/01/2024 8:26,8,130.113.3.83,Desktop,220,0.377,FALSE,FALSE,1,university,normal
+APP01019,Shane Knapp,user4532@mailinator.com,3006647890,NED University,Data Science,3.52,31/03/2024 23:03,23,117.72.183.14,Mobile,5,0.915,TRUE,TRUE,20,disposable,fake
+APP00114,Nicholas Russell,bbaxter588@live.com,318199311,PMAS-UAAR,Data Science,3.85,08/06/2024 17:43,17,28.80.53.143,Desktop,778,0.335,FALSE,FALSE,1,legit,normal
+APP00140,Joshua White,ddonaldson837@outlook.com,336865064,University of Punjab,Computer Science,2.79,11/04/2024 16:23,16,76.243.91.11,Mobile,361,0.045,FALSE,FALSE,1,legit,normal
+APP00916,Grace Smith,kimberly56@outlook.com,332568722,Quaid-i-Azam University,Electrical Engineering,2.91,16/05/2024 22:52,22,120.47.81.150,Mobile,95,0.099,FALSE,FALSE,6,legit,suspicious
+APP00050,Natalie Adams,ngomez306@nu.edu.pk,338030010,Air University,Accounting,3.4,03/06/2024 22:14,22,14.177.173.1,Mobile,619,0.24,FALSE,FALSE,1,university,normal
+APP00060,Amanda Oneal,mcculloughdaniel250@lums.edu.pk,337358385,Quaid-i-Azam University,Computer Science,2.94,24/03/2024 10:31,10,26.147.218.112,Mobile,337,0.142,FALSE,FALSE,1,university,normal
+APP00940,Jeffrey Fernandez,vhuff@live.com,309991819,FAST NUCES,Data Science,3,09/02/2024 11:55,11,188.150.235.4,Mobile,68,0.119,FALSE,FALSE,4,legit,suspicious
+APP00300,Ronald Sparks,hlee941@hotmail.com,321999183,FAST NUCES,Software Engineering,3.11,06/02/2024 20:07,20,52.123.82.166,Tablet,658,0.528,FALSE,FALSE,1,legit,normal
+APP00859,Charlene Lewis,jamesjimenez@live.com,308527132,LUMS,Accounting,3.81,14/05/2024 22:14,22,202.173.46.255,Mobile,299,0.807,FALSE,FALSE,1,legit,suspicious
+APP01032,Fernando Aguirre,user6315@mailinator.com,3006531182,LUMS,Data Science,0.39,24/01/2024 3:02,3,113.129.253.61,Mobile,2,0.942,TRUE,TRUE,16,disposable,fake
+APP00729,Matthew Harrison,xcarrillo881@gmail.com,327409080,UET Lahore,Computer Science,2.22,26/01/2024 16:10,16,159.50.4.252,Mobile,412,0.141,FALSE,FALSE,1,legit,normal
+APP00697,Christopher Nguyen,hortonjames481@outlook.com,328350277,IBA Karachi,Data Science,2.42,24/06/2024 13:58,13,14.27.208.238,Tablet,736,0.393,FALSE,FALSE,1,legit,normal
+APP00781,Sarah White,kelliramirez401@nust.edu.pk,312857975,LUMS,Data Science,2.79,18/01/2024 14:57,14,87.93.216.76,Mobile,331,0.113,FALSE,FALSE,1,university,normal
+APP00024,Robin Waters,imason594@gmail.com,306261415,FAST NUCES,Computer Science,3.11,08/05/2024 22:54,22,61.152.135.19,Mobile,663,0.528,FALSE,FALSE,1,legit,normal
+APP00758,Mrs. Regina Gonzalez,donna28615@lums.edu.pk,326631448,NED University,Business Administration,2.8,11/02/2024 9:29,9,199.110.158.118,Mobile,163,0.506,FALSE,FALSE,1,university,normal
+APP00747,William Maddox,swilliams285@gmail.com,339932362,COMSATS,Business Administration,2.01,19/02/2024 13:05,13,175.143.217.134,Desktop,705,0.545,FALSE,FALSE,1,legit,normal
+APP00530,Dylan Russell,singhalan808@nu.edu.pk,328604827,COMSATS,Computer Science,2.12,29/01/2024 13:30,13,175.244.9.164,Desktop,592,0.155,FALSE,FALSE,1,university,normal
+APP00210,Joan Beasley,alangreen937@lums.edu.pk,314431161,University of Karachi,Software Engineering,3.05,13/03/2024 14:29,14,221.188.65.96,Desktop,666,0.17,FALSE,FALSE,1,university,normal
+APP00829,Marcus Davis,tyler62@hotmail.com,312084932,SZABIST,Business Administration,2.74,07/04/2024 18:41,18,154.221.187.1,Tablet,16,0.24,FALSE,FALSE,1,legit,suspicious
+APP00468,Terry Phillips,tarabrennan925@nu.edu.pk,326446792,PMAS-UAAR,Business Administration,2.78,11/06/2024 14:52,14,193.170.98.171,Mobile,863,0.132,FALSE,FALSE,1,university,normal
+APP01023,Whitney Krueger,user531@tempmail.com,3009534539,GIK Institute,Software Engineering,3.98,17/05/2024 2:00,2,154.254.232.9,Mobile,2,0.904,TRUE,TRUE,18,disposable,fake
+APP00382,Donald White,jonathanbush735@lums.edu.pk,321635626,NUST,Computer Science,2.1,05/03/2024 16:04,16,197.0.140.42,Desktop,708,0.501,FALSE,FALSE,1,university,normal
+APP00084,Kelly Santiago,marcusholmes680@nust.edu.pk,319310235,FAST NUCES,Software Engineering,2.95,31/05/2024 13:55,13,191.114.41.171,Tablet,222,0.242,FALSE,FALSE,1,university,normal
+APP00886,Carlos Boyer,mooreelizabeth@hotmail.com,306203625,LUMS,Software Engineering,3.59,24/06/2024 17:12,17,129.156.222.117,Mobile,191,0.797,FALSE,FALSE,1,legit,suspicious
+APP00533,Brandon Garza MD,mason62804@nust.edu.pk,336741177,Air University,Accounting,2.45,18/06/2024 18:04,18,131.196.19.55,Tablet,877,0.316,FALSE,FALSE,1,university,normal
+APP01003,Melissa Rodriguez,user7169@throwam.com,3006078780,Quaid-i-Azam University,Mechanical Engineering,0.36,22/03/2024 1:00,1,208.244.179.164,Mobile,5,0.914,TRUE,TRUE,11,disposable,fake
+APP00823,Javier Young,rachelcastaneda@live.com,309902483,UET Lahore,Accounting,3.47,04/03/2024 13:28,13,106.88.91.115,Desktop,25,0.478,FALSE,FALSE,1,legit,suspicious
+APP00446,Angelica Lawson,jameswarren849@nust.edu.pk,334700926,UET Lahore,Computer Science,2.8,02/03/2024 16:48,16,139.189.15.161,Desktop,747,0.377,FALSE,FALSE,1,university,normal
+APP00129,Amy Brown,stevenhanson106@lums.edu.pk,322414808,Air University,Accounting,2.33,04/03/2024 19:28,19,1.165.17.204,Desktop,569,0.335,FALSE,FALSE,1,university,normal
+APP00360,Brian Myers PhD,jamesamanda974@lums.edu.pk,327095875,PMAS-UAAR,Computer Science,3.55,26/04/2024 13:35,13,145.118.72.51,Desktop,754,0.394,FALSE,FALSE,1,university,normal
+APP00946,Zachary Fowler,fsandoval@gmail.com,321182888,Bahria University,Business Administration,2.42,25/05/2024 20:20,20,186.49.234.215,Desktop,28,0.212,FALSE,FALSE,1,legit,suspicious
+APP00782,Katherine Martinez,foxchristina838@nust.edu.pk,333663907,NED University,Data Science,3.78,30/05/2024 11:32,11,94.203.62.23,Desktop,853,0.151,FALSE,FALSE,1,university,normal
+APP00603,Anna Miller,nicholasanderson993@live.com,318417300,Quaid-i-Azam University,Accounting,2.21,02/05/2024 22:02,22,60.88.188.132,Desktop,262,0.064,FALSE,FALSE,1,legit,normal
+APP00077,Elizabeth Yoder,john53259@nu.edu.pk,322944841,GIK Institute,Electrical Engineering,3.64,01/01/2024 18:55,18,21.72.9.90,Mobile,675,0.03,FALSE,FALSE,1,university,normal
+APP00616,Russell Sawyer,mwilliams278@live.com,322607817,Air University,Data Science,2.67,06/02/2024 8:08,8,27.21.187.242,Mobile,650,0.428,FALSE,FALSE,1,legit,normal
+APP00812,Deborah Campbell,cking249@outlook.com,331578940,University of Punjab,Mechanical Engineering,2.69,29/06/2024 18:01,18,98.17.185.53,Desktop,834,0.081,FALSE,FALSE,1,legit,normal
+APP00569,Frank Campbell,jeffromero501@hotmail.com,308905753,University of Punjab,Data Science,2.09,28/06/2024 18:08,18,143.106.184.225,Mobile,134,0.027,FALSE,FALSE,1,legit,normal
+APP00219,Carolyn Collins,nancycarr701@live.com,301531577,NUST,Electrical Engineering,2.72,21/05/2024 15:03,15,138.74.132.206,Mobile,772,0.094,FALSE,FALSE,1,legit,normal
+APP00345,Ms. Elizabeth Jones,qsaunders712@outlook.com,306051895,University of Karachi,Accounting,2.19,13/05/2024 12:39,12,172.101.58.111,Desktop,740,0.23,FALSE,FALSE,1,legit,normal
+APP00586,Alfred Johnson,josephatkinson428@gmail.com,301672073,COMSATS,Accounting,3.46,09/01/2024 14:33,14,43.45.140.139,Mobile,523,0.439,FALSE,FALSE,1,legit,normal
+APP00248,Victoria Williams,genglish192@hotmail.com,328566540,NED University,Computer Science,3.64,03/01/2024 15:08,15,155.125.176.53,Desktop,319,0.53,FALSE,FALSE,1,legit,normal
+APP00389,Makayla Duffy,moorejoseph101@live.com,319173698,Quaid-i-Azam University,Business Administration,2.24,16/06/2024 11:06,11,161.100.46.3,Desktop,411,0.495,FALSE,FALSE,1,legit,normal
+APP00793,Megan Pace,ydurham931@nu.edu.pk,314355203,NUST,Computer Science,2.8,04/01/2024 13:52,13,154.214.87.78,Desktop,316,0.035,FALSE,FALSE,1,university,normal
+APP00589,Jenna Lloyd,phillip49896@hotmail.com,334102874,GIK Institute,Mechanical Engineering,2.7,28/04/2024 19:40,19,196.247.136.54,Tablet,121,0.039,FALSE,FALSE,1,legit,normal
+APP00528,Melissa Johnson,brianwebb582@lums.edu.pk,312558874,PMAS-UAAR,Mechanical Engineering,3.75,29/04/2024 9:29,9,78.92.7.100,Desktop,437,0.391,FALSE,FALSE,1,university,normal
+APP00452,Julian Yoder,hrollins472@outlook.com,309743263,SZABIST,Software Engineering,2.9,23/06/2024 12:59,12,12.144.62.56,Mobile,450,0.401,FALSE,FALSE,1,legit,normal
+APP00526,Jorge Scott,mary8152@lums.edu.pk,311486416,COMSATS,Accounting,2.1,08/04/2024 8:05,8,128.176.33.181,Mobile,556,0.388,FALSE,FALSE,1,university,normal
+APP00875,Julie Buck,jmatthews@live.com,301688519,NED University,Accounting,3.59,19/02/2024 19:28,19,2.55.117.69,Mobile,221,0.778,FALSE,FALSE,1,legit,suspicious
+APP01043,Brian Miller,user679@guerrillamail.com,3009797610,Bahria University,Mechanical Engineering,0.2,18/01/2024 1:02,1,177.219.29.131,Mobile,3,0.945,TRUE,FALSE,15,disposable,fake
+APP00954,Melanie Delgado,randymoore@gmail.com,318729158,NUST,Software Engineering,2.62,07/02/2024 20:37,20,153.131.237.149,Desktop,543,0.368,TRUE,FALSE,1,legit,suspicious
+APP00822,Richard Lowe,edward93@outlook.com,331960353,Quaid-i-Azam University,Mechanical Engineering,2.64,26/01/2024 8:29,8,160.194.190.244,Mobile,835,0.877,FALSE,FALSE,1,legit,suspicious
+APP00466,Deborah Cowan,murphyjoseph673@iba.edu.pk,314001408,Air University,Accounting,3.06,28/01/2024 20:40,20,220.94.50.138,Mobile,710,0.252,FALSE,FALSE,1,university,normal
+APP00424,Linda Long,valerie0678@nu.edu.pk,318995273,Quaid-i-Azam University,Business Administration,2.42,26/05/2024 12:11,12,129.255.126.74,Desktop,884,0.5,FALSE,FALSE,1,university,normal
+APP01044,Fernando Aguirre,user7169@throwam.com,3003624846,NUST,Business Administration,4.32,19/02/2024 3:02,3,3.115.24.253,Mobile,6,0.924,TRUE,TRUE,17,disposable,fake
+APP00623,Jennifer Mendez,parkmichelle150@yahoo.com,326835728,Quaid-i-Azam University,Software Engineering,3.62,05/06/2024 11:32,11,132.201.96.219,Mobile,703,0.451,FALSE,FALSE,1,legit,normal
+APP00774,Brenda Jackson,jessica46484@gmail.com,317669032,IBA Karachi,Software Engineering,3.37,23/02/2024 15:14,15,12.149.11.73,Desktop,648,0.304,FALSE,FALSE,1,legit,normal
+APP00337,Tammy Knapp,dawnwalker147@lums.edu.pk,324025884,GIK Institute,Computer Science,2.93,10/06/2024 10:20,10,171.16.3.159,Mobile,769,0.249,FALSE,FALSE,1,university,normal
+APP00463,Daniel Flores,ethanstone263@uet.edu.pk,307146400,IBA Karachi,Data Science,3.36,04/01/2024 22:58,22,95.138.9.206,Desktop,333,0.511,FALSE,FALSE,1,university,normal
+APP00079,Stephen Casey,james4730@yahoo.com,313657144,UET Lahore,Data Science,2.03,14/04/2024 9:14,9,185.11.255.179,Mobile,236,0.065,FALSE,FALSE,1,legit,normal
+APP00524,Mr. Chris Ferguson,robert39688@lums.edu.pk,305574378,LUMS,Software Engineering,2.52,04/01/2024 17:35,17,70.164.230.214,Mobile,646,0.298,FALSE,FALSE,1,university,normal
+APP00963,Erica Wells,ibarrasteven@outlook.com,337591523,NUST,Software Engineering,3.43,26/06/2024 12:31,12,20.89.233.173,Mobile,330,0.828,FALSE,FALSE,1,legit,suspicious
+APP00722,Eric Miller,kevin71803@hotmail.com,331816229,University of Punjab,Business Administration,3.69,25/02/2024 10:52,10,163.203.219.68,Mobile,877,0.067,FALSE,FALSE,1,legit,normal
+APP00874,Megan Townsend,mooremichael@guerrillamail.com,329872833,NED University,Business Administration,2.46,11/03/2024 11:37,11,81.84.6.98,Mobile,513,0.059,TRUE,FALSE,1,legit,suspicious
+APP00668,Mark Murphy,ryanbruce754@nust.edu.pk,322225669,NUST,Data Science,2.11,26/03/2024 22:15,22,73.225.167.226,Tablet,602,0.548,FALSE,FALSE,1,university,normal
+APP00831,Leonard Campos,walter17@gmail.com,322038256,NED University,Data Science,2.37,09/04/2024 2:20,2,122.208.44.177,Desktop,493,0.514,FALSE,FALSE,1,legit,suspicious
+APP00040,Jason Gibbs,lwilson335@nust.edu.pk,335960271,Air University,Software Engineering,2.36,19/06/2024 14:43,14,152.8.58.141,Tablet,886,0.339,FALSE,FALSE,1,university,normal
+APP00031,Roberto Murphy,festrada790@nu.edu.pk,315394880,LUMS,Accounting,2.84,29/06/2024 14:35,14,70.143.35.75,Mobile,129,0.52,FALSE,FALSE,1,university,normal
+APP00811,Kevin Ward,gary45790@live.com,329549809,Bahria University,Electrical Engineering,3.21,04/04/2024 19:03,19,136.253.233.207,Mobile,786,0.233,FALSE,FALSE,1,legit,normal
+APP00137,Kimberly Robbins,toni17926@lums.edu.pk,317171347,SZABIST,Data Science,3.87,28/04/2024 20:18,20,59.44.65.86,Desktop,511,0.23,FALSE,FALSE,1,university,normal
+APP00055,Michael Stewart,burnsedward477@outlook.com,327189034,LUMS,Data Science,3.15,30/01/2024 20:52,20,160.61.171.14,Tablet,287,0.059,FALSE,FALSE,1,legit,normal
+APP00809,Katherine Allen,silvanicholas5@outlook.com,309400348,Bahria University,Accounting,2.71,13/04/2024 22:26,22,141.221.39.87,Tablet,524,0.205,FALSE,FALSE,1,legit,normal
+APP00287,Raymond Vazquez,danielmendez827@hotmail.com,321676621,IBA Karachi,Mechanical Engineering,3.63,07/02/2024 9:45,9,110.213.27.143,Tablet,374,0.218,FALSE,FALSE,1,legit,normal
+APP00951,Shannon Holland,drobinson@mailinator.com,307598940,UET Lahore,Accounting,3.92,06/05/2024 21:41,21,120.17.208.172,Desktop,244,0.516,FALSE,FALSE,1,disposable,suspicious
+APP00766,Jordan Walsh,thomas94872@hotmail.com,334510423,Bahria University,Computer Science,3.49,18/06/2024 17:04,17,105.233.7.22,Desktop,291,0.413,FALSE,FALSE,1,legit,normal
+APP00322,Lisa Evans,nicholsonalexis996@yahoo.com,313254614,UET Lahore,Accounting,2.84,23/03/2024 12:46,12,161.242.107.80,Desktop,546,0.049,FALSE,FALSE,1,legit,normal
+APP00395,Andrea Hall,yhunt751@uet.edu.pk,323246154,COMSATS,Data Science,2.97,11/04/2024 13:32,13,157.140.23.89,Desktop,130,0.466,FALSE,FALSE,1,university,normal
+APP00004,William Landry,christine72868@nu.edu.pk,325437923,GIK Institute,Computer Science,3.39,17/05/2024 9:59,9,54.50.7.64,Mobile,507,0.161,FALSE,FALSE,1,university,normal
+APP00328,Zachary Alvarez,teresadecker486@gmail.com,313905824,NED University,Mechanical Engineering,2.02,05/03/2024 17:51,17,138.176.127.196,Desktop,432,0.39,FALSE,FALSE,1,legit,normal
+APP00998,John Olsen,fordzachary@mailinator.com,302311035,LUMS,Mechanical Engineering,3.01,26/01/2024 9:31,9,184.122.65.105,Mobile,356,0.297,FALSE,FALSE,1,disposable,suspicious
+APP01069,Cynthia Nguyen,user7252@mailinator.com,3005325779,IBA Karachi,Data Science,4.41,28/04/2024 3:00,3,208.244.179.164,Mobile,5,0.924,TRUE,FALSE,16,disposable,fake
+APP00721,Jessica Parker,richardbaker379@yahoo.com,321675822,Air University,Software Engineering,2.22,19/03/2024 13:19,13,4.57.12.219,Mobile,421,0.435,FALSE,FALSE,1,legit,normal
+APP01061,Regina Peterson,user8852@yopmail.com,3001479076,LUMS,Data Science,3.8,14/05/2024 2:01,2,154.254.232.9,Mobile,7,0.975,TRUE,TRUE,6,disposable,fake
+APP00582,Holly Lee,nsmith183@lums.edu.pk,337266039,LUMS,Electrical Engineering,3.37,10/06/2024 13:17,13,35.60.221.178,Mobile,327,0.018,FALSE,FALSE,1,university,normal
+APP00199,Emily Bell,samuel26460@nust.edu.pk,337302286,NUST,Accounting,3.83,18/05/2024 10:41,10,53.97.51.151,Mobile,476,0.546,FALSE,FALSE,1,university,normal
+APP00059,Kristin Gonzalez,isaiahshaw828@uet.edu.pk,338799287,University of Karachi,Mechanical Engineering,3.39,09/03/2024 13:54,13,86.93.221.10,Desktop,371,0.048,FALSE,FALSE,1,university,normal
+APP00064,Mark Nelson,lmills974@iba.edu.pk,314213524,IBA Karachi,Accounting,2.92,30/05/2024 20:33,20,29.140.43.64,Mobile,731,0.055,FALSE,FALSE,1,university,normal
+APP00515,William Armstrong,garciathomas853@gmail.com,314255041,Quaid-i-Azam University,Mechanical Engineering,2.64,21/06/2024 15:58,15,147.57.118.136,Desktop,605,0.355,FALSE,FALSE,1,legit,normal
+APP00244,Jennifer Crawford,idixon286@outlook.com,302707116,GIK Institute,Mechanical Engineering,3.02,03/04/2024 13:12,13,128.193.241.118,Mobile,588,0.369,FALSE,FALSE,1,legit,normal
+APP00498,Andrew Williams,lindawood529@nust.edu.pk,304185160,UET Lahore,Electrical Engineering,2.76,18/03/2024 20:52,20,35.193.226.173,Mobile,412,0.232,FALSE,FALSE,1,university,normal
+APP00101,Michael Baldwin,bryanfletcher671@nust.edu.pk,309209880,NED University,Electrical Engineering,3.78,12/03/2024 8:44,8,3.64.240.92,Mobile,499,0.245,FALSE,FALSE,1,university,normal
+APP00169,Brian Wiley,tyler80834@hotmail.com,326246485,IBA Karachi,Mechanical Engineering,2.3,11/05/2024 15:31,15,57.158.188.246,Mobile,435,0.05,FALSE,FALSE,1,legit,normal
+APP00791,Alexandra Thompson,favila452@hotmail.com,323985341,IBA Karachi,Accounting,2.07,21/06/2024 16:13,16,155.94.177.50,Desktop,572,0.46,FALSE,FALSE,1,legit,normal
+APP00907,Charles Ross,lamberttroy@tempmail.com,321142249,Quaid-i-Azam University,Mechanical Engineering,2.55,11/04/2024 16:12,16,178.238.117.1,Desktop,442,0.399,TRUE,FALSE,1,legit,suspicious
+APP00842,David Rodriguez,treed@live.com,335592340,Bahria University,Accounting,2.18,31/05/2024 3:24,3,60.79.42.208,Tablet,615,0.387,FALSE,FALSE,1,legit,suspicious
+APP00523,Joshua Green,jamie58785@iba.edu.pk,321377156,NED University,Mechanical Engineering,2.59,23/02/2024 13:12,13,28.94.2.220,Mobile,317,0.293,FALSE,FALSE,1,university,normal
+APP00309,Debra Rodriguez,antonio85161@nust.edu.pk,302698824,Quaid-i-Azam University,Software Engineering,3.85,14/04/2024 19:35,19,88.212.218.98,Tablet,859,0.297,FALSE,FALSE,1,university,normal
+APP00584,Lisa Palmer,tonya52809@hotmail.com,314853765,NUST,Electrical Engineering,3.63,05/05/2024 21:13,21,31.80.38.38,Mobile,725,0.255,FALSE,FALSE,1,legit,normal
+APP00266,Jessica Harris,tfreeman919@yahoo.com,303349030,GIK Institute,Computer Science,3.12,08/04/2024 13:27,13,6.24.137.195,Desktop,442,0.136,FALSE,FALSE,1,legit,normal
+APP00363,Janet Hughes,moorechristopher221@nust.edu.pk,334197381,Bahria University,Business Administration,2.2,16/04/2024 8:59,8,35.3.139.231,Desktop,768,0.324,FALSE,FALSE,1,university,normal
+APP00535,Lisa Martin,moniquewilliams790@uet.edu.pk,336492998,COMSATS,Accounting,3.25,24/01/2024 11:52,11,166.244.70.152,Tablet,262,0.497,FALSE,FALSE,1,university,normal
+APP00381,Nicholas Wilson,joshuaking856@nust.edu.pk,304449052,Air University,Mechanical Engineering,3.34,21/04/2024 18:52,18,120.132.210.170,Desktop,193,0.085,FALSE,FALSE,1,university,normal
+APP00935,Anna Moore,zlittle@hotmail.com,315021865,SZABIST,Software Engineering,2.58,17/05/2024 21:15,21,150.139.52.66,Desktop,863,0.851,FALSE,FALSE,1,legit,suspicious
+APP00067,Carrie Smith,craig29117@lums.edu.pk,307722755,COMSATS,Computer Science,3.1,24/06/2024 8:09,8,54.20.58.28,Desktop,272,0.522,FALSE,FALSE,1,university,normal
+APP00853,Matthew Browning,mooremichael@guerrillamail.com,322662054,University of Punjab,Computer Science,2.33,09/04/2024 10:22,10,62.225.35.2,Desktop,879,0.434,TRUE,FALSE,1,legit,suspicious
+APP00068,Ryan Humphrey,washingtonshane255@yahoo.com,307982241,NED University,Data Science,3.5,27/02/2024 20:33,20,102.178.170.108,Mobile,509,0.243,FALSE,FALSE,1,legit,normal
+APP01053,Joel Lopez,user5500@mailinator.com,3004236994,PMAS-UAAR,Mechanical Engineering,0.32,12/01/2024 3:01,3,197.67.240.58,Mobile,5,0.956,TRUE,FALSE,5,disposable,fake
+APP00013,Michael Davis,martinezbrian520@hotmail.com,306007072,PMAS-UAAR,Accounting,2.96,20/02/2024 10:23,10,189.54.213.189,Mobile,900,0.524,FALSE,FALSE,1,legit,normal
+APP00353,Elizabeth Benson,owensheidi186@lums.edu.pk,337016291,NED University,Computer Science,3.64,03/02/2024 15:58,15,59.43.111.213,Mobile,619,0.226,FALSE,FALSE,1,university,normal
+APP00602,Mary Webb,ortizlarry787@lums.edu.pk,318684648,University of Punjab,Business Administration,2.3,19/05/2024 16:21,16,111.36.202.51,Desktop,782,0.261,FALSE,FALSE,1,university,normal
+APP00983,Justin Rogers,brett99@gmail.com,334367185,NUST,Computer Science,2,03/06/2024 22:07,22,62.46.230.129,Mobile,652,0.801,FALSE,FALSE,1,legit,suspicious
+APP00295,Michelle Marshall,larry24277@nust.edu.pk,311437264,Quaid-i-Azam University,Data Science,2.42,12/03/2024 8:51,8,210.147.72.48,Desktop,603,0.422,FALSE,FALSE,1,university,normal
+APP00635,Susan Cox,jasonmccoy34@gmail.com,316084244,University of Punjab,Accounting,2.31,20/04/2024 10:19,10,104.71.249.163,Mobile,852,0.42,FALSE,FALSE,1,legit,normal
+APP00850,Katherine David,ccoleman@hotmail.com,318041170,PMAS-UAAR,Software Engineering,2.62,21/04/2024 14:01,14,110.29.40.26,Mobile,738,0.81,FALSE,FALSE,1,legit,suspicious
+APP00185,Matthew Ramirez,brittney606@hotmail.com,317826774,SZABIST,Electrical Engineering,2.91,21/02/2024 20:18,20,170.244.102.243,Mobile,448,0.033,FALSE,FALSE,1,legit,normal
+APP00579,Michael Patterson,danieljamie45@lums.edu.pk,301880075,University of Punjab,Data Science,2.33,08/01/2024 15:32,15,9.113.195.73,Mobile,238,0.129,FALSE,FALSE,1,university,normal
+APP00355,Rebecca Evans,aaron07532@nu.edu.pk,308261982,SZABIST,Accounting,2.47,29/03/2024 18:43,18,156.60.111.81,Mobile,776,0.461,FALSE,FALSE,1,university,normal
+APP00332,Jamie Mckinney,yglover303@lums.edu.pk,328022366,University of Karachi,Electrical Engineering,3.4,29/05/2024 19:36,19,136.196.212.159,Mobile,314,0.392,FALSE,FALSE,1,university,normal
+APP00883,Amanda Guzman,michael85@gmail.com,324678901,Bahria University,Business Administration,2.34,05/01/2024 16:42,16,183.60.215.23,Mobile,21,0.41,FALSE,FALSE,1,legit,suspicious
+APP00320,Joseph Davenport,kflores586@lums.edu.pk,331628569,LUMS,Business Administration,2.77,07/06/2024 17:43,17,69.230.38.13,Mobile,830,0.218,FALSE,FALSE,1,university,normal
+APP00980,Sarah Vaughn,robertreese@hotmail.com,307587730,LUMS,Electrical Engineering,3.31,28/04/2024 1:48,1,1.142.20.18,Mobile,650,0.03,FALSE,FALSE,1,legit,suspicious
+APP00920,Tony Nixon,tharrington@throwam.com,315352802,LUMS,Mechanical Engineering,2.1,19/04/2024 13:48,13,89.99.141.81,Mobile,424,0.192,FALSE,FALSE,1,disposable,suspicious
+APP00990,John Hale,elizabeth47@gmail.com,332144375,University of Punjab,Mechanical Engineering,3.26,06/04/2024 15:38,15,176.189.149.35,Mobile,794,0.39,TRUE,FALSE,1,legit,suspicious
+APP00725,Brooke Allen,michael89420@uet.edu.pk,334906109,University of Punjab,Electrical Engineering,2.64,12/01/2024 18:56,18,161.73.123.32,Desktop,573,0.355,FALSE,FALSE,1,university,normal
+APP00508,Lisa Robinson,katherine89807@uet.edu.pk,318639301,Bahria University,Data Science,2.68,10/01/2024 9:49,9,172.224.77.199,Mobile,426,0.494,FALSE,FALSE,1,university,normal
+APP00552,Anthony Forbes,kevinfisher389@outlook.com,338962291,UET Lahore,Software Engineering,3.01,21/04/2024 8:18,8,58.17.185.145,Mobile,579,0.174,FALSE,FALSE,1,legit,normal
+APP00291,Casey Fisher,wrightmichael126@nu.edu.pk,308734211,FAST NUCES,Software Engineering,3.76,20/04/2024 21:46,21,21.181.52.95,Mobile,524,0.211,FALSE,FALSE,1,university,normal
+APP00003,Jo Cline,mendozaeric285@uet.edu.pk,303678638,Bahria University,Electrical Engineering,2.65,09/02/2024 11:48,11,102.117.243.124,Mobile,464,0.209,FALSE,FALSE,1,university,normal
+APP00007,Daniel Lopez,mitchellanderson547@hotmail.com,313741438,COMSATS,Electrical Engineering,2.51,12/06/2024 19:35,19,22.175.68.157,Desktop,344,0.464,FALSE,FALSE,1,legit,normal
+APP00585,Natalie Anderson,uphillips748@gmail.com,335138170,IBA Karachi,Business Administration,2.83,26/02/2024 22:59,22,129.66.78.50,Tablet,725,0.503,FALSE,FALSE,1,legit,normal
+APP00783,Brian Berry,alejandra44147@gmail.com,332073239,PMAS-UAAR,Electrical Engineering,3.15,04/03/2024 16:21,16,165.81.240.115,Tablet,702,0.253,FALSE,FALSE,1,legit,normal
+APP00854,Sydney Johnson,robert36@mailinator.com,315346322,FAST NUCES,Accounting,3,09/02/2024 18:08,18,182.221.102.89,Mobile,266,0.404,FALSE,FALSE,1,disposable,suspicious
+APP00238,Zachary Morales,michele01991@nust.edu.pk,328221845,NUST,Computer Science,2.19,26/02/2024 16:47,16,116.229.123.237,Desktop,651,0.378,FALSE,FALSE,1,university,normal
+APP00942,Joseph Marquez,sergio99@tempmail.com,334238912,UET Lahore,Software Engineering,2.39,12/03/2024 14:06,14,25.21.229.4,Desktop,717,0.323,FALSE,FALSE,1,disposable,suspicious
+APP00539,Margaret Ellis,hwest404@uet.edu.pk,327422144,University of Karachi,Electrical Engineering,2.83,24/02/2024 18:11,18,5.149.181.185,Mobile,606,0.305,FALSE,FALSE,1,university,normal
+APP00880,Jonathan Madden,oavila@gmail.com,339452659,Bahria University,Accounting,3.02,18/03/2024 2:14,2,72.247.180.126,Desktop,423,0.304,FALSE,FALSE,1,legit,suspicious
+APP00216,Jeffrey Baker,wadejacob383@lums.edu.pk,309106820,SZABIST,Electrical Engineering,2.03,16/05/2024 16:26,16,198.225.91.54,Mobile,132,0.397,FALSE,FALSE,1,university,normal
+APP00978,Daniel Lane,qbell@throwam.com,319834402,COMSATS,Accounting,2.61,24/06/2024 19:22,19,138.57.44.131,Mobile,599,0.257,FALSE,FALSE,1,disposable,suspicious
+APP00532,Charles Swanson,nicole19411@lums.edu.pk,335002629,NED University,Software Engineering,3.04,03/05/2024 14:04,14,92.143.59.226,Mobile,468,0.382,FALSE,FALSE,1,university,normal
+APP00786,Kristina Tyler,bonnieolsen281@hotmail.com,322119776,Bahria University,Accounting,3.37,25/02/2024 22:31,22,58.55.238.53,Tablet,541,0.304,FALSE,FALSE,1,legit,normal
+APP00678,Jennifer Miller,angelaadams609@live.com,306526866,FAST NUCES,Accounting,3.18,25/04/2024 13:46,13,74.164.150.107,Tablet,871,0.438,FALSE,FALSE,1,legit,normal
+APP00984,Carrie Lewis,blackwellelizabeth@outlook.com,331933705,University of Punjab,Computer Science,2.58,03/05/2024 4:52,4,66.134.139.210,Desktop,360,0.301,FALSE,FALSE,1,legit,suspicious
+APP00622,James Thomas,xmiller684@live.com,302619061,GIK Institute,Computer Science,3.75,22/02/2024 17:57,17,182.175.215.126,Mobile,324,0.193,FALSE,FALSE,1,legit,normal
+APP00257,Gary Taylor,jtorres466@nu.edu.pk,336491002,NED University,Computer Science,3.65,24/01/2024 19:29,19,2.36.170.4,Desktop,770,0.197,FALSE,FALSE,1,university,normal
+APP00669,Aaron Williamson,scotthartman727@uet.edu.pk,301089942,UET Lahore,Data Science,3.18,18/03/2024 14:42,14,126.185.89.217,Mobile,499,0.491,FALSE,FALSE,1,university,normal
+APP00261,Justin Matthews,jessica4596@live.com,325200835,NUST,Business Administration,3.26,15/06/2024 10:03,10,176.67.68.79,Desktop,525,0.399,FALSE,FALSE,1,legit,normal
+APP00905,Jody Powell,guerraronald@hotmail.com,302751542,NUST,Business Administration,3.18,26/03/2024 8:15,8,207.205.159.171,Mobile,41,0.059,FALSE,FALSE,7,legit,suspicious
+APP00615,Christine Fletcher,vatkins527@yahoo.com,314074382,GIK Institute,Computer Science,3.14,12/02/2024 16:20,16,104.19.255.96,Desktop,443,0.377,FALSE,FALSE,1,legit,normal
+APP00366,Bryan Brown,hickslauren938@uet.edu.pk,315590177,University of Karachi,Business Administration,3.84,25/04/2024 20:08,20,186.14.146.156,Mobile,261,0.385,FALSE,FALSE,1,university,normal
+APP00891,Cory Richardson,carolynestrada@outlook.com,333472567,Quaid-i-Azam University,Accounting,2.56,24/06/2024 14:43,14,221.129.39.110,Desktop,68,0.062,FALSE,FALSE,3,legit,suspicious
+APP00701,James Velazquez,westandrew33@iba.edu.pk,306666248,University of Karachi,Computer Science,3.17,31/01/2024 16:14,16,223.125.105.250,Mobile,618,0.187,FALSE,FALSE,1,university,normal
+APP00271,Shannon Tran,garciajack434@nust.edu.pk,332382909,SZABIST,Data Science,3.02,09/02/2024 12:05,12,46.120.39.116,Mobile,437,0.507,FALSE,FALSE,1,university,normal
+APP00702,Jeremy Hudson,vweiss788@nu.edu.pk,305487758,University of Punjab,Software Engineering,3.62,11/05/2024 17:42,17,87.225.226.122,Desktop,226,0.51,FALSE,FALSE,1,university,normal
+APP00026,Miss Crystal Perry,melaniegibson84@uet.edu.pk,339770838,Quaid-i-Azam University,Business Administration,2.39,21/03/2024 11:16,11,32.112.132.246,Mobile,525,0.355,FALSE,FALSE,1,university,normal
+APP00437,Christina Huber,todd77166@yahoo.com,324828861,Quaid-i-Azam University,Business Administration,3.24,09/03/2024 17:41,17,152.111.55.113,Mobile,524,0.245,FALSE,FALSE,1,legit,normal
+APP00278,Erin Gross,howardcolton567@gmail.com,334766741,Quaid-i-Azam University,Software Engineering,2.79,22/03/2024 12:52,12,222.138.48.173,Desktop,199,0.066,FALSE,FALSE,1,legit,normal
+APP01008,Jessica Dorsey,user5500@mailinator.com,3005193173,GIK Institute,Data Science,0.27,02/04/2024 3:02,3,113.129.253.61,Mobile,6,0.895,TRUE,TRUE,15,disposable,fake
+APP00478,Randall Washington,matthewhoffman668@nust.edu.pk,319795418,IBA Karachi,Software Engineering,2.14,20/04/2024 13:43,13,88.31.78.48,Mobile,709,0.369,FALSE,FALSE,1,university,normal
+APP00107,Jason Rose,mary29745@gmail.com,328684678,SZABIST,Computer Science,2.12,02/05/2024 21:25,21,119.100.66.28,Desktop,556,0.27,FALSE,FALSE,1,legit,normal
+APP00630,Adriana Brown,guzmanjessica206@nu.edu.pk,333059607,IBA Karachi,Mechanical Engineering,2.81,07/05/2024 12:48,12,101.194.146.227,Desktop,850,0.327,FALSE,FALSE,1,university,normal
+APP00056,Krista Brown,lowejohn952@gmail.com,327296605,University of Karachi,Accounting,2.38,31/05/2024 19:53,19,6.81.209.81,Mobile,762,0.383,FALSE,FALSE,1,legit,normal
+APP01020,Patricia Cowan,user7140@throwam.com,3009545877,NUST,Software Engineering,3.68,26/04/2024 23:02,23,3.115.24.253,Mobile,3,0.993,TRUE,FALSE,8,disposable,fake
+APP00214,Matthew Cline,along472@lums.edu.pk,316908535,LUMS,Software Engineering,3.37,05/05/2024 10:58,10,203.68.14.158,Tablet,675,0.526,FALSE,FALSE,1,university,normal
+APP00121,Lindsay Parker MD,hendersonkaren74@nu.edu.pk,331709714,University of Karachi,Computer Science,2.87,20/01/2024 21:20,21,175.44.72.35,Mobile,709,0.222,FALSE,FALSE,1,university,normal
+APP00679,Renee Mitchell,brownashley217@hotmail.com,305747180,Quaid-i-Azam University,Mechanical Engineering,2.11,19/01/2024 16:38,16,67.25.3.67,Mobile,510,0.14,FALSE,FALSE,1,legit,normal
+APP00290,Alexandra Pena,bryan39597@yahoo.com,322258076,FAST NUCES,Computer Science,2.38,14/06/2024 15:51,15,57.46.173.114,Mobile,251,0.466,FALSE,FALSE,1,legit,normal
+APP00073,Mr. Christopher Holmes Jr.,caleb47706@lums.edu.pk,327752972,UET Lahore,Data Science,3.03,22/04/2024 9:38,9,87.34.77.125,Tablet,160,0.404,FALSE,FALSE,1,university,normal
+APP00627,Aaron Cohen,yguzman119@lums.edu.pk,335758210,COMSATS,Data Science,3.4,24/06/2024 21:28,21,102.105.159.208,Desktop,351,0.16,FALSE,FALSE,1,university,normal
+APP00362,Brandon Lozano,victoriafischer383@iba.edu.pk,301768029,University of Punjab,Software Engineering,2.94,14/04/2024 9:16,9,222.49.213.90,Mobile,745,0.066,FALSE,FALSE,1,university,normal
+APP00299,Walter Fields,pmartinez93@gmail.com,304902772,NED University,Software Engineering,2.04,02/05/2024 8:21,8,24.179.94.124,Mobile,748,0.072,FALSE,FALSE,1,legit,normal
+APP00835,Patricia Logan,josehutchinson@gmail.com,319178970,Bahria University,Electrical Engineering,2.58,17/06/2024 22:54,22,72.65.12.199,Tablet,283,0.777,FALSE,FALSE,1,legit,suspicious
+APP00430,Candace Mccoy,walterblevins982@lums.edu.pk,327139188,LUMS,Electrical Engineering,2.81,17/04/2024 19:48,19,214.103.52.230,Mobile,501,0.22,FALSE,FALSE,1,university,normal
+APP00680,Patricia Hester,karendavidson989@outlook.com,332496331,FAST NUCES,Mechanical Engineering,2.4,09/04/2024 20:25,20,185.173.131.79,Desktop,411,0.525,FALSE,FALSE,1,legit,normal
+APP00440,Tyler Anderson,lcunningham107@yahoo.com,323605071,NUST,Accounting,3.77,09/04/2024 12:14,12,217.154.129.203,Desktop,373,0.244,FALSE,FALSE,1,legit,normal
+APP00671,Emily Ortiz,kwilliams146@nust.edu.pk,322960284,Quaid-i-Azam University,Computer Science,3.86,07/05/2024 21:53,21,186.181.27.207,Desktop,407,0.509,FALSE,FALSE,1,university,normal
+APP00772,Jason Terry DDS,madams101@outlook.com,302197032,Quaid-i-Azam University,Computer Science,3.04,26/03/2024 11:43,11,203.86.188.250,Mobile,457,0.41,FALSE,FALSE,1,legit,normal
+APP00617,Jennifer Colon,hmiller349@nust.edu.pk,312718286,IBA Karachi,Software Engineering,2.96,18/02/2024 20:57,20,93.15.139.46,Desktop,692,0.457,FALSE,FALSE,1,university,normal
+APP00693,Erin Brown,tara79987@lums.edu.pk,338910276,FAST NUCES,Mechanical Engineering,2.85,03/03/2024 11:18,11,54.8.14.143,Desktop,703,0.215,FALSE,FALSE,1,university,normal
+APP00714,Laura Torres,ewarner607@iba.edu.pk,325049009,PMAS-UAAR,Mechanical Engineering,2.58,18/04/2024 16:07,16,72.13.82.145,Mobile,869,0.205,FALSE,FALSE,1,university,normal
+APP00307,Brandon Chandler,turnersamuel167@outlook.com,332236638,GIK Institute,Mechanical Engineering,2.06,06/01/2024 13:16,13,27.77.150.207,Mobile,227,0.094,FALSE,FALSE,1,legit,normal
+APP00421,Trevor Soto,wmcconnell980@iba.edu.pk,325196677,Bahria University,Electrical Engineering,3.84,24/05/2024 15:49,15,123.83.81.8,Desktop,369,0.529,FALSE,FALSE,1,university,normal
+APP00061,David Herring,marissasmith902@live.com,321170307,Air University,Software Engineering,2.16,14/04/2024 15:35,15,219.252.102.90,Mobile,896,0.262,FALSE,FALSE,1,legit,normal
+APP00459,Ronald Jones,davislisa165@iba.edu.pk,309911007,LUMS,Electrical Engineering,2.56,08/03/2024 16:23,16,5.77.187.221,Mobile,584,0.351,FALSE,FALSE,1,university,normal
+APP00093,Kelly Henderson,jamesdaniel764@uet.edu.pk,335801541,GIK Institute,Mechanical Engineering,2.44,31/03/2024 11:40,11,138.49.160.123,Desktop,314,0.373,FALSE,FALSE,1,university,normal
+APP00716,Robert Pearson,vyu825@outlook.com,316877681,UET Lahore,Business Administration,3.27,26/05/2024 18:08,18,17.125.200.214,Mobile,851,0.406,FALSE,FALSE,1,legit,normal
+APP00667,Penny Bryant,cgarcia379@outlook.com,332438456,FAST NUCES,Electrical Engineering,2.25,23/03/2024 19:25,19,1.117.195.191,Mobile,823,0.211,FALSE,FALSE,1,legit,normal
+APP01011,Joel Lopez,user531@tempmail.com,3004824407,FAST NUCES,Accounting,0.39,18/05/2024 1:01,1,177.219.29.131,Mobile,2,0.941,TRUE,TRUE,8,disposable,fake
+APP00281,Brittany Hunt,johnsonjeffrey751@outlook.com,313526084,FAST NUCES,Electrical Engineering,2.05,18/05/2024 13:40,13,3.128.221.59,Tablet,830,0.523,FALSE,FALSE,1,legit,normal
+APP00591,David Peterson,wardsteven754@nu.edu.pk,309635845,University of Punjab,Accounting,2.69,14/01/2024 9:24,9,75.244.172.211,Mobile,494,0.022,FALSE,FALSE,1,university,normal
+APP00465,Angela Todd,ochoadonna42@iba.edu.pk,306098672,NUST,Software Engineering,3.83,25/01/2024 9:46,9,217.47.162.159,Desktop,356,0.104,FALSE,FALSE,1,university,normal
+APP00343,Kevin Matthews,thomassalazar174@iba.edu.pk,307150383,Bahria University,Accounting,3.51,06/04/2024 22:40,22,23.93.76.255,Desktop,381,0.343,FALSE,FALSE,1,university,normal
+APP00183,Carl Kelley,williamsthomas766@live.com,334590102,IBA Karachi,Mechanical Engineering,3.02,23/05/2024 19:17,19,189.207.127.95,Mobile,260,0.407,FALSE,FALSE,1,legit,normal
+APP00542,Ashley Bradshaw,jessica36466@hotmail.com,338550515,University of Karachi,Business Administration,2.43,18/04/2024 17:00,17,103.4.143.228,Mobile,711,0.402,FALSE,FALSE,1,legit,normal
+APP00391,Brenda Zuniga,goodmansamantha173@nust.edu.pk,306254872,IBA Karachi,Mechanical Engineering,2.42,13/06/2024 14:17,14,218.62.195.34,Mobile,488,0.403,FALSE,FALSE,1,university,normal
+APP00111,Jesse Allen,mannnicole384@live.com,318956894,NUST,Computer Science,3.58,24/01/2024 14:06,14,221.66.56.164,Desktop,882,0.446,FALSE,FALSE,1,legit,normal
+APP00847,Jeffrey Mendez,ethan66@hotmail.com,312661097,SZABIST,Mechanical Engineering,2.09,10/01/2024 2:09,2,136.80.254.130,Tablet,426,0.118,FALSE,FALSE,1,legit,suspicious
+APP00596,Alicia Sims,mallory88155@lums.edu.pk,319735688,SZABIST,Computer Science,2.56,23/06/2024 16:59,16,52.91.65.235,Mobile,255,0.231,FALSE,FALSE,1,university,normal
+APP00531,James Sherman,crystalstewart619@nu.edu.pk,319521981,NUST,Electrical Engineering,3.55,28/01/2024 13:35,13,135.214.183.190,Mobile,785,0.166,FALSE,FALSE,1,university,normal
+APP00543,Mrs. Wendy Stone DVM,baileyblake276@iba.edu.pk,337156735,FAST NUCES,Computer Science,3.08,29/06/2024 13:07,13,184.152.124.159,Mobile,714,0.38,FALSE,FALSE,1,university,normal
+APP00347,Diane Gilbert,zstone721@nu.edu.pk,335955170,LUMS,Computer Science,3.04,23/02/2024 19:59,19,11.45.229.131,Mobile,612,0.002,FALSE,FALSE,1,university,normal
+APP00922,Jacob Lopez,millerchristine@yahoo.com,326310245,FAST NUCES,Software Engineering,3.75,07/02/2024 4:55,4,37.221.134.218,Mobile,444,0.533,FALSE,FALSE,1,legit,suspicious
+APP00262,Timothy Evans,bsimpson440@outlook.com,302596917,FAST NUCES,Software Engineering,2.91,03/02/2024 17:14,17,87.80.123.55,Desktop,651,0.005,FALSE,FALSE,1,legit,normal
+APP01090,Regina Peterson,user1073@tempmail.com,3002086368,Quaid-i-Azam University,Software Engineering,3.64,31/01/2024 2:02,2,113.129.253.61,Mobile,5,0.981,TRUE,TRUE,12,disposable,fake
+APP00676,Rebecca Garcia,cortezdawn539@gmail.com,317986351,University of Punjab,Computer Science,2.47,07/05/2024 18:06,18,120.231.100.133,Mobile,456,0.375,FALSE,FALSE,1,legit,normal
+APP00902,Amy Davis,danabarnes@yahoo.com,312006646,University of Punjab,Accounting,2.06,14/02/2024 16:10,16,90.40.236.106,Mobile,131,0.233,TRUE,FALSE,1,legit,suspicious
+APP00869,Brandi Robinson,tnelson@hotmail.com,305421311,Bahria University,Software Engineering,3.3,19/04/2024 11:30,11,32.79.117.182,Desktop,118,0.057,FALSE,FALSE,7,legit,suspicious
+APP00138,Joseph Mitchell,fvargas837@hotmail.com,313321942,PMAS-UAAR,Business Administration,2.1,03/05/2024 21:23,21,122.237.86.121,Tablet,687,0.391,FALSE,FALSE,1,legit,normal
+APP00594,Katie Jarvis,lopezjoe540@iba.edu.pk,308888040,Bahria University,Data Science,3.29,16/05/2024 22:18,22,198.95.93.236,Desktop,582,0.44,FALSE,FALSE,1,university,normal
+APP00708,Kyle Watts,thompsonbrian454@gmail.com,311166911,Bahria University,Mechanical Engineering,2.98,18/01/2024 9:21,9,12.198.192.5,Mobile,442,0.425,FALSE,FALSE,1,legit,normal
+APP00893,Molly Rush,qgarcia@yahoo.com,333520273,University of Punjab,Accounting,3.34,08/06/2024 4:18,4,195.62.179.116,Tablet,476,0.149,FALSE,FALSE,1,legit,suspicious
+APP00995,Sierra Weiss,ejones@gmail.com,313719411,University of Karachi,Mechanical Engineering,3.03,19/02/2024 9:37,9,177.231.140.203,Desktop,144,0.368,TRUE,FALSE,1,legit,suspicious
+APP00690,Kimberly Caldwell,olivia34744@uet.edu.pk,336080140,NED University,Mechanical Engineering,3.85,02/04/2024 19:43,19,170.71.19.189,Desktop,826,0.443,FALSE,FALSE,1,university,normal
+APP00717,Thomas Morrison,smithsarah336@yahoo.com,317061063,COMSATS,Computer Science,2.28,18/04/2024 21:26,21,24.180.114.99,Mobile,203,0.234,FALSE,FALSE,1,legit,normal
+APP00030,Mrs. Elizabeth Lamb,lindadickson209@nu.edu.pk,329479356,COMSATS,Business Administration,3.72,14/01/2024 9:40,9,13.60.167.33,Desktop,553,0.024,FALSE,FALSE,1,university,normal
+APP00166,Kyle Taylor,kelly47495@live.com,317813102,UET Lahore,Electrical Engineering,2.14,16/01/2024 10:28,10,101.82.146.25,Mobile,545,0.112,FALSE,FALSE,1,legit,normal
+APP00249,Joseph Thomas,katherine15669@iba.edu.pk,337864135,SZABIST,Electrical Engineering,2.79,23/04/2024 15:10,15,202.249.234.209,Desktop,204,0.438,FALSE,FALSE,1,university,normal
+APP00308,Jason Gordon,taylormarcus165@nust.edu.pk,302562037,Quaid-i-Azam University,Data Science,3.87,03/05/2024 19:01,19,199.158.9.248,Tablet,561,0.091,FALSE,FALSE,1,university,normal
+APP00536,Cindy Small,kimberly14776@gmail.com,313503436,COMSATS,Data Science,2.55,06/06/2024 17:28,17,67.235.18.100,Mobile,320,0.483,FALSE,FALSE,1,legit,normal
+APP00368,Brian Moore,inelson516@hotmail.com,322936178,GIK Institute,Business Administration,3.07,29/05/2024 17:42,17,51.163.4.254,Mobile,847,0.411,FALSE,FALSE,1,legit,normal
+APP00335,Brandon Cohen,xhess267@nu.edu.pk,328780612,PMAS-UAAR,Computer Science,2.89,11/06/2024 17:37,17,209.150.29.166,Mobile,755,0.489,FALSE,FALSE,1,university,normal
+APP00865,Sara Hawkins,jwilliams@yahoo.com,328280643,FAST NUCES,Business Administration,3.72,20/02/2024 9:12,9,32.79.117.182,Mobile,44,0.217,FALSE,FALSE,5,legit,suspicious
+APP00762,Thomas Harvey,ystone23@outlook.com,315392083,University of Punjab,Computer Science,2.04,22/06/2024 10:24,10,133.28.177.201,Desktop,790,0.061,FALSE,FALSE,1,legit,normal
+APP00450,James Hernandez,sandersjasmine475@nu.edu.pk,306540652,NUST,Mechanical Engineering,3.43,07/02/2024 8:17,8,193.9.138.142,Mobile,521,0.259,FALSE,FALSE,1,university,normal
+APP00425,Omar Crosby,jordanzachary755@lums.edu.pk,314940319,Bahria University,Software Engineering,3.66,22/02/2024 11:12,11,140.89.212.222,Desktop,375,0.196,FALSE,FALSE,1,university,normal
+APP01089,Philip Lucas,user7140@throwam.com,3009670766,University of Karachi,Electrical Engineering,4.31,30/05/2024 3:02,3,197.67.240.58,Mobile,5,0.984,TRUE,FALSE,20,disposable,fake
+APP00778,Matthew Barr,qreynolds645@uet.edu.pk,337397463,IBA Karachi,Electrical Engineering,2.12,08/04/2024 11:30,11,179.81.166.200,Mobile,231,0.529,FALSE,FALSE,1,university,normal
+APP00066,Mary Meadows,troyhanson654@hotmail.com,332721135,PMAS-UAAR,Computer Science,3.09,30/04/2024 15:28,15,88.183.252.61,Mobile,468,0.028,FALSE,FALSE,1,legit,normal
+APP00449,Amanda Jones,timothy15745@lums.edu.pk,304905912,NUST,Software Engineering,2.03,25/02/2024 13:26,13,191.40.190.178,Desktop,439,0.274,FALSE,FALSE,1,university,normal
+APP00981,Eric Goodman,drobinson@mailinator.com,322634085,PMAS-UAAR,Business Administration,3.1,25/06/2024 13:55,13,30.60.103.72,Mobile,182,0.322,TRUE,FALSE,1,legit,suspicious
+APP01027,Whitney Krueger,user9152@throwam.com,3002488335,Air University,Mechanical Engineering,0.16,22/05/2024 2:01,2,3.115.24.253,Mobile,5,0.954,TRUE,TRUE,12,disposable,fake
+APP00255,Ronald French,julie85941@nust.edu.pk,305652716,PMAS-UAAR,Accounting,2.24,03/02/2024 11:09,11,75.209.134.196,Mobile,848,0.136,FALSE,FALSE,1,university,normal
+APP00797,Christopher Jimenez,morgan66512@uet.edu.pk,309995633,GIK Institute,Mechanical Engineering,3.08,05/03/2024 9:38,9,85.216.239.213,Tablet,452,0.383,FALSE,FALSE,1,university,normal
+APP00313,Tiffany Elliott,aburch477@lums.edu.pk,324795715,PMAS-UAAR,Business Administration,3.07,08/02/2024 20:44,20,165.76.102.72,Mobile,803,0.367,FALSE,FALSE,1,university,normal
+APP01066,Regina Peterson,user9152@throwam.com,3004017812,University of Karachi,Software Engineering,4.15,07/03/2024 23:01,23,177.219.29.131,Mobile,5,0.936,TRUE,FALSE,7,disposable,fake
+APP00222,Lori Alexander,qhill17@nu.edu.pk,313419132,GIK Institute,Mechanical Engineering,3.35,11/04/2024 22:04,22,20.103.120.66,Mobile,426,0.132,FALSE,FALSE,1,university,normal
+APP00236,Nathan Burke,garzakenneth491@uet.edu.pk,339965197,Air University,Mechanical Engineering,3.31,19/05/2024 8:50,8,192.32.238.98,Desktop,488,0.447,FALSE,FALSE,1,university,normal
+APP00434,Judith Alexander,rharris267@nu.edu.pk,327044941,Air University,Data Science,3.77,06/03/2024 13:01,13,151.6.226.123,Mobile,541,0.477,FALSE,FALSE,1,university,normal
+APP00600,Brian Wilkins,hnewman860@hotmail.com,313705405,IBA Karachi,Computer Science,2.08,22/03/2024 17:08,17,179.122.99.25,Mobile,571,0.101,FALSE,FALSE,1,legit,normal
+APP00306,Rachel Sanchez,monicaprice993@nust.edu.pk,317946088,COMSATS,Electrical Engineering,2.67,06/04/2024 9:53,9,73.249.195.225,Desktop,610,0.318,FALSE,FALSE,1,university,normal
+APP00925,Angela Ewing,blankenshiphannah@mailinator.com,309374022,SZABIST,Electrical Engineering,2.81,31/03/2024 13:53,13,107.202.27.228,Mobile,675,0.536,TRUE,FALSE,1,legit,suspicious
+APP01052,Joel Lopez,user4532@mailinator.com,3002635366,PMAS-UAAR,Data Science,3.83,05/01/2024 3:02,3,154.254.232.9,Mobile,6,0.942,TRUE,TRUE,17,disposable,fake
+APP01046,Fernando Aguirre,user954@throwam.com,3008942448,IBA Karachi,Software Engineering,3.61,07/02/2024 2:01,2,154.254.232.9,Mobile,2,0.889,TRUE,FALSE,6,disposable,fake
+APP00250,Erik Taylor,bautistamark300@outlook.com,305611266,IBA Karachi,Data Science,2.55,27/04/2024 17:47,17,6.19.25.123,Desktop,627,0.062,FALSE,FALSE,1,legit,normal
+APP00637,Jesse Gonzalez,jennifer59693@uet.edu.pk,325772070,Quaid-i-Azam University,Computer Science,2.05,12/01/2024 10:53,10,190.53.167.95,Mobile,495,0.408,FALSE,FALSE,1,university,normal
+APP00491,Joel Avila,paulbowman189@yahoo.com,323441467,Bahria University,Computer Science,3.45,15/04/2024 14:19,14,84.138.159.140,Desktop,573,0.452,FALSE,FALSE,1,legit,normal
+APP00072,Michelle Osborne,courtney19931@hotmail.com,323386328,NUST,Computer Science,2.32,19/03/2024 17:47,17,165.221.30.127,Tablet,702,0.242,FALSE,FALSE,1,legit,normal
+APP00095,Angela Wolfe,kristen94180@nust.edu.pk,313217273,GIK Institute,Data Science,3.67,03/04/2024 16:32,16,53.243.35.206,Desktop,399,0.141,FALSE,FALSE,1,university,normal
+APP00034,Margaret Michael,dschroeder886@outlook.com,313970445,University of Punjab,Electrical Engineering,2.05,26/03/2024 20:59,20,59.103.169.255,Desktop,541,0.475,FALSE,FALSE,1,legit,normal
+APP00719,Emily Oconnor,terrelldavid511@uet.edu.pk,338383316,Bahria University,Electrical Engineering,3.39,16/04/2024 21:10,21,157.204.224.244,Desktop,267,0.267,FALSE,FALSE,1,university,normal
+APP00260,Peter Walker,petersonalexander452@hotmail.com,331011340,University of Karachi,Software Engineering,3.89,03/02/2024 22:41,22,222.215.242.64,Mobile,429,0.513,FALSE,FALSE,1,legit,normal
+APP00205,Alison Gutierrez,nancy77642@hotmail.com,339315137,FAST NUCES,Business Administration,3.79,20/06/2024 14:50,14,160.135.209.246,Mobile,657,0.229,FALSE,FALSE,1,legit,normal
+APP00458,Greg Le,drusso556@live.com,334183910,NED University,Software Engineering,3.03,23/03/2024 19:29,19,71.96.205.71,Tablet,401,0.329,FALSE,FALSE,1,legit,normal
+APP00975,Lisa Williams,tracy37@live.com,312442898,Bahria University,Business Administration,2.28,20/02/2024 14:37,14,23.226.49.6,Mobile,202,0.879,FALSE,FALSE,1,legit,suspicious
+APP00436,Patricia Skinner,thomaspriscilla475@live.com,313811450,SZABIST,Mechanical Engineering,3.76,17/04/2024 18:39,18,115.147.91.226,Mobile,705,0.499,FALSE,FALSE,1,legit,normal
+APP00078,Destiny Peters,rachel80371@iba.edu.pk,338416216,GIK Institute,Computer Science,2.39,20/05/2024 10:59,10,183.143.131.245,Mobile,414,0.384,FALSE,FALSE,1,university,normal
+APP00085,Ashley Johnson,michaelcuevas933@iba.edu.pk,331257489,Bahria University,Software Engineering,2.78,16/06/2024 10:04,10,19.196.13.44,Desktop,600,0.146,FALSE,FALSE,1,university,normal
+APP00965,Jill Gomez,diane37@gmail.com,314143117,Quaid-i-Azam University,Electrical Engineering,2.28,04/01/2024 18:30,18,198.10.140.210,Mobile,558,0.098,TRUE,FALSE,1,legit,suspicious
+APP00083,Terry Hunter,qkelly715@outlook.com,317425184,IBA Karachi,Mechanical Engineering,3.47,12/01/2024 13:47,13,36.4.41.35,Desktop,604,0.446,FALSE,FALSE,1,legit,normal
+APP00494,Mark Jones,anthony64873@hotmail.com,339245088,COMSATS,Software Engineering,2.31,27/02/2024 8:26,8,101.243.50.45,Tablet,135,0.523,FALSE,FALSE,1,legit,normal
+APP00567,Jaime Barnes,raymondkatie659@iba.edu.pk,329383308,Air University,Mechanical Engineering,3.54,05/01/2024 8:21,8,48.248.77.137,Mobile,177,0.397,FALSE,FALSE,1,university,normal
+APP00919,Erica Mcconnell,riosterri@yahoo.com,308095426,UET Lahore,Business Administration,3.24,22/01/2024 10:04,10,163.170.28.12,Mobile,23,0.164,FALSE,FALSE,1,legit,suspicious
+APP00618,Anthony Lynch,williamsrobin867@iba.edu.pk,308001908,COMSATS,Computer Science,2.22,03/02/2024 22:01,22,21.1.129.208,Mobile,611,0.38,FALSE,FALSE,1,university,normal
+APP00803,Kenneth Huffman,austin72534@nust.edu.pk,324079382,COMSATS,Accounting,2.01,05/05/2024 9:12,9,97.53.45.112,Desktop,173,0.078,FALSE,FALSE,1,university,normal
+APP00426,Curtis Gonzalez,bakerjennifer123@yahoo.com,309265544,NED University,Computer Science,3.45,18/05/2024 8:54,8,51.174.209.156,Mobile,613,0.173,FALSE,FALSE,1,legit,normal
+APP00534,Elijah Schroeder,rsmith118@lums.edu.pk,336458938,Air University,Computer Science,3.56,15/02/2024 12:25,12,88.88.72.19,Desktop,191,0.377,FALSE,FALSE,1,university,normal
+APP00351,Elizabeth Hogan,pruitthaley382@yahoo.com,324068039,NUST,Electrical Engineering,2.76,26/04/2024 12:53,12,5.82.192.36,Desktop,514,0.263,FALSE,FALSE,1,legit,normal
+APP00576,Mary Marshall,ubrown735@hotmail.com,332476750,SZABIST,Mechanical Engineering,3.49,30/03/2024 14:00,14,56.25.132.199,Mobile,691,0.065,FALSE,FALSE,1,legit,normal
+APP00006,Holly Massey,amandalindsey285@nust.edu.pk,337120868,LUMS,Business Administration,2.68,20/06/2024 12:44,12,87.89.241.66,Desktop,819,0.335,FALSE,FALSE,1,university,normal
+APP00311,Oscar Hale,sanchezjohn492@uet.edu.pk,312627170,FAST NUCES,Software Engineering,2.32,15/03/2024 9:30,9,111.209.141.44,Mobile,238,0.219,FALSE,FALSE,1,university,normal
+APP00754,Jeff Woods,joshua54111@outlook.com,301206168,NED University,Accounting,2.13,19/02/2024 22:36,22,12.16.136.125,Desktop,249,0.141,FALSE,FALSE,1,legit,normal
+APP00105,Calvin Moore,ryanphillips113@hotmail.com,303211291,FAST NUCES,Business Administration,3.5,01/03/2024 17:20,17,161.198.154.93,Mobile,136,0.029,FALSE,FALSE,1,legit,normal
+APP00098,James Smith,twatson391@uet.edu.pk,322817745,SZABIST,Software Engineering,2.9,07/06/2024 22:35,22,102.113.183.162,Tablet,455,0.122,FALSE,FALSE,1,university,normal
+APP00378,Chris Foster,charleswinters118@gmail.com,328477055,IBA Karachi,Accounting,3.17,08/06/2024 11:02,11,125.191.191.151,Tablet,818,0.21,FALSE,FALSE,1,legit,normal
+APP00828,Melissa Collins,fsalas@throwam.com,324697296,Bahria University,Business Administration,3.3,20/06/2024 9:42,9,148.108.36.190,Tablet,259,0.348,TRUE,FALSE,1,legit,suspicious
+APP00315,Paul Murray,billybailey81@live.com,331582647,Air University,Data Science,3.71,26/05/2024 18:39,18,40.57.140.109,Mobile,270,0.416,FALSE,FALSE,1,legit,normal
+APP00845,Gerald Smith,nbenson@yahoo.com,313704659,NUST,Data Science,2.5,09/01/2024 9:07,9,151.250.166.253,Mobile,14,0.531,FALSE,FALSE,1,legit,suspicious
+APP00507,Taylor Marquez,careyjames340@live.com,301822609,NUST,Electrical Engineering,3.89,11/02/2024 18:18,18,130.142.181.114,Desktop,745,0.385,FALSE,FALSE,1,legit,normal
+APP00063,Laura Lopez,kwilliams436@nu.edu.pk,326902401,Bahria University,Electrical Engineering,2.51,05/03/2024 11:07,11,185.105.4.105,Mobile,858,0.066,FALSE,FALSE,1,university,normal
+APP00282,Lisa Arnold,thumphrey778@gmail.com,336159172,NUST,Software Engineering,3.01,01/03/2024 14:31,14,57.180.196.74,Tablet,181,0.078,FALSE,FALSE,1,legit,normal
+APP00825,Elizabeth Cole,james90@tempmail.com,306844074,University of Karachi,Electrical Engineering,3.92,28/06/2024 22:06,22,39.230.179.132,Mobile,871,0.334,FALSE,FALSE,1,disposable,suspicious
+APP00267,Jaime Wiggins,loririvera255@yahoo.com,321450038,PMAS-UAAR,Mechanical Engineering,3.25,18/03/2024 11:33,11,201.161.0.43,Desktop,741,0.411,FALSE,FALSE,1,legit,normal
+APP00559,Sabrina Thomas,ugoodwin264@nu.edu.pk,312241464,UET Lahore,Mechanical Engineering,2.12,09/04/2024 13:03,13,203.96.224.27,Tablet,384,0.146,FALSE,FALSE,1,university,normal
+APP00239,Isabella Morris,crystal26457@outlook.com,327562142,COMSATS,Mechanical Engineering,3.29,25/06/2024 16:09,16,57.71.107.213,Tablet,473,0.266,FALSE,FALSE,1,legit,normal
+APP00428,Mia Watkins,aaron97490@nust.edu.pk,309430135,Quaid-i-Azam University,Electrical Engineering,3.63,14/02/2024 15:07,15,28.2.109.165,Desktop,835,0.174,FALSE,FALSE,1,university,normal
+APP00146,Stephen Gardner,holly7345@lums.edu.pk,337262974,UET Lahore,Accounting,2.03,18/01/2024 13:15,13,26.232.55.6,Desktop,870,0.057,FALSE,FALSE,1,university,normal
+APP01028,David Nichols,user451@mailinator.com,3004020978,University of Punjab,Business Administration,0.36,10/06/2024 23:02,23,3.115.24.253,Mobile,5,0.892,TRUE,TRUE,8,disposable,fake
+APP00433,Nancy Boyd,wsmith576@live.com,307684074,NUST,Accounting,2.31,25/02/2024 21:16,21,150.209.194.46,Desktop,607,0.053,FALSE,FALSE,1,legit,normal
+APP00621,Amanda Roth,deckermark44@nust.edu.pk,312808875,FAST NUCES,Mechanical Engineering,3.25,31/05/2024 8:30,8,28.87.200.160,Tablet,241,0.024,FALSE,FALSE,1,university,normal
+APP00119,Brandon Gibson,jenniferwilliams684@iba.edu.pk,321761976,IBA Karachi,Electrical Engineering,3.87,15/01/2024 8:13,8,153.141.223.45,Tablet,428,0.422,FALSE,FALSE,1,university,normal
+APP00674,Kayla Warner,cmorton42@lums.edu.pk,336981414,Bahria University,Data Science,2.92,06/05/2024 9:54,9,52.188.212.133,Tablet,857,0.068,FALSE,FALSE,1,university,normal
+APP00651,Timothy Jackson,oliviahorton407@yahoo.com,314960113,NUST,Data Science,3.4,31/01/2024 16:42,16,137.62.160.168,Tablet,714,0.512,FALSE,FALSE,1,legit,normal
+APP00251,Dennis Ballard,bowmanvirginia275@yahoo.com,321698108,GIK Institute,Accounting,2.84,25/02/2024 14:06,14,74.156.156.138,Desktop,873,0.413,FALSE,FALSE,1,legit,normal
+APP00486,Annette Cervantes,jonestyler342@live.com,337600153,Bahria University,Software Engineering,2.03,24/06/2024 13:22,13,24.170.75.153,Mobile,760,0.548,FALSE,FALSE,1,legit,normal
+APP00286,Katie Moody,fstein478@lums.edu.pk,327820148,NUST,Data Science,2.68,23/02/2024 15:19,15,163.195.148.224,Mobile,594,0.066,FALSE,FALSE,1,university,normal
+APP01099,Mary Carter,user9103@tempmail.com,3007779356,FAST NUCES,Electrical Engineering,0.34,05/01/2024 2:01,2,3.115.24.253,Mobile,7,0.915,TRUE,FALSE,16,disposable,fake
+APP00010,Donna Lee,reevesricky142@outlook.com,332525206,GIK Institute,Computer Science,3.64,09/02/2024 18:10,18,126.162.205.141,Mobile,816,0.035,FALSE,FALSE,1,legit,normal
+APP00480,Ronald Pratt,jessicataylor639@lums.edu.pk,318389750,FAST NUCES,Mechanical Engineering,2.44,24/06/2024 13:09,13,145.209.65.246,Desktop,895,0.047,FALSE,FALSE,1,university,normal
+APP00197,Theresa Edwards,frank99741@live.com,307642917,UET Lahore,Mechanical Engineering,2.01,25/02/2024 17:04,17,217.103.106.21,Mobile,166,0.385,FALSE,FALSE,1,legit,normal
+APP01004,Philip Lucas,user9900@yopmail.com,3006116030,Bahria University,Data Science,4.11,10/01/2024 2:03,2,177.219.29.131,Mobile,5,0.883,TRUE,FALSE,6,disposable,fake
+APP00371,Heather Chapman,christine70631@yahoo.com,317524435,IBA Karachi,Data Science,3.49,27/06/2024 12:44,12,130.53.35.224,Mobile,800,0.21,FALSE,FALSE,1,legit,normal
+APP00082,Christine Glover,harrisrachel858@live.com,333493017,COMSATS,Data Science,2.92,26/03/2024 16:48,16,42.204.59.103,Mobile,676,0.513,FALSE,FALSE,1,legit,normal
+APP00390,Charles Solis,johnathan29498@nu.edu.pk,336508733,NED University,Accounting,2.58,29/05/2024 10:36,10,159.65.143.4,Mobile,700,0.174,FALSE,FALSE,1,university,normal
+APP00527,Kevin Peterson,susan57645@uet.edu.pk,336966385,UET Lahore,Business Administration,3.55,20/06/2024 20:34,20,187.238.181.171,Tablet,200,0.416,FALSE,FALSE,1,university,normal
+APP00588,Jessica Alexander,maydana17@yahoo.com,336114309,LUMS,Accounting,2.87,26/05/2024 19:37,19,69.201.234.110,Tablet,144,0.255,FALSE,FALSE,1,legit,normal
+APP00927,Kyle Greer,catherine01@yopmail.com,302470022,GIK Institute,Mechanical Engineering,2.2,15/06/2024 8:39,8,104.74.248.174,Mobile,541,0.412,FALSE,FALSE,1,disposable,suspicious
+APP00561,Jessica Peterson,james82935@yahoo.com,335345236,NUST,Computer Science,2.14,26/05/2024 19:16,19,166.202.163.29,Mobile,576,0.274,FALSE,FALSE,1,legit,normal
+APP00240,Richard Johnson,zburnett426@live.com,302947320,PMAS-UAAR,Accounting,2.27,20/03/2024 13:29,13,106.14.250.43,Desktop,331,0.192,FALSE,FALSE,1,legit,normal
+APP00412,Kayla Miller,wwilliams697@live.com,334417412,University of Karachi,Data Science,3.49,03/05/2024 10:23,10,4.107.241.183,Desktop,692,0.14,FALSE,FALSE,1,legit,normal
+APP00212,Gabriel Jackson,amygallegos47@nust.edu.pk,313448176,FAST NUCES,Business Administration,3.05,29/05/2024 17:46,17,61.247.57.102,Mobile,547,0.108,FALSE,FALSE,1,university,normal
+APP00856,Robert Smith,vargascrystal@yahoo.com,322458649,UET Lahore,Electrical Engineering,3.5,24/01/2024 18:05,18,46.241.133.20,Desktop,198,0.748,FALSE,FALSE,1,legit,suspicious
+APP01056,Dana Spencer,user4532@mailinator.com,3007945478,IBA Karachi,Mechanical Engineering,0.37,07/03/2024 23:02,23,154.254.232.9,Mobile,5,0.949,TRUE,TRUE,16,disposable,fake
+APP00948,Alexander Austin MD,williamhendricks@gmail.com,339365975,FAST NUCES,Business Administration,2.82,01/02/2024 15:10,15,219.247.41.23,Mobile,76,0.211,FALSE,FALSE,3,legit,suspicious
+APP00228,Jeremiah Curry,haleyshaun106@nust.edu.pk,302503554,Quaid-i-Azam University,Data Science,2.18,02/06/2024 20:20,20,12.151.131.174,Mobile,514,0.228,FALSE,FALSE,1,university,normal
+APP01016,Summer Elliott,user7252@mailinator.com,3007078334,SZABIST,Electrical Engineering,3.71,02/02/2024 2:03,2,197.67.240.58,Mobile,6,0.953,TRUE,FALSE,14,disposable,fake
+APP00619,Steven Hunt,cbranch837@hotmail.com,339776515,GIK Institute,Business Administration,2.33,18/03/2024 8:47,8,45.16.3.172,Mobile,241,0.471,FALSE,FALSE,1,legit,normal
+APP00966,Tracey Mann,lcarpenter@yahoo.com,306907989,COMSATS,Data Science,2,04/03/2024 15:07,15,140.47.226.118,Desktop,18,0.312,FALSE,FALSE,1,legit,suspicious
+APP00945,Pamela Dillon,goodwintiffany@gmail.com,316413691,University of Karachi,Mechanical Engineering,2.36,03/03/2024 9:13,9,32.200.143.200,Mobile,19,0.08,FALSE,FALSE,1,legit,suspicious
+APP00178,Joseph Ball,andrew66587@gmail.com,304200829,FAST NUCES,Electrical Engineering,2.6,08/02/2024 14:44,14,180.98.201.191,Mobile,328,0.426,FALSE,FALSE,1,legit,normal
+APP01064,Cynthia Nguyen,user9103@tempmail.com,3003240199,University of Karachi,Mechanical Engineering,0.18,01/06/2024 23:00,23,113.129.253.61,Mobile,5,0.907,TRUE,TRUE,10,disposable,fake
+APP00537,Sarah King,hhernandez584@live.com,328293509,Bahria University,Business Administration,3.88,29/05/2024 8:39,8,117.2.199.105,Mobile,642,0.07,FALSE,FALSE,1,legit,normal
+APP00136,Thomas Sampson,erikwilliams693@nu.edu.pk,318452417,NED University,Business Administration,3.43,24/04/2024 11:34,11,14.135.229.67,Mobile,364,0.445,FALSE,FALSE,1,university,normal
+APP00804,David Wilson,timothy35129@outlook.com,303913796,NED University,Data Science,3.58,22/02/2024 11:32,11,65.95.168.141,Mobile,200,0.257,FALSE,FALSE,1,legit,normal
+APP00448,Johnathan Kelly,rachelcox504@uet.edu.pk,316379509,FAST NUCES,Software Engineering,2.09,16/05/2024 8:11,8,118.58.181.167,Mobile,224,0.069,FALSE,FALSE,1,university,normal
+APP00909,Tyler Wood,jtucker@hotmail.com,313542382,SZABIST,Electrical Engineering,2.15,09/06/2024 9:45,9,107.220.86.181,Tablet,29,0.444,FALSE,FALSE,1,legit,suspicious
+APP01097,Philip Lucas,user5071@tempmail.com,3002726662,SZABIST,Business Administration,0.16,10/02/2024 2:03,2,197.67.240.58,Mobile,3,0.919,TRUE,TRUE,20,disposable,fake
+APP00008,Jean Monroe,susanstrickland235@gmail.com,306292423,University of Karachi,Business Administration,2.13,25/05/2024 22:45,22,120.228.83.145,Mobile,442,0.275,FALSE,FALSE,1,legit,normal
+APP00666,Christopher Johnson,csmith221@uet.edu.pk,324176986,University of Karachi,Software Engineering,2.78,07/02/2024 8:18,8,180.89.228.216,Mobile,388,0.248,FALSE,FALSE,1,university,normal
+APP00156,David Sharp,michaelbell322@nust.edu.pk,325187788,NUST,Computer Science,3.4,07/05/2024 16:24,16,177.83.240.138,Mobile,695,0.426,FALSE,FALSE,1,university,normal
+APP00705,Robert Ross,ajimenez343@nu.edu.pk,313063320,PMAS-UAAR,Software Engineering,2.83,16/04/2024 20:49,20,97.153.115.121,Mobile,126,0.445,FALSE,FALSE,1,university,normal
+APP00358,Cindy Torres,bradyjames459@uet.edu.pk,309362706,COMSATS,Business Administration,2.23,07/05/2024 19:41,19,83.250.119.222,Mobile,138,0.227,FALSE,FALSE,1,university,normal
+APP00991,Bonnie Ortega DVM,campbellwilliam@live.com,323171340,Bahria University,Business Administration,3.15,28/05/2024 13:37,13,54.248.144.66,Desktop,752,0.725,FALSE,FALSE,1,legit,suspicious
+APP00224,Ashley Bennett,collinsmary448@yahoo.com,312275374,Quaid-i-Azam University,Data Science,3.46,01/06/2024 14:49,14,183.251.217.194,Mobile,454,0.15,FALSE,FALSE,1,legit,normal
+APP00330,Jimmy Woodard,duranwilliam679@iba.edu.pk,325742531,UET Lahore,Accounting,2.21,17/01/2024 13:17,13,61.239.236.74,Mobile,775,0.152,FALSE,FALSE,1,university,normal
+APP00592,Sierra Coffey,gonzalezjamie180@nu.edu.pk,304434507,LUMS,Business Administration,2.45,30/01/2024 18:30,18,118.214.33.195,Tablet,875,0.319,FALSE,FALSE,1,university,normal
+APP00960,Elizabeth Fry,david73@hotmail.com,334557877,LUMS,Electrical Engineering,2.98,10/05/2024 13:03,13,24.11.86.121,Mobile,29,0.054,FALSE,FALSE,1,legit,suspicious
+APP00926,Jennifer Arias,cochranmelissa@yahoo.com,338187084,Quaid-i-Azam University,Software Engineering,3.08,11/02/2024 16:27,16,223.130.124.137,Mobile,30,0.363,FALSE,FALSE,1,legit,suspicious
+APP00629,Colton Chung,ashley98123@yahoo.com,317623837,University of Karachi,Accounting,3.12,27/01/2024 19:59,19,123.140.51.129,Mobile,292,0.536,FALSE,FALSE,1,legit,normal
+APP00788,Stephanie Mendoza,ftyler655@yahoo.com,337394729,Quaid-i-Azam University,Accounting,2.76,19/02/2024 14:02,14,95.59.200.180,Mobile,130,0.39,FALSE,FALSE,1,legit,normal
+APP00744,Whitney Carroll,jennyvelasquez689@uet.edu.pk,312096569,NED University,Software Engineering,3.42,02/02/2024 12:59,12,59.251.82.242,Tablet,703,0.485,FALSE,FALSE,1,university,normal
+APP00661,Jennifer Benjamin,bellgary868@hotmail.com,336358628,COMSATS,Electrical Engineering,3.66,04/02/2024 12:11,12,163.11.147.31,Desktop,823,0.18,FALSE,FALSE,1,legit,normal
+APP00583,Austin Owen,jeff5862@uet.edu.pk,323290115,NUST,Mechanical Engineering,2.88,17/04/2024 10:48,10,71.152.111.240,Mobile,471,0.162,FALSE,FALSE,1,university,normal
+APP00694,Kristina Reyes,sara309@nu.edu.pk,308244199,University of Karachi,Mechanical Engineering,2.94,28/05/2024 17:46,17,104.31.82.97,Tablet,687,0.02,FALSE,FALSE,1,university,normal
+APP01063,Melissa Rodriguez,user1294@yopmail.com,3007279004,FAST NUCES,Electrical Engineering,0.13,27/06/2024 2:03,2,208.244.179.164,Mobile,5,0.965,TRUE,FALSE,8,disposable,fake
+APP00707,Cindy Dean,smithkenneth432@iba.edu.pk,313315160,GIK Institute,Electrical Engineering,2.79,14/04/2024 22:29,22,111.44.239.241,Desktop,648,0.199,FALSE,FALSE,1,university,normal
+APP00595,Michelle Martinez,olsonkimberly193@yahoo.com,332464797,NUST,Electrical Engineering,3.71,14/03/2024 9:06,9,94.168.47.59,Mobile,288,0.383,FALSE,FALSE,1,legit,normal
+APP00631,Shirley Williams,yguzman365@nust.edu.pk,337785437,COMSATS,Data Science,2.53,26/04/2024 9:07,9,113.228.95.141,Mobile,376,0.127,FALSE,FALSE,1,university,normal
+APP01048,Jessica Dorsey,user6280@tempmail.com,3003397195,PMAS-UAAR,Electrical Engineering,3.89,31/01/2024 23:02,23,154.254.232.9,Mobile,2,0.983,TRUE,TRUE,16,disposable,fake
+APP00441,Doris Lambert,donald17135@hotmail.com,311479346,FAST NUCES,Accounting,2.68,24/03/2024 21:30,21,54.93.78.29,Tablet,598,0.297,FALSE,FALSE,1,legit,normal
+APP00733,Michael Harmon,harrismatthew276@gmail.com,305132498,GIK Institute,Data Science,3.24,02/02/2024 12:36,12,59.158.24.215,Mobile,536,0.465,FALSE,FALSE,1,legit,normal
+APP00844,Kimberly Proctor,jamesthompson@live.com,304480664,SZABIST,Computer Science,2.35,02/06/2024 19:11,19,88.48.113.10,Desktop,12,0.44,FALSE,FALSE,1,legit,suspicious
+APP00941,Randy Anderson,raymond24@yahoo.com,325591361,COMSATS,Software Engineering,3.86,30/03/2024 19:35,19,155.93.133.248,Mobile,24,0.41,FALSE,FALSE,1,legit,suspicious
+APP00164,Jonathan Davenport,carolyn96657@iba.edu.pk,313586950,LUMS,Accounting,3.19,03/06/2024 13:53,13,200.123.48.68,Mobile,697,0.475,FALSE,FALSE,1,university,normal
+APP00229,Patrick Edwards,tparrish743@yahoo.com,319742683,LUMS,Accounting,2.72,05/02/2024 12:19,12,64.221.93.105,Mobile,394,0.035,FALSE,FALSE,1,legit,normal
+APP00502,Greg Torres,tanyalopez745@nust.edu.pk,317353173,Air University,Electrical Engineering,2.08,13/02/2024 22:21,22,173.240.99.76,Tablet,699,0.474,FALSE,FALSE,1,university,normal
+APP00870,James Miller,johncastillo@yahoo.com,314848428,NUST,Software Engineering,2.78,11/03/2024 11:59,11,120.47.81.150,Mobile,88,0.339,FALSE,FALSE,3,legit,suspicious
+APP00213,Brittany Knapp,wjohnson389@outlook.com,319376888,Air University,Accounting,3.79,27/03/2024 12:48,12,159.134.123.8,Tablet,620,0.353,FALSE,FALSE,1,legit,normal
+APP00912,Frank Peterson,zhawkins@outlook.com,323847389,University of Punjab,Business Administration,2.31,12/03/2024 17:23,17,164.139.50.166,Mobile,23,0.099,FALSE,FALSE,1,legit,suspicious
+APP00080,Dawn Russell,cynthia51511@hotmail.com,329537455,Bahria University,Business Administration,2.79,03/05/2024 15:15,15,93.251.184.215,Desktop,587,0.211,FALSE,FALSE,1,legit,normal
+APP00149,Cindy Park MD,jensenpatricia956@nu.edu.pk,329646701,University of Karachi,Mechanical Engineering,3.03,05/03/2024 8:48,8,182.241.78.41,Mobile,782,0.196,FALSE,FALSE,1,university,normal
+APP00303,Brian Hawkins,mcclainrussell972@gmail.com,331543292,LUMS,Data Science,2.6,05/06/2024 11:40,11,174.204.227.42,Mobile,699,0.273,FALSE,FALSE,1,legit,normal
+APP00479,Dennis Austin,blevinsblake375@nust.edu.pk,324195887,Quaid-i-Azam University,Business Administration,3.13,07/01/2024 20:19,20,86.163.158.189,Tablet,293,0.339,FALSE,FALSE,1,university,normal
+APP00775,Barbara Davis,joneslindsay740@lums.edu.pk,336715319,GIK Institute,Computer Science,2.59,18/02/2024 14:49,14,118.30.159.24,Mobile,834,0.241,FALSE,FALSE,1,university,normal
+APP00605,Lisa Thompson,fitzpatrickvirginia201@live.com,302402399,Air University,Mechanical Engineering,2.85,20/06/2024 9:32,9,125.45.138.99,Mobile,523,0.175,FALSE,FALSE,1,legit,normal
+APP00645,Amanda Levy,heatherparker185@iba.edu.pk,309660803,PMAS-UAAR,Software Engineering,3.1,24/02/2024 18:52,18,202.146.128.32,Tablet,880,0.147,FALSE,FALSE,1,university,normal
+APP00044,Emily Wilkinson,sbowen908@nust.edu.pk,317442089,COMSATS,Electrical Engineering,2.46,16/06/2024 19:00,19,107.154.92.14,Tablet,888,0.487,FALSE,FALSE,1,university,normal
+APP00483,Sarah Orozco,ccampbell928@uet.edu.pk,305285846,LUMS,Computer Science,2.54,27/06/2024 17:17,17,172.110.48.121,Mobile,174,0.52,FALSE,FALSE,1,university,normal
+APP00134,Sherry Adkins,jenny0380@hotmail.com,322696860,Air University,Mechanical Engineering,3.03,14/05/2024 8:42,8,16.162.143.37,Tablet,464,0.34,FALSE,FALSE,1,legit,normal
+APP00718,Antonio Kirk,lisa92488@hotmail.com,318485391,NUST,Business Administration,3.29,13/04/2024 17:35,17,211.104.225.137,Desktop,651,0.48,FALSE,FALSE,1,legit,normal
+APP00862,Joseph Boyd,tinavega@outlook.com,331964635,Quaid-i-Azam University,Computer Science,3.2,25/03/2024 12:22,12,180.156.70.152,Mobile,14,0.49,FALSE,FALSE,1,legit,suspicious
+APP00598,Desiree Taylor,kyle05498@nu.edu.pk,338684083,UET Lahore,Data Science,2.25,19/03/2024 10:50,10,18.119.213.252,Mobile,386,0.205,FALSE,FALSE,1,university,normal
+APP00312,Nancy Howell,iwilliams917@lums.edu.pk,322529023,SZABIST,Data Science,2.74,04/04/2024 22:24,22,141.164.232.202,Mobile,498,0.025,FALSE,FALSE,1,university,normal
+APP00409,Troy Davis,fgarcia824@uet.edu.pk,308138527,LUMS,Business Administration,2.91,29/02/2024 22:54,22,54.56.94.76,Mobile,205,0.482,FALSE,FALSE,1,university,normal
+APP00568,Patrick Graves,rowejessica122@nust.edu.pk,319776491,COMSATS,Accounting,3.65,17/05/2024 10:47,10,102.188.248.141,Mobile,713,0.04,FALSE,FALSE,1,university,normal
+APP00731,Angela Garrett,keith27146@nu.edu.pk,336439471,UET Lahore,Electrical Engineering,3.79,31/01/2024 8:12,8,188.52.70.94,Desktop,365,0.322,FALSE,FALSE,1,university,normal
+APP00878,Kathryn Carter,kaylawoodard@live.com,323163157,UET Lahore,Computer Science,3.86,16/01/2024 20:44,20,221.103.29.209,Desktop,105,0.219,FALSE,FALSE,7,legit,suspicious
+APP00937,Brenda Brown,michellearmstrong@hotmail.com,324030429,NUST,Computer Science,2.96,02/04/2024 22:53,22,103.182.213.211,Mobile,49,0.27,FALSE,FALSE,6,legit,suspicious
+APP01077,Bradley Nelson,user1804@mailinator.com,3002394052,IBA Karachi,Accounting,0.21,25/04/2024 23:00,23,197.67.240.58,Mobile,6,0.955,TRUE,TRUE,18,disposable,fake
+APP00897,Wesley Hoffman,robertwheeler@outlook.com,308077313,Air University,Data Science,3.51,26/02/2024 19:05,19,63.120.120.108,Mobile,86,0.112,FALSE,FALSE,3,legit,suspicious
+APP00001,Matthew Crosby,jonathanlee26@yahoo.com,325108603,IBA Karachi,Software Engineering,3.4,22/06/2024 19:57,19,3.50.63.217,Mobile,678,0.232,FALSE,FALSE,1,legit,normal
+APP00423,Lisa Farmer,andrea81423@nu.edu.pk,329665502,Air University,Computer Science,3.33,08/03/2024 11:18,11,108.196.211.55,Mobile,215,0.412,FALSE,FALSE,1,university,normal
+APP00361,Seth Moreno,vrowe734@nu.edu.pk,332912994,NUST,Mechanical Engineering,3.25,01/01/2024 13:22,13,50.118.106.157,Tablet,768,0.161,FALSE,FALSE,1,university,normal
+APP00383,Diana Wilson,preyes398@nust.edu.pk,337785511,University of Karachi,Business Administration,2.03,21/06/2024 9:34,9,103.130.171.104,Desktop,126,0.34,FALSE,FALSE,1,university,normal
+APP00317,Joseph Chapman,ethan47855@hotmail.com,326364506,University of Punjab,Accounting,3.74,18/01/2024 9:24,9,197.125.222.128,Mobile,689,0.179,FALSE,FALSE,1,legit,normal
+APP00923,Kevin Garner,nbenson@yahoo.com,308559125,PMAS-UAAR,Mechanical Engineering,2.25,25/04/2024 18:37,18,136.68.153.9,Mobile,219,0.41,TRUE,FALSE,1,legit,suspicious
+APP00476,Tiffany Anderson,johnsonalison517@uet.edu.pk,304725978,University of Karachi,Business Administration,3.49,07/02/2024 10:21,10,137.70.207.203,Mobile,204,0.41,FALSE,FALSE,1,university,normal
+APP00843,Ronald Griffin,ethanharris@yahoo.com,306456436,NUST,Accounting,3.77,17/05/2024 4:25,4,218.191.183.132,Mobile,837,0.306,FALSE,FALSE,1,legit,suspicious
+APP00653,Jamie Powell,willie14958@outlook.com,334657573,LUMS,Computer Science,2.33,11/03/2024 15:26,15,110.123.177.36,Tablet,380,0.031,FALSE,FALSE,1,legit,normal
+APP00715,Jennifer Ramirez,weberchelsea363@iba.edu.pk,301800824,GIK Institute,Accounting,3.79,24/04/2024 12:36,12,187.227.189.198,Mobile,874,0.186,FALSE,FALSE,1,university,normal
+APP00929,Robyn Lewis,cpeters@yahoo.com,333087766,Quaid-i-Azam University,Mechanical Engineering,3.78,15/04/2024 22:52,22,212.178.133.156,Desktop,9,0.408,FALSE,FALSE,1,legit,suspicious
+APP01062,Peter Molina,user1993@throwam.com,3003373320,GIK Institute,Business Administration,4.23,21/02/2024 2:02,2,197.67.240.58,Mobile,2,0.908,TRUE,TRUE,11,disposable,fake
+APP00141,Randy Johnson,christina7129@outlook.com,322662338,PMAS-UAAR,Accounting,3.23,07/02/2024 10:02,10,164.74.190.81,Tablet,413,0.26,FALSE,FALSE,1,legit,normal
+APP00173,Tracy Perez,nelsonchristian404@yahoo.com,326688907,Air University,Business Administration,3.43,20/02/2024 17:32,17,72.22.184.3,Desktop,531,0.025,FALSE,FALSE,1,legit,normal
+APP00451,Deborah Bender,danielcain918@outlook.com,327401806,PMAS-UAAR,Computer Science,2.23,04/03/2024 14:49,14,165.32.68.72,Mobile,573,0.547,FALSE,FALSE,1,legit,normal
+APP00126,William Duncan,wharper460@uet.edu.pk,326303930,LUMS,Electrical Engineering,2.13,23/04/2024 18:19,18,201.137.20.168,Desktop,401,0.194,FALSE,FALSE,1,university,normal
+APP00540,Melissa Hale DVM,larsonwilliam861@nu.edu.pk,333588175,UET Lahore,Mechanical Engineering,3.27,04/02/2024 8:04,8,89.68.77.102,Mobile,783,0.397,FALSE,FALSE,1,university,normal
+APP01070,Cynthia Nguyen,user954@throwam.com,3005968479,GIK Institute,Mechanical Engineering,0.18,05/01/2024 23:02,23,113.129.253.61,Mobile,7,0.951,TRUE,TRUE,16,disposable,fake
+APP00914,Jose Stevens,oliviajones@yahoo.com,337152746,Air University,Mechanical Engineering,3.22,21/03/2024 13:05,13,10.163.13.154,Mobile,818,0.869,FALSE,FALSE,1,legit,suspicious
+APP01098,Mary Thompson,user9103@tempmail.com,3005519499,IBA Karachi,Business Administration,4.24,19/03/2024 3:02,3,3.115.24.253,Mobile,5,0.931,TRUE,TRUE,17,disposable,fake
+APP00091,Lonnie Jones,bradleymitchell602@nu.edu.pk,328118722,Bahria University,Business Administration,2.87,18/03/2024 11:24,11,114.240.11.207,Mobile,614,0.21,FALSE,FALSE,1,university,normal
+APP01067,Shane Knapp,user9152@throwam.com,3007785940,GIK Institute,Mechanical Engineering,0.2,24/06/2024 23:00,23,117.72.183.14,Mobile,7,0.931,TRUE,FALSE,6,disposable,fake
+APP00182,Thomas Wyatt,natalieeaton389@iba.edu.pk,336790398,GIK Institute,Mechanical Engineering,2.28,11/01/2024 12:45,12,54.223.18.185,Mobile,200,0.243,FALSE,FALSE,1,university,normal
+APP00364,Tina Nelson DDS,amber95469@lums.edu.pk,319368955,FAST NUCES,Data Science,3.4,21/05/2024 22:27,22,66.227.2.232,Mobile,719,0.28,FALSE,FALSE,1,university,normal
+APP00949,Tina Huber,fisheralyssa@live.com,308747246,UET Lahore,Software Engineering,3.64,13/04/2024 8:57,8,5.137.3.250,Tablet,29,0.022,FALSE,FALSE,1,legit,suspicious
+APP00275,Harry Mendez,donaldsonkelly751@live.com,301492516,Quaid-i-Azam University,Mechanical Engineering,2.82,14/05/2024 9:16,9,60.93.76.2,Tablet,849,0.345,FALSE,FALSE,1,legit,normal
+APP01071,Bradley Nelson,user7140@throwam.com,3007647377,IBA Karachi,Software Engineering,3.86,06/05/2024 23:02,23,129.226.0.248,Mobile,5,0.99,TRUE,FALSE,19,disposable,fake
+APP00252,Erik Stevens,jeffery81896@live.com,308545256,UET Lahore,Business Administration,3.64,23/01/2024 15:55,15,152.133.69.147,Desktop,240,0.13,FALSE,FALSE,1,legit,normal
+APP00070,Katelyn Haney,ujackson566@hotmail.com,303626181,FAST NUCES,Electrical Engineering,2.86,01/06/2024 15:18,15,208.136.59.97,Mobile,153,0.389,FALSE,FALSE,1,legit,normal
+APP00292,Hailey Carpenter,jonesdanielle177@nust.edu.pk,324602338,University of Punjab,Software Engineering,2.52,24/04/2024 22:09,22,71.77.214.41,Desktop,155,0.339,FALSE,FALSE,1,university,normal
+APP00132,Lauren Daugherty,uhodges318@nu.edu.pk,333163449,NED University,Accounting,3.78,20/03/2024 16:24,16,33.231.116.236,Desktop,778,0.447,FALSE,FALSE,1,university,normal
+APP00301,Victor Bowers,catherinehaley722@nu.edu.pk,332695038,Quaid-i-Azam University,Business Administration,2.61,10/02/2024 19:27,19,139.10.107.39,Tablet,774,0.357,FALSE,FALSE,1,university,normal
+APP01060,Mary Thompson,user7140@throwam.com,3007699704,COMSATS,Mechanical Engineering,0.32,22/06/2024 23:02,23,177.219.29.131,Mobile,3,0.931,TRUE,TRUE,13,disposable,fake
+APP00327,Andrew Harris,amyclark167@gmail.com,314713654,SZABIST,Software Engineering,3.29,09/03/2024 18:26,18,221.214.196.186,Mobile,645,0.429,FALSE,FALSE,1,legit,normal
+APP00145,Maria Morris,petersonlouis681@hotmail.com,309782613,Quaid-i-Azam University,Computer Science,3.81,19/05/2024 16:50,16,57.249.83.86,Desktop,639,0.215,FALSE,FALSE,1,legit,normal
+APP00500,Julia Moran,jimmy83961@uet.edu.pk,317594565,University of Karachi,Business Administration,2.86,15/02/2024 15:37,15,115.157.216.153,Tablet,849,0.485,FALSE,FALSE,1,university,normal
+APP00562,Melissa Trevino,humphreytaylor956@gmail.com,307551231,UET Lahore,Software Engineering,3.33,10/04/2024 17:00,17,185.238.47.232,Desktop,647,0.424,FALSE,FALSE,1,legit,normal
+APP00977,Emily Moore,lindafisher@yahoo.com,323276513,University of Karachi,Data Science,2.39,19/03/2024 9:19,9,129.61.182.177,Tablet,700,0.751,FALSE,FALSE,1,legit,suspicious
+APP00866,Patty Hansen,nchoi@yahoo.com,335459377,NUST,Electrical Engineering,2.95,06/05/2024 20:43,20,141.13.170.81,Mobile,104,0.413,FALSE,FALSE,6,legit,suspicious
+APP00496,Joseph Bradford,elizabethwest438@outlook.com,331701728,NED University,Accounting,3.57,21/03/2024 14:39,14,6.49.33.107,Desktop,880,0.295,FALSE,FALSE,1,legit,normal
+APP00339,Jacqueline Gardner,danielle76393@lums.edu.pk,301632925,Air University,Software Engineering,3.39,04/01/2024 22:20,22,188.126.25.238,Desktop,895,0.105,FALSE,FALSE,1,university,normal
+APP00801,David Moreno,uroberts757@lums.edu.pk,323252626,UET Lahore,Business Administration,3.22,11/01/2024 16:50,16,169.222.17.60,Desktop,544,0.159,FALSE,FALSE,1,university,normal
+APP00165,Daniel Sullivan,brownderrick47@yahoo.com,324536777,GIK Institute,Data Science,2.79,12/06/2024 8:31,8,208.144.181.74,Desktop,762,0.353,FALSE,FALSE,1,legit,normal
+APP00029,Thomas Scott,lindsay189@iba.edu.pk,322737893,University of Punjab,Software Engineering,2.5,28/01/2024 19:35,19,125.43.25.230,Mobile,279,0.333,FALSE,FALSE,1,university,normal
+APP00517,Sandy Osborn,iterry549@iba.edu.pk,304494064,NED University,Accounting,2.63,31/03/2024 9:09,9,108.107.88.245,Desktop,407,0.187,FALSE,FALSE,1,university,normal
+APP00194,Michelle Silva,destinycaldwell822@iba.edu.pk,315151780,SZABIST,Mechanical Engineering,3.13,21/01/2024 16:28,16,30.202.63.11,Desktop,660,0.043,FALSE,FALSE,1,university,normal
+APP00962,Vanessa Kim,washingtonchristopher@yahoo.com,304683937,NUST,Computer Science,3.75,27/05/2024 12:15,12,145.59.44.40,Desktop,187,0.87,FALSE,FALSE,1,legit,suspicious
+APP00170,Michael Martinez,ggordon518@nust.edu.pk,335038756,IBA Karachi,Data Science,2.67,13/01/2024 12:31,12,142.219.127.26,Tablet,731,0.36,FALSE,FALSE,1,university,normal
+APP00597,Courtney Gutierrez,cathy96299@gmail.com,312056117,FAST NUCES,Mechanical Engineering,3.52,13/05/2024 18:21,18,95.154.1.9,Desktop,541,0.361,FALSE,FALSE,1,legit,normal
+APP00174,Dana Long,ybaker731@hotmail.com,328948107,Air University,Electrical Engineering,2.28,11/05/2024 10:20,10,183.6.91.45,Mobile,747,0.216,FALSE,FALSE,1,legit,normal
+APP00519,Melissa Woods,amy56509@yahoo.com,317234137,COMSATS,Mechanical Engineering,3.81,25/02/2024 16:19,16,49.3.77.67,Mobile,299,0.432,FALSE,FALSE,1,legit,normal
+APP00768,Geoffrey Boyle,richardmiller596@live.com,331614121,IBA Karachi,Software Engineering,3.7,25/04/2024 21:15,21,143.88.4.132,Mobile,525,0.234,FALSE,FALSE,1,legit,normal
+APP00590,Mark Turner,kellyrussell544@nu.edu.pk,305975954,University of Karachi,Mechanical Engineering,2.51,05/06/2024 16:36,16,121.173.94.250,Desktop,332,0.045,FALSE,FALSE,1,university,normal
+APP00492,Annette Baird,jessica07156@live.com,312791327,LUMS,Software Engineering,2.05,05/06/2024 17:17,17,212.231.38.241,Desktop,740,0.127,FALSE,FALSE,1,legit,normal
+APP00074,Blake Jimenez,christine47257@uet.edu.pk,302532210,IBA Karachi,Accounting,3.59,27/05/2024 17:01,17,99.152.248.202,Desktop,808,0.317,FALSE,FALSE,1,university,normal
+APP01042,Peter Molina,user7140@throwam.com,3005548431,Air University,Business Administration,4.31,15/03/2024 2:02,2,3.115.24.253,Mobile,6,0.937,TRUE,TRUE,11,disposable,fake
+APP00235,Melissa Davis,courtney99690@nust.edu.pk,333335038,SZABIST,Business Administration,2.46,17/06/2024 10:45,10,219.128.175.23,Desktop,553,0.041,FALSE,FALSE,1,university,normal
+APP00215,Rhonda Hernandez,shawnduncan35@iba.edu.pk,301813936,GIK Institute,Computer Science,2.78,10/06/2024 11:04,11,88.78.114.180,Mobile,844,0.12,FALSE,FALSE,1,university,normal
+APP00790,Benjamin Johnson,laurahill175@hotmail.com,302686363,LUMS,Business Administration,2.24,10/04/2024 10:04,10,123.53.216.110,Desktop,807,0.373,FALSE,FALSE,1,legit,normal
+APP00133,Elijah Boyle,penny6496@iba.edu.pk,339531021,Quaid-i-Azam University,Computer Science,2.69,16/02/2024 11:21,11,85.233.115.253,Mobile,617,0.55,FALSE,FALSE,1,university,normal
+APP00614,Christine Fox,fisherdaniel900@lums.edu.pk,316995933,LUMS,Computer Science,2.52,17/04/2024 18:58,18,202.105.6.147,Mobile,484,0.16,FALSE,FALSE,1,university,normal
+APP00785,Jessica Brown,melissa33751@uet.edu.pk,338681081,University of Karachi,Accounting,2.35,25/05/2024 9:25,9,213.61.59.58,Tablet,835,0.132,FALSE,FALSE,1,university,normal
+APP00186,Christopher Serrano,ymiller668@yahoo.com,319978365,Bahria University,Accounting,3.62,10/01/2024 22:58,22,51.160.230.220,Mobile,299,0.461,FALSE,FALSE,1,legit,normal
+APP00042,Matthew Brown,gvargas524@outlook.com,333846949,SZABIST,Computer Science,2.54,18/06/2024 18:39,18,16.244.148.81,Mobile,463,0.524,FALSE,FALSE,1,legit,normal
+APP00109,Shawn Cherry,jasmine89544@uet.edu.pk,328612081,Air University,Data Science,2.82,28/06/2024 9:54,9,164.208.14.243,Desktop,790,0.423,FALSE,FALSE,1,university,normal
+APP00709,Erin Butler,kristina7563@nust.edu.pk,331622329,SZABIST,Accounting,2.29,27/05/2024 8:40,8,109.79.173.166,Desktop,850,0.482,FALSE,FALSE,1,university,normal
+APP00549,James Conrad,pamela73828@nu.edu.pk,315383091,GIK Institute,Accounting,2.45,16/02/2024 20:33,20,64.79.220.233,Mobile,153,0.046,FALSE,FALSE,1,university,normal
+APP00833,Benjamin Griffin,austinsamantha@live.com,323447304,Bahria University,Accounting,3.66,28/06/2024 8:38,8,120.47.81.150,Mobile,113,0.545,FALSE,FALSE,5,legit,suspicious
+APP00484,Douglas Bryant,christopherwilliamson398@yahoo.com,327043474,PMAS-UAAR,Computer Science,2.04,15/06/2024 14:14,14,159.26.43.254,Desktop,509,0.39,FALSE,FALSE,1,legit,normal
+APP00469,Anthony Byrd,vproctor220@iba.edu.pk,335262908,Quaid-i-Azam University,Electrical Engineering,2.85,11/04/2024 8:46,8,89.161.162.88,Tablet,155,0.328,FALSE,FALSE,1,university,normal
+APP00025,Glenn Smith,gshepard872@yahoo.com,312149597,NED University,Computer Science,3.28,01/03/2024 14:07,14,14.123.57.69,Mobile,703,0.327,FALSE,FALSE,1,legit,normal
+APP00558,Joseph Quinn,amanda10713@yahoo.com,315250268,UET Lahore,Electrical Engineering,3.25,20/01/2024 18:29,18,177.63.231.253,Desktop,403,0.381,FALSE,FALSE,1,legit,normal
+APP00573,Zachary Rice,christinewest169@iba.edu.pk,335087678,University of Punjab,Data Science,2.08,26/01/2024 20:54,20,102.238.223.149,Desktop,767,0.428,FALSE,FALSE,1,university,normal
+APP00632,Brian Winters,sarahdawson31@hotmail.com,301886716,PMAS-UAAR,Computer Science,2.95,07/01/2024 10:24,10,114.43.53.149,Desktop,739,0.084,FALSE,FALSE,1,legit,normal
+APP00913,Alexandra Stark,gibsonkenneth@gmail.com,328416290,SZABIST,Software Engineering,3.83,25/05/2024 15:02,15,52.154.187.151,Tablet,492,0.221,TRUE,FALSE,1,legit,suspicious
+APP00367,Michelle Brown,mwarner307@iba.edu.pk,324646403,IBA Karachi,Software Engineering,3.19,15/03/2024 18:22,18,177.233.69.154,Mobile,808,0.391,FALSE,FALSE,1,university,normal
+APP01049,Whitney Krueger,user6315@mailinator.com,3004204180,University of Karachi,Business Administration,0.32,02/04/2024 2:00,2,154.254.232.9,Mobile,4,0.891,TRUE,TRUE,16,disposable,fake
+APP00384,Alexis Jackson,smithtaylor47@uet.edu.pk,307001212,University of Punjab,Data Science,2.2,24/06/2024 12:38,12,20.178.74.233,Mobile,208,0.51,FALSE,FALSE,1,university,normal
+APP00455,William Taylor,darrellbrooks705@lums.edu.pk,317231035,GIK Institute,Computer Science,2.47,07/05/2024 9:43,9,60.115.174.232,Mobile,753,0.533,FALSE,FALSE,1,university,normal
+APP00265,James Patel,kathleenarmstrong666@uet.edu.pk,318383643,Quaid-i-Azam University,Accounting,2.4,08/02/2024 22:26,22,27.226.213.116,Desktop,750,0.473,FALSE,FALSE,1,university,normal
+APP00921,Brianna Lopez,hannah19@yopmail.com,318328019,Quaid-i-Azam University,Accounting,3.11,03/01/2024 16:50,16,156.108.76.118,Mobile,731,0.397,FALSE,FALSE,1,disposable,suspicious
+APP00815,Connor Hart,townsendautumn675@iba.edu.pk,336167027,Bahria University,Electrical Engineering,3.43,23/01/2024 9:40,9,148.135.78.204,Desktop,706,0.189,FALSE,FALSE,1,university,normal
+APP00445,James Anderson,jeffreyellison818@nust.edu.pk,324879150,GIK Institute,Computer Science,3.04,18/02/2024 14:56,14,148.145.246.120,Mobile,694,0.137,FALSE,FALSE,1,university,normal
+APP00396,Angela Gonzalez,wmyers701@uet.edu.pk,319625782,LUMS,Electrical Engineering,2.3,24/05/2024 17:42,17,124.29.189.126,Desktop,269,0.266,FALSE,FALSE,1,university,normal
+APP00177,Lisa Strickland,craigdavid592@uet.edu.pk,311861596,NED University,Electrical Engineering,2.32,10/06/2024 19:39,19,155.17.103.58,Mobile,509,0.374,FALSE,FALSE,1,university,normal
+APP00019,Shawn Phillips,steven45591@uet.edu.pk,335076817,GIK Institute,Electrical Engineering,3.53,18/02/2024 9:06,9,112.24.228.168,Mobile,794,0.233,FALSE,FALSE,1,university,normal
+APP01025,Melissa Rodriguez,user7140@throwam.com,3002247391,Quaid-i-Azam University,Software Engineering,3.82,21/06/2024 1:02,1,177.219.29.131,Mobile,5,0.992,TRUE,FALSE,15,disposable,fake
+APP00683,Sara Green,donaldwells191@uet.edu.pk,338147380,NUST,Computer Science,2.98,28/04/2024 18:14,18,14.156.116.213,Desktop,783,0.085,FALSE,FALSE,1,university,normal
+APP00062,Christine Boyle,ccarter459@lums.edu.pk,302561176,UET Lahore,Software Engineering,2.77,03/03/2024 12:42,12,86.35.239.30,Mobile,715,0.304,FALSE,FALSE,1,university,normal
+APP00273,Craig Patterson,melissaclark60@outlook.com,312446410,University of Punjab,Electrical Engineering,2.22,05/06/2024 17:03,17,177.184.165.151,Desktop,436,0.362,FALSE,FALSE,1,legit,normal
+APP01034,Philip Lucas,user3960@throwam.com,3009413762,University of Karachi,Mechanical Engineering,4.25,10/06/2024 2:00,2,177.219.29.131,Mobile,7,0.978,TRUE,TRUE,17,disposable,fake
+APP00279,Elizabeth Smith,brandon72184@gmail.com,319653253,FAST NUCES,Electrical Engineering,2.13,29/04/2024 21:18,21,78.141.67.225,Mobile,438,0.304,FALSE,FALSE,1,legit,normal
+APP00704,Gilbert Taylor,lewisrobin892@yahoo.com,317067286,LUMS,Accounting,2.56,23/04/2024 20:32,20,37.119.4.189,Desktop,630,0.055,FALSE,FALSE,1,legit,normal
+APP00369,Michael Warren,bentonjoseph293@iba.edu.pk,331214253,Air University,Computer Science,2.05,07/02/2024 8:42,8,96.30.3.207,Mobile,177,0.413,FALSE,FALSE,1,university,normal
+APP00741,Shelia Torres,matthewsullivan128@gmail.com,337215633,University of Punjab,Software Engineering,2.84,26/02/2024 19:01,19,59.216.196.169,Mobile,896,0.507,FALSE,FALSE,1,legit,normal
+APP01055,Mary Carter,user1259@throwam.com,3007283563,COMSATS,Computer Science,3.65,13/06/2024 2:01,2,117.72.183.14,Mobile,2,0.965,TRUE,FALSE,10,disposable,fake
+APP00650,Linda Brown,darlene27802@lums.edu.pk,301928237,PMAS-UAAR,Computer Science,2.6,17/03/2024 21:04,21,174.83.236.110,Tablet,536,0.369,FALSE,FALSE,1,university,normal
+APP00548,Angie Williams,sara71259@live.com,315713926,UET Lahore,Mechanical Engineering,2.49,29/01/2024 17:11,17,44.90.7.21,Desktop,725,0.363,FALSE,FALSE,1,legit,normal
+APP00967,Walter Jackson,christopher94@live.com,313459253,GIK Institute,Computer Science,2.19,26/03/2024 15:31,15,221.103.29.209,Mobile,72,0.3,FALSE,FALSE,6,legit,suspicious
+APP00753,Keith Jones,campbelljoseph394@lums.edu.pk,338182422,University of Punjab,Data Science,3.18,27/03/2024 18:43,18,79.244.187.94,Mobile,146,0.181,FALSE,FALSE,1,university,normal
+APP00457,Danielle Green,lindaroman825@nu.edu.pk,334237420,FAST NUCES,Accounting,2.72,04/02/2024 12:57,12,62.203.103.128,Mobile,160,0.241,FALSE,FALSE,1,university,normal
+APP00394,Nancy Cruz,miguel98415@uet.edu.pk,311614990,Air University,Business Administration,3.03,18/05/2024 15:41,15,134.194.24.206,Mobile,272,0.123,FALSE,FALSE,1,university,normal
+APP00761,David Ramos,lisa7445@nu.edu.pk,304340727,IBA Karachi,Business Administration,2.33,08/03/2024 19:11,19,77.24.88.83,Desktop,467,0.135,FALSE,FALSE,1,university,normal
+APP00802,Shawn Franklin,lawsonsusan235@gmail.com,326750028,IBA Karachi,Software Engineering,3.02,19/06/2024 11:51,11,193.195.122.125,Desktop,823,0.122,FALSE,FALSE,1,legit,normal
+APP00376,Edward Jones,meagan87539@nu.edu.pk,314084811,Air University,Computer Science,3.49,10/02/2024 14:34,14,129.33.184.52,Mobile,669,0.192,FALSE,FALSE,1,university,normal
+APP00413,Luke Henderson,tammy84592@live.com,327679508,Bahria University,Software Engineering,3.62,17/06/2024 9:47,9,79.205.26.48,Mobile,355,0.385,FALSE,FALSE,1,legit,normal
+APP00075,Jill Ramirez,maylori482@hotmail.com,335666692,LUMS,Data Science,2.83,05/05/2024 9:30,9,153.26.100.111,Mobile,476,0.177,FALSE,FALSE,1,legit,normal
+APP01030,David Nichols,user6315@mailinator.com,3007912261,SZABIST,Software Engineering,0.18,16/01/2024 3:02,3,117.72.183.14,Mobile,4,0.927,TRUE,TRUE,19,disposable,fake
+APP00501,Jessica Rogers,aaron45257@yahoo.com,323751363,Bahria University,Accounting,2.23,30/01/2024 19:28,19,29.124.237.173,Mobile,769,0.288,FALSE,FALSE,1,legit,normal
+APP00876,Randall Perry,marshallraven@outlook.com,319951610,Bahria University,Software Engineering,2.09,19/02/2024 14:35,14,17.78.241.100,Mobile,848,0.865,FALSE,FALSE,1,legit,suspicious
+APP00115,Kimberly Wood,osimmons30@live.com,315584716,Bahria University,Mechanical Engineering,2.59,27/03/2024 13:00,13,98.203.40.240,Tablet,305,0.311,FALSE,FALSE,1,legit,normal
+APP00418,Stephen Johnson,eward671@outlook.com,303641484,NUST,Business Administration,3.48,31/03/2024 18:25,18,202.247.207.222,Desktop,535,0.285,FALSE,FALSE,1,legit,normal
+APP00090,Colleen Johnson,rrobinson473@outlook.com,328710313,UET Lahore,Accounting,2.02,29/04/2024 22:18,22,89.213.236.36,Desktop,813,0.041,FALSE,FALSE,1,legit,normal
+APP01054,Bradley Nelson,user1804@mailinator.com,3002974922,Quaid-i-Azam University,Electrical Engineering,0.31,23/01/2024 1:00,1,177.219.29.131,Mobile,7,0.902,TRUE,TRUE,5,disposable,fake
+APP00499,Brenda Taylor,porterdana942@uet.edu.pk,309673311,University of Punjab,Software Engineering,2.88,14/06/2024 15:05,15,210.186.3.8,Desktop,859,0.099,FALSE,FALSE,1,university,normal
+APP00877,Samantha Howell,kscott@hotmail.com,328524283,SZABIST,Accounting,2.23,21/04/2024 1:30,1,194.77.167.75,Desktop,549,0.524,FALSE,FALSE,1,legit,suspicious
+APP00737,Ronald Williams,crystalharrison743@hotmail.com,328247127,IBA Karachi,Data Science,2.96,22/03/2024 22:43,22,157.192.107.112,Desktop,470,0.539,FALSE,FALSE,1,legit,normal
+APP00012,Vicki Hernandez,hwilliams788@live.com,322871534,UET Lahore,Electrical Engineering,2.3,01/01/2024 19:56,19,171.36.140.33,Mobile,856,0.275,FALSE,FALSE,1,legit,normal
+APP00397,Mark Mendoza,rachel0442@nu.edu.pk,319181277,IBA Karachi,Computer Science,2.5,29/02/2024 8:42,8,197.98.211.55,Desktop,331,0.435,FALSE,FALSE,1,university,normal
+APP01068,Jessica Dorsey,user7140@throwam.com,3002945459,NED University,Mechanical Engineering,0.24,26/03/2024 3:00,3,117.72.183.14,Mobile,5,0.984,TRUE,FALSE,7,disposable,fake
+APP00993,Matthew Thompson,micheleward@gmail.com,317443851,GIK Institute,Electrical Engineering,3.8,16/01/2024 17:16,17,50.20.163.137,Mobile,117,0.412,FALSE,FALSE,5,legit,suspicious
+APP00043,Jessica Wright,victor12689@outlook.com,324768844,GIK Institute,Software Engineering,2.28,12/01/2024 11:30,11,146.37.156.37,Desktop,745,0.04,FALSE,FALSE,1,legit,normal
+APP00168,David Stein,mezajessica478@outlook.com,305487430,COMSATS,Software Engineering,2.27,13/01/2024 12:24,12,122.74.78.197,Mobile,750,0.529,FALSE,FALSE,1,legit,normal
+APP00417,Stacey Weaver,bennettglenn871@outlook.com,324267304,FAST NUCES,Mechanical Engineering,3.14,12/05/2024 19:14,19,12.52.223.85,Mobile,749,0.02,FALSE,FALSE,1,legit,normal
+APP00577,Nancy Rosario,cassandramathews98@iba.edu.pk,329515120,IBA Karachi,Electrical Engineering,3.46,17/06/2024 11:17,11,134.89.134.14,Mobile,174,0.438,FALSE,FALSE,1,university,normal
+APP00901,Jason Gallagher,jon02@mailinator.com,318881344,Bahria University,Software Engineering,3.46,27/06/2024 12:30,12,69.25.245.78,Desktop,541,0.244,FALSE,FALSE,1,disposable,suspicious
+APP00427,Denise Jackson,dennis29890@uet.edu.pk,329234347,LUMS,Mechanical Engineering,3.74,12/03/2024 14:14,14,103.27.236.73,Desktop,888,0.03,FALSE,FALSE,1,university,normal
+APP00545,Edward Palmer,thomasrichardson701@yahoo.com,321885405,University of Punjab,Business Administration,3.02,03/01/2024 15:29,15,41.158.56.224,Tablet,644,0.316,FALSE,FALSE,1,legit,normal
+APP01031,Jessica Dorsey,user7252@mailinator.com,3001916595,UET Lahore,Electrical Engineering,0.2,24/04/2024 23:01,23,129.226.0.248,Mobile,3,0.974,TRUE,TRUE,8,disposable,fake
+APP01080,Regina Peterson,user5071@tempmail.com,3008783184,UET Lahore,Mechanical Engineering,0.15,14/03/2024 1:02,1,197.67.240.58,Mobile,7,0.962,TRUE,FALSE,8,disposable,fake
+APP00817,Adam Miller,holly42538@nust.edu.pk,335837546,Bahria University,Electrical Engineering,2.32,05/04/2024 10:45,10,163.30.19.110,Mobile,257,0.1,FALSE,FALSE,1,university,normal
+APP00738,Joseph Stanley,christopher49280@lums.edu.pk,316396194,Quaid-i-Azam University,Software Engineering,2.87,02/06/2024 13:01,13,157.221.223.122,Mobile,828,0.507,FALSE,FALSE,1,university,normal
+APP00258,Willie Mcmillan,daniel59815@yahoo.com,334654579,University of Karachi,Mechanical Engineering,2.4,09/03/2024 13:53,13,20.145.29.239,Mobile,410,0.318,FALSE,FALSE,1,legit,normal
+APP00336,William Shaw,brittany15123@iba.edu.pk,339889215,UET Lahore,Electrical Engineering,2.1,08/02/2024 10:12,10,138.33.12.70,Mobile,470,0.313,FALSE,FALSE,1,university,normal
+APP00016,Matthew Roberson,rphillips272@hotmail.com,334553384,University of Punjab,Data Science,3.44,25/06/2024 11:45,11,138.246.122.228,Mobile,439,0.369,FALSE,FALSE,1,legit,normal
+APP00755,David Norris,allenwilliam493@nust.edu.pk,334119277,IBA Karachi,Software Engineering,3.51,16/01/2024 10:19,10,177.60.45.196,Mobile,718,0.528,FALSE,FALSE,1,university,normal
+APP00325,Maria Scott,alexandrawhite281@outlook.com,328788293,Air University,Electrical Engineering,3.21,01/02/2024 18:01,18,54.209.18.215,Mobile,367,0.327,FALSE,FALSE,1,legit,normal
+APP00910,Christopher Hunter,urodriguez@yahoo.com,328507472,GIK Institute,Software Engineering,2.66,02/04/2024 17:54,17,221.103.29.209,Mobile,70,0.392,FALSE,FALSE,6,legit,suspicious
+APP00903,Carla Perez,corylang@hotmail.com,324813710,University of Karachi,Software Engineering,2.53,24/01/2024 1:24,1,186.101.74.154,Desktop,248,0.22,FALSE,FALSE,1,legit,suspicious
+APP00223,Kent Walker,andersonmatthew694@nust.edu.pk,327439870,GIK Institute,Accounting,2.27,25/06/2024 19:05,19,119.152.42.225,Desktop,632,0.19,FALSE,FALSE,1,university,normal
+APP00180,Roberta Cross,brendadavis351@iba.edu.pk,325435261,NED University,Electrical Engineering,2.37,04/03/2024 12:35,12,206.115.84.169,Mobile,425,0.535,FALSE,FALSE,1,university,normal
+APP00100,Kelly Floyd,crobinson139@iba.edu.pk,338610879,Quaid-i-Azam University,Accounting,3.8,27/06/2024 16:26,16,90.147.107.175,Desktop,721,0.085,FALSE,FALSE,1,university,normal
+APP00522,Andrea Shannon,wcarter119@iba.edu.pk,306217400,University of Punjab,Computer Science,3.31,01/06/2024 21:05,21,41.38.115.54,Mobile,461,0.025,FALSE,FALSE,1,university,normal
+APP00023,Teresa Chan,jerome89949@live.com,335785687,University of Karachi,Accounting,3.82,22/05/2024 18:45,18,72.88.9.28,Mobile,618,0.163,FALSE,FALSE,1,legit,normal
+APP00357,Veronica Nguyen,jason55339@outlook.com,321844744,Air University,Software Engineering,3.05,06/04/2024 14:52,14,148.137.244.217,Mobile,360,0.244,FALSE,FALSE,1,legit,normal
+APP00799,Allen Combs,zwilkins516@outlook.com,304902479,FAST NUCES,Data Science,3.44,01/02/2024 12:15,12,148.42.127.41,Mobile,875,0.134,FALSE,FALSE,1,legit,normal
+APP01021,David Nichols,user4532@mailinator.com,3001810137,NED University,Data Science,0.27,14/03/2024 3:03,3,197.67.240.58,Mobile,3,0.885,TRUE,TRUE,11,disposable,fake
+APP00612,Megan Carrillo,daniel49504@hotmail.com,311477187,NUST,Mechanical Engineering,2.53,18/01/2024 17:47,17,149.238.234.189,Desktop,490,0.311,FALSE,FALSE,1,legit,normal
+APP00838,Jasmine Rojas,clarktimothy@yahoo.com,307077140,Bahria University,Mechanical Engineering,3.12,22/06/2024 20:54,20,199.187.59.104,Mobile,271,0.836,FALSE,FALSE,1,legit,suspicious
+APP00341,Nicholas Jones,tandrews306@gmail.com,328649174,Bahria University,Data Science,3.13,27/03/2024 14:56,14,192.28.190.115,Tablet,823,0.189,FALSE,FALSE,1,legit,normal
+APP00432,Keith Crawford,hurleywilliam485@hotmail.com,303962978,University of Karachi,Electrical Engineering,2.26,10/06/2024 16:34,16,6.34.107.27,Mobile,857,0.268,FALSE,FALSE,1,legit,normal
+APP00658,Jessica Grimes,dhorton483@lums.edu.pk,336582152,Bahria University,Electrical Engineering,3.67,26/01/2024 21:10,21,216.161.61.208,Mobile,835,0.037,FALSE,FALSE,1,university,normal
+APP00988,Kayla Williams,brownchristine@guerrillamail.com,323337125,COMSATS,Accounting,2.89,03/01/2024 10:22,10,202.20.213.142,Tablet,632,0.277,FALSE,FALSE,1,disposable,suspicious
+APP00204,Terri Sosa,urollins243@nu.edu.pk,323403511,SZABIST,Data Science,2.42,17/03/2024 12:03,12,88.160.220.83,Tablet,690,0.484,FALSE,FALSE,1,university,normal
+APP00757,Lisa Smith,ryanhicks244@gmail.com,308081010,Quaid-i-Azam University,Software Engineering,3.86,12/06/2024 22:12,22,185.104.232.184,Mobile,190,0.367,FALSE,FALSE,1,legit,normal
+APP00094,Chelsea Walker,david54644@hotmail.com,301661401,UET Lahore,Mechanical Engineering,2.84,28/05/2024 13:46,13,221.252.210.199,Mobile,254,0.162,FALSE,FALSE,1,legit,normal
+APP01091,Johnny Anderson,user954@throwam.com,3001550972,University of Karachi,Accounting,3.53,16/05/2024 1:00,1,129.226.0.248,Mobile,6,0.909,TRUE,TRUE,10,disposable,fake
+APP00069,William Phillips,jonathandavis440@uet.edu.pk,322010496,NED University,Accounting,2.19,23/02/2024 18:13,18,129.103.207.58,Desktop,390,0.086,FALSE,FALSE,1,university,normal
+APP01082,Johnny Anderson,user1073@tempmail.com,3007532030,Air University,Data Science,0.36,02/03/2024 2:03,2,197.67.240.58,Mobile,4,0.915,TRUE,FALSE,5,disposable,fake
+APP00285,Tracy Stephenson,ryansosa718@nust.edu.pk,326336123,COMSATS,Business Administration,2.44,21/02/2024 10:49,10,100.43.112.72,Mobile,718,0.058,FALSE,FALSE,1,university,normal
+APP00953,Tracy Ellis,edward53@gmail.com,305356836,University of Punjab,Mechanical Engineering,2.08,13/01/2024 4:04,4,108.234.221.118,Mobile,390,0.337,FALSE,FALSE,1,legit,suspicious
+APP00435,Troy Trevino,ncole204@uet.edu.pk,315774942,Quaid-i-Azam University,Business Administration,3.28,04/05/2024 20:47,20,123.9.19.131,Tablet,577,0.21,FALSE,FALSE,1,university,normal
+APP00154,Michael Reynolds,johnpatton976@hotmail.com,303395441,PMAS-UAAR,Data Science,3.29,22/04/2024 8:08,8,112.171.9.31,Mobile,188,0.355,FALSE,FALSE,1,legit,normal
+APP00076,Tyler Hutchinson,cainrick879@yahoo.com,316533187,University of Karachi,Accounting,2.94,18/06/2024 14:52,14,93.74.32.102,Desktop,898,0.25,FALSE,FALSE,1,legit,normal
+APP00873,Jason Daniel,ejones@gmail.com,334101100,UET Lahore,Electrical Engineering,2.71,18/03/2024 2:06,2,157.133.231.17,Mobile,805,0.303,FALSE,FALSE,1,legit,suspicious
+APP00581,Tina Thompson,jcombs891@nust.edu.pk,317300387,University of Punjab,Software Engineering,2.14,29/05/2024 15:03,15,214.255.145.240,Mobile,566,0.51,FALSE,FALSE,1,university,normal
+APP00447,Virginia Bender,rowens665@live.com,327927377,IBA Karachi,Mechanical Engineering,2.13,04/02/2024 12:07,12,89.167.71.160,Mobile,772,0.249,FALSE,FALSE,1,legit,normal
+APP00189,Samantha Garcia,xsmith736@live.com,311236293,Bahria University,Business Administration,3.5,25/05/2024 18:48,18,199.243.165.76,Mobile,317,0.471,FALSE,FALSE,1,legit,normal
+APP00272,Gregory Frazier,tyler74550@hotmail.com,327555386,NED University,Accounting,3.45,15/06/2024 18:41,18,29.69.74.79,Mobile,187,0.241,FALSE,FALSE,1,legit,normal
+APP00237,Jonathan Silva,tmedina654@uet.edu.pk,302834914,GIK Institute,Software Engineering,3.25,31/03/2024 10:41,10,85.11.53.4,Mobile,747,0.541,FALSE,FALSE,1,university,normal
+APP00488,Janet Turner,wilsonadam90@hotmail.com,339736195,SZABIST,Data Science,3.66,24/06/2024 11:26,11,222.198.206.66,Desktop,366,0.235,FALSE,FALSE,1,legit,normal
+APP01065,Johnny Anderson,user1804@mailinator.com,3006701752,Air University,Mechanical Engineering,4.01,14/06/2024 2:01,2,113.129.253.61,Mobile,3,0.905,TRUE,FALSE,18,disposable,fake
+APP00560,Michelle Wheeler,gutierreztonya72@lums.edu.pk,334366669,NED University,Electrical Engineering,2.34,05/05/2024 9:09,9,156.68.209.151,Desktop,673,0.12,FALSE,FALSE,1,university,normal
+APP00118,Bradley Nelson,ugraham453@uet.edu.pk,335582979,IBA Karachi,Mechanical Engineering,2.97,29/03/2024 14:07,14,169.139.134.187,Desktop,410,0.326,FALSE,FALSE,1,university,normal
+APP00881,Tyler White,joshuagreen@gmail.com,315896318,FAST NUCES,Accounting,2.29,12/03/2024 22:08,22,207.205.159.171,Tablet,108,0.028,FALSE,FALSE,4,legit,suspicious
+APP00969,Chad Morris,edward85@gmail.com,317884009,PMAS-UAAR,Software Engineering,3.29,06/02/2024 13:31,13,109.157.130.130,Mobile,151,0.885,FALSE,FALSE,1,legit,suspicious
+APP00513,Christopher Phillips,cartermichael819@outlook.com,337946457,FAST NUCES,Business Administration,2.66,12/06/2024 11:00,11,218.139.43.208,Mobile,775,0.155,FALSE,FALSE,1,legit,normal
+APP00634,Megan Bailey,jennifermartinez268@iba.edu.pk,321296459,GIK Institute,Computer Science,3.88,31/01/2024 14:28,14,93.163.252.28,Tablet,442,0.243,FALSE,FALSE,1,university,normal
+APP00849,Nancy Garrett,marthamendez@tempmail.com,305264422,SZABIST,Electrical Engineering,3.83,06/02/2024 16:13,16,204.173.21.120,Desktop,192,0.148,FALSE,FALSE,1,disposable,suspicious
+APP01000,Lori Young,lamberttroy@tempmail.com,302860164,NED University,Electrical Engineering,3.83,08/03/2024 18:01,18,35.220.118.35,Mobile,153,0.143,TRUE,FALSE,1,legit,suspicious
+APP00712,Raymond Tucker,karla54795@nust.edu.pk,316058857,NUST,Computer Science,3.02,09/04/2024 19:46,19,81.212.252.110,Tablet,877,0.286,FALSE,FALSE,1,university,normal
+APP00127,Samuel Wong,hallmelanie318@yahoo.com,338581856,FAST NUCES,Computer Science,2.7,14/03/2024 9:41,9,179.44.177.228,Desktop,212,0.279,FALSE,FALSE,1,legit,normal
+APP00117,Ryan Sexton,adammiller796@nu.edu.pk,301882629,LUMS,Software Engineering,3.43,13/01/2024 18:05,18,62.128.166.124,Mobile,398,0.233,FALSE,FALSE,1,university,normal
+APP00474,Sean Bryant,pjohnson953@nust.edu.pk,304803691,Bahria University,Accounting,3.61,03/01/2024 18:49,18,86.86.59.47,Mobile,767,0.168,FALSE,FALSE,1,university,normal
+APP00826,Tammy Keller,williamsnathan@live.com,303145157,COMSATS,Mechanical Engineering,2.17,21/06/2024 1:55,1,69.7.97.193,Mobile,598,0.245,FALSE,FALSE,1,legit,suspicious
+APP00058,Mr. Edward Alvarez MD,courtney75109@lums.edu.pk,337076506,SZABIST,Mechanical Engineering,2.87,09/02/2024 14:11,14,114.110.39.183,Desktop,871,0.358,FALSE,FALSE,1,university,normal
+APP00604,Joseph Ingram,cabreramadeline412@gmail.com,318482180,Quaid-i-Azam University,Computer Science,2.62,04/06/2024 18:12,18,79.130.199.52,Desktop,717,0.43,FALSE,FALSE,1,legit,normal
+APP00899,Richard Tanner,ashley29@yahoo.com,311937270,Bahria University,Software Engineering,2.23,27/06/2024 19:09,19,181.72.194.192,Desktop,46,0.383,FALSE,FALSE,5,legit,suspicious
+APP00657,Mark Hughes,john35305@outlook.com,313688166,University of Punjab,Electrical Engineering,3.2,13/06/2024 14:50,14,129.79.167.137,Mobile,154,0.044,FALSE,FALSE,1,legit,normal
+APP00756,Barbara Kelley,sandra10319@nu.edu.pk,313473113,COMSATS,Business Administration,3.15,15/03/2024 13:00,13,195.140.141.47,Desktop,650,0.373,FALSE,FALSE,1,university,normal
+APP00106,Michael Kelly,martinezelizabeth539@nust.edu.pk,302066326,COMSATS,Electrical Engineering,3.48,11/05/2024 17:06,17,124.78.92.17,Desktop,582,0.52,FALSE,FALSE,1,university,normal
+APP00636,Craig Herring,jessicavance692@uet.edu.pk,338882244,COMSATS,Data Science,3.62,09/05/2024 8:25,8,145.177.78.163,Mobile,389,0.534,FALSE,FALSE,1,university,normal
+APP00370,Alexander Cruz,hansonchristopher294@hotmail.com,323456660,PMAS-UAAR,Computer Science,3.31,16/03/2024 11:48,11,220.18.245.137,Mobile,674,0.448,FALSE,FALSE,1,legit,normal
+APP00269,Duane Murphy,wbennett957@nu.edu.pk,323214305,University of Karachi,Mechanical Engineering,3.59,17/04/2024 13:34,13,67.81.88.15,Mobile,819,0.259,FALSE,FALSE,1,university,normal
+APP00656,Mary Smith,patricia05548@yahoo.com,318422287,University of Karachi,Computer Science,3.73,10/04/2024 22:58,22,135.220.57.57,Mobile,381,0.515,FALSE,FALSE,1,legit,normal
+APP00047,Stuart Welch,hernandezpaul861@outlook.com,329745959,COMSATS,Accounting,2.45,22/04/2024 9:45,9,218.57.34.232,Mobile,412,0.185,FALSE,FALSE,1,legit,normal
+APP00350,Jordan Brown,amycarroll98@yahoo.com,301162274,PMAS-UAAR,Software Engineering,3.26,13/02/2024 13:22,13,174.72.103.64,Tablet,568,0.148,FALSE,FALSE,1,legit,normal
+APP00196,Danielle Walker,angela27501@uet.edu.pk,309562677,COMSATS,Mechanical Engineering,2.11,03/02/2024 16:26,16,218.92.163.71,Desktop,587,0.307,FALSE,FALSE,1,university,normal
+APP00103,Susan Johnson,williamsclaudia94@lums.edu.pk,311358318,FAST NUCES,Mechanical Engineering,2.63,02/02/2024 20:36,20,13.153.181.231,Mobile,330,0.421,FALSE,FALSE,1,university,normal
+APP00989,Mark Morgan,andresmith@live.com,339607469,NUST,Software Engineering,3.28,31/03/2024 18:46,18,190.4.209.183,Mobile,696,0.854,FALSE,FALSE,1,legit,suspicious
+APP00944,April Miller,belindamitchell@outlook.com,311566398,Air University,Business Administration,3.14,16/03/2024 17:52,17,80.176.73.47,Tablet,21,0.292,FALSE,FALSE,1,legit,suspicious
+APP00824,Katelyn Jacobson,fsalas@throwam.com,306405343,FAST NUCES,Accounting,2.7,12/01/2024 20:47,20,119.195.86.210,Desktop,453,0.128,FALSE,FALSE,1,disposable,suspicious
+APP01036,Fernando Aguirre,user6124@guerrillamail.com,3006237674,GIK Institute,Business Administration,0.32,21/02/2024 1:02,1,208.244.179.164,Mobile,6,0.925,TRUE,FALSE,18,disposable,fake
+APP00264,Charles Miller,ematthews903@nu.edu.pk,323300647,University of Karachi,Mechanical Engineering,3.55,04/02/2024 18:43,18,20.37.91.39,Mobile,266,0.31,FALSE,FALSE,1,university,normal
+APP00895,William Bryant,georgejennifer@throwam.com,308171473,Bahria University,Business Administration,2.28,23/03/2024 10:11,10,104.16.135.135,Mobile,514,0.272,FALSE,FALSE,1,disposable,suspicious
+APP00444,Larry Meadows,jenniferrhodes1@gmail.com,316769431,UET Lahore,Electrical Engineering,3.02,25/06/2024 22:31,22,99.0.102.121,Mobile,893,0.005,FALSE,FALSE,1,legit,normal
+APP00808,Bradley Cunningham,jacobboyd475@nust.edu.pk,328610197,UET Lahore,Electrical Engineering,3.07,03/05/2024 9:21,9,62.100.199.10,Desktop,259,0.108,FALSE,FALSE,1,university,normal
+APP00305,Debra Doyle,sara8212@lums.edu.pk,324517918,IBA Karachi,Accounting,2.13,06/03/2024 20:06,20,15.121.240.15,Mobile,857,0.212,FALSE,FALSE,1,university,normal
+APP00342,Nancy Bennett,michael37368@lums.edu.pk,313766286,University of Punjab,Mechanical Engineering,2.77,28/02/2024 11:46,11,97.204.187.78,Mobile,254,0.012,FALSE,FALSE,1,university,normal
+APP00723,Victor Miller,ashleysweeney70@nu.edu.pk,308005748,COMSATS,Data Science,2.59,25/04/2024 22:21,22,2.225.115.86,Mobile,506,0.396,FALSE,FALSE,1,university,normal
+APP00314,Nicholas Garner,ariel96424@iba.edu.pk,312023137,PMAS-UAAR,Electrical Engineering,3.55,17/04/2024 16:43,16,62.185.122.31,Desktop,606,0.13,FALSE,FALSE,1,university,normal
+APP00150,Andrea Butler,ericawright887@gmail.com,325583814,NUST,Mechanical Engineering,2.7,12/04/2024 19:28,19,147.142.110.47,Mobile,515,0.103,FALSE,FALSE,1,legit,normal
+APP00125,Bobby Frederick,mchavez263@hotmail.com,313910830,NED University,Software Engineering,3.44,16/06/2024 9:11,9,195.227.16.131,Mobile,763,0.415,FALSE,FALSE,1,legit,normal
+APP00934,Dustin Travis,corey00@throwam.com,311466714,NED University,Accounting,3.06,21/01/2024 17:24,17,16.64.138.153,Desktop,145,0.072,FALSE,FALSE,1,disposable,suspicious
+APP00974,Samuel Clay,ujones@yopmail.com,308219619,Quaid-i-Azam University,Accounting,3.63,13/01/2024 12:08,12,39.54.48.182,Tablet,478,0.432,FALSE,FALSE,1,disposable,suspicious
+APP00665,Todd Martin,cartergregory731@outlook.com,314196800,PMAS-UAAR,Mechanical Engineering,3.49,14/03/2024 19:31,19,175.148.65.118,Mobile,511,0.471,FALSE,FALSE,1,legit,normal
+APP00051,Glenn Roberts,mariovaughn399@gmail.com,327783308,Bahria University,Software Engineering,3.6,02/02/2024 17:34,17,135.148.95.251,Tablet,147,0.326,FALSE,FALSE,1,legit,normal
+APP00354,Cindy Stanley,mpatterson65@gmail.com,326272037,FAST NUCES,Accounting,3.65,14/05/2024 20:47,20,162.240.246.43,Desktop,710,0.123,FALSE,FALSE,1,legit,normal
+APP01058,Danielle Rodriguez,user1420@yopmail.com,3001527610,University of Punjab,Computer Science,0.29,30/05/2024 3:02,3,113.129.253.61,Mobile,5,0.919,TRUE,TRUE,8,disposable,fake
+APP00143,James Edwards,cunninghammonica434@iba.edu.pk,305833542,IBA Karachi,Business Administration,2.23,02/03/2024 14:40,14,208.40.162.71,Mobile,757,0.061,FALSE,FALSE,1,university,normal
+APP00471,Jackson King,jessicastuart570@iba.edu.pk,312581875,FAST NUCES,Electrical Engineering,2.68,05/02/2024 12:23,12,107.103.255.110,Mobile,716,0.141,FALSE,FALSE,1,university,normal
+APP00654,Desiree Garcia,jennifertrevino384@iba.edu.pk,306309820,Air University,Electrical Engineering,2.9,04/03/2024 12:56,12,61.253.191.37,Mobile,268,0.394,FALSE,FALSE,1,university,normal
+APP00400,Stacie Anderson,wrightmichael529@outlook.com,336920646,PMAS-UAAR,Mechanical Engineering,2.66,03/05/2024 22:38,22,106.53.134.236,Desktop,126,0.076,FALSE,FALSE,1,legit,normal
+APP00751,Guy Santiago,jennifer09802@yahoo.com,312040224,University of Punjab,Mechanical Engineering,2.84,18/03/2024 17:40,17,102.195.45.53,Mobile,562,0.373,FALSE,FALSE,1,legit,normal
+APP00321,Richard Guerra,gonzalezmichael708@nu.edu.pk,311826965,Bahria University,Electrical Engineering,3.75,05/04/2024 8:21,8,116.158.126.196,Mobile,430,0.464,FALSE,FALSE,1,university,normal
+APP00020,Timothy Allen,ocarter885@lums.edu.pk,302651177,FAST NUCES,Electrical Engineering,3.38,28/01/2024 11:12,11,26.52.119.75,Desktop,314,0.077,FALSE,FALSE,1,university,normal
+APP00685,David Johnson,katelynguerrero536@outlook.com,335957359,NED University,Computer Science,3.05,12/01/2024 16:06,16,55.211.65.206,Mobile,642,0.052,FALSE,FALSE,1,legit,normal
+APP00959,William Aguirre,nathancarlson@gmail.com,311278299,University of Punjab,Electrical Engineering,2.36,08/01/2024 15:42,15,142.154.88.182,Mobile,663,0.878,FALSE,FALSE,1,legit,suspicious
+APP00938,Miss Catherine Fleming,robertharrison@yopmail.com,318044872,University of Karachi,Business Administration,3.24,25/04/2024 20:10,20,119.102.205.190,Mobile,304,0.497,FALSE,FALSE,1,disposable,suspicious
+APP01073,Jessica Dorsey,user7140@throwam.com,3002330152,PMAS-UAAR,Electrical Engineering,0.34,06/06/2024 2:00,2,208.244.179.164,Mobile,6,0.906,TRUE,FALSE,18,disposable,fake
+APP00408,Maria Gonzalez,thomas79535@nust.edu.pk,337213902,PMAS-UAAR,Computer Science,3.33,19/04/2024 11:51,11,221.202.97.131,Desktop,613,0.21,FALSE,FALSE,1,university,normal
+APP00538,Christopher Clark,patrick8164@live.com,321891328,FAST NUCES,Accounting,3.06,01/04/2024 9:55,9,146.101.101.201,Tablet,408,0.129,FALSE,FALSE,1,legit,normal
+APP00950,Joseph Boyd,elizabeth47@gmail.com,332595845,PMAS-UAAR,Mechanical Engineering,2.81,18/03/2024 12:20,12,73.151.37.218,Mobile,19,0.044,FALSE,FALSE,1,legit,suspicious
+APP00746,John King,sue83443@nu.edu.pk,335597554,NUST,Accounting,2.98,06/05/2024 13:33,13,128.22.34.246,Mobile,897,0.397,FALSE,FALSE,1,university,normal
+APP00039,Brendan Shannon,andremartinez373@outlook.com,332173965,SZABIST,Business Administration,3.18,18/06/2024 21:07,21,52.207.107.116,Tablet,857,0.279,FALSE,FALSE,1,legit,normal
+APP00176,Sarah Lambert,xwilliams690@nu.edu.pk,307988386,NED University,Business Administration,3.51,25/06/2024 18:01,18,148.202.32.30,Mobile,731,0.532,FALSE,FALSE,1,university,normal
+APP00246,Jason Eaton,holly62941@live.com,303247270,Quaid-i-Azam University,Computer Science,2.45,30/01/2024 10:23,10,14.213.172.173,Mobile,830,0.214,FALSE,FALSE,1,legit,normal
+APP00982,Sarah Thompson,elizabeth35@gmail.com,319661473,LUMS,Data Science,3.44,06/05/2024 10:14,10,69.125.238.17,Desktop,811,0.827,FALSE,FALSE,1,legit,suspicious
+APP00800,Daniel Best PhD,philip0862@yahoo.com,317283463,COMSATS,Business Administration,2.38,06/04/2024 11:41,11,26.14.94.131,Mobile,158,0.399,FALSE,FALSE,1,legit,normal
+APP01059,Mary Carter,user679@guerrillamail.com,3008070049,COMSATS,Business Administration,0.37,19/03/2024 2:03,2,113.129.253.61,Mobile,3,0.933,TRUE,TRUE,19,disposable,fake
+APP01018,Brian Miller,user6124@guerrillamail.com,3001571694,PMAS-UAAR,Electrical Engineering,3.54,15/05/2024 23:03,23,117.72.183.14,Mobile,3,0.964,TRUE,TRUE,12,disposable,fake
+APP00155,Devon Barron MD,torresterry393@nu.edu.pk,303574265,SZABIST,Electrical Engineering,3.8,05/04/2024 15:48,15,35.184.86.203,Desktop,198,0.291,FALSE,FALSE,1,university,normal
+APP00639,Sean Robinson,weaverjacob607@live.com,302098911,PMAS-UAAR,Business Administration,2.22,13/02/2024 8:34,8,210.48.57.64,Mobile,453,0.362,FALSE,FALSE,1,legit,normal
+APP00663,Richard Anderson,alexander96663@iba.edu.pk,312492779,COMSATS,Software Engineering,2.5,13/02/2024 8:25,8,29.158.211.30,Mobile,752,0.143,FALSE,FALSE,1,university,normal
+APP00288,Charles Roberts,jonathan90694@gmail.com,325364874,PMAS-UAAR,Software Engineering,2.06,13/04/2024 21:28,21,138.158.80.38,Desktop,689,0.137,FALSE,FALSE,1,legit,normal
+APP00626,Kristen Murray,dianaconway127@nu.edu.pk,332850798,Air University,Software Engineering,2.94,02/04/2024 19:18,19,25.215.42.231,Desktop,690,0.045,FALSE,FALSE,1,university,normal
+APP00686,Nicole Lawson,simonchristine833@uet.edu.pk,326963589,UET Lahore,Data Science,2.16,08/05/2024 8:07,8,149.233.76.143,Desktop,878,0.099,FALSE,FALSE,1,university,normal
+APP00727,Charles Garcia,courtneygarcia535@uet.edu.pk,318983198,Air University,Computer Science,2.23,16/05/2024 10:01,10,86.175.87.189,Desktop,401,0.135,FALSE,FALSE,1,university,normal
+APP00570,Joseph Price,clambert841@live.com,308653507,NED University,Software Engineering,3.59,17/01/2024 21:52,21,188.169.32.10,Mobile,228,0.327,FALSE,FALSE,1,legit,normal
+APP00887,Justin Gibson,ymoon@outlook.com,309837877,LUMS,Accounting,3.46,04/01/2024 17:06,17,66.139.212.26,Mobile,506,0.722,FALSE,FALSE,1,legit,suspicious
+APP00018,Andrea Campbell,laurieholder235@gmail.com,301527021,PMAS-UAAR,Business Administration,2.13,01/03/2024 12:42,12,108.196.213.66,Mobile,617,0.073,FALSE,FALSE,1,legit,normal
+APP00128,Sandra Palmer,fullertyler595@lums.edu.pk,308545279,University of Punjab,Mechanical Engineering,3.09,18/02/2024 13:38,13,27.108.235.175,Desktop,607,0.527,FALSE,FALSE,1,university,normal
+APP00323,Brian Johnson,johnsondavid217@lums.edu.pk,339127895,GIK Institute,Data Science,3.65,15/01/2024 16:50,16,171.187.181.51,Mobile,282,0.39,FALSE,FALSE,1,university,normal
+APP00256,Tracy Parrish,terrycindy502@nust.edu.pk,315508325,SZABIST,Electrical Engineering,2.71,20/01/2024 18:50,18,124.59.98.180,Mobile,215,0.412,FALSE,FALSE,1,university,normal
+APP00787,Kaitlyn Flynn,mduncan79@nu.edu.pk,309462341,GIK Institute,Mechanical Engineering,2.62,25/04/2024 10:16,10,183.73.17.251,Desktop,332,0.254,FALSE,FALSE,1,university,normal
+APP01083,Danielle Rodriguez,user7169@throwam.com,3005111205,SZABIST,Data Science,0.17,08/05/2024 1:02,1,208.244.179.164,Mobile,3,0.967,TRUE,FALSE,7,disposable,fake
+APP00191,Tiffany Butler DDS,rsilva393@live.com,318494978,GIK Institute,Business Administration,3.81,18/03/2024 17:46,17,88.232.238.83,Mobile,706,0.36,FALSE,FALSE,1,legit,normal
+APP00116,Rebecca King,gentryanthony72@nust.edu.pk,311514340,NUST,Accounting,3.01,06/04/2024 14:29,14,222.69.185.55,Mobile,469,0.171,FALSE,FALSE,1,university,normal
+APP01078,Mary Carter,user9103@tempmail.com,3005762844,Air University,Accounting,4.25,06/04/2024 1:00,1,129.226.0.248,Mobile,3,0.999,TRUE,FALSE,14,disposable,fake
+APP00742,Laura Garrett,lynchcharlene197@nu.edu.pk,306086491,GIK Institute,Accounting,2.42,06/05/2024 13:02,13,179.185.150.58,Mobile,407,0.387,FALSE,FALSE,1,university,normal
+APP00607,Eric Davis,fergusonmargaret457@live.com,304618764,Bahria University,Electrical Engineering,3.41,16/04/2024 20:28,20,175.25.7.101,Mobile,415,0.4,FALSE,FALSE,1,legit,normal
+APP00181,Melissa Hatfield,harrisonwilliam790@live.com,324477544,Bahria University,Accounting,2.93,02/05/2024 13:35,13,185.158.212.181,Mobile,858,0.067,FALSE,FALSE,1,legit,normal
+APP00302,Justin Reed,heatherjones725@hotmail.com,324745298,SZABIST,Data Science,3.55,06/04/2024 12:46,12,54.227.33.215,Mobile,825,0.098,FALSE,FALSE,1,legit,normal
+APP00904,Shannon Joseph,frederickveronica@outlook.com,312295356,PMAS-UAAR,Accounting,2.91,21/03/2024 18:41,18,141.13.170.81,Desktop,94,0.091,FALSE,FALSE,5,legit,suspicious
+APP00851,Jessica Butler,joel85@live.com,332106614,Quaid-i-Azam University,Accounting,2.17,26/03/2024 20:17,20,32.34.170.234,Tablet,269,0.722,FALSE,FALSE,1,legit,suspicious
+APP00973,Jacqueline Santiago,cgonzalez@yahoo.com,329167564,UET Lahore,Computer Science,3.56,04/01/2024 1:02,1,151.108.178.14,Mobile,342,0.326,FALSE,FALSE,1,legit,suspicious
+APP00818,Amanda Hicks,michaeladams462@yahoo.com,314114489,IBA Karachi,Computer Science,3.42,19/02/2024 12:57,12,216.170.142.169,Mobile,538,0.502,FALSE,FALSE,1,legit,normal
+APP00794,Julia Foley,zcarroll817@yahoo.com,313802587,FAST NUCES,Electrical Engineering,2.97,24/03/2024 13:35,13,58.105.204.52,Mobile,761,0.114,FALSE,FALSE,1,legit,normal
+APP00518,Carla James,jenniferford642@nust.edu.pk,317535837,LUMS,Data Science,2.22,19/03/2024 19:54,19,141.223.144.115,Desktop,442,0.149,FALSE,FALSE,1,university,normal
+APP00373,Wayne James,nhicks774@nu.edu.pk,314246352,UET Lahore,Electrical Engineering,2.34,23/06/2024 9:11,9,194.177.102.154,Desktop,297,0.066,FALSE,FALSE,1,university,normal
+APP00046,Michael Schneider,beandavid325@uet.edu.pk,339468772,University of Karachi,Mechanical Engineering,3.72,24/04/2024 22:10,22,53.203.247.13,Tablet,881,0.248,FALSE,FALSE,1,university,normal
+APP00477,William Miller,michaelking409@iba.edu.pk,322427388,University of Karachi,Data Science,2.83,27/06/2024 10:48,10,113.247.49.118,Mobile,258,0.109,FALSE,FALSE,1,university,normal
+APP00158,Robin Yu,johnsonangelica684@nu.edu.pk,322089496,Air University,Data Science,2.55,17/03/2024 21:10,21,63.13.99.251,Desktop,848,0.385,FALSE,FALSE,1,university,normal
+APP00888,Roberto Baker,diane37@gmail.com,315166503,GIK Institute,Computer Science,2.52,09/06/2024 17:00,17,117.114.221.137,Tablet,129,0.845,FALSE,FALSE,1,legit,suspicious
+APP00172,Nathan Wilson,bdiaz200@iba.edu.pk,325841933,NUST,Electrical Engineering,2.96,20/05/2024 12:52,12,223.80.178.9,Desktop,758,0.065,FALSE,FALSE,1,university,normal
+APP00017,Laura Phillips,davidyoung449@nu.edu.pk,333030113,IBA Karachi,Software Engineering,2.12,06/01/2024 17:35,17,112.74.68.199,Desktop,355,0.004,FALSE,FALSE,1,university,normal
+APP00512,Jacqueline Webb,mcmahonstacy505@lums.edu.pk,314904421,Bahria University,Business Administration,3.86,01/01/2024 9:01,9,96.92.186.223,Desktop,596,0.065,FALSE,FALSE,1,university,normal
+APP00049,Samuel Fletcher,jennifer3264@nust.edu.pk,318048838,University of Karachi,Mechanical Engineering,3.11,27/06/2024 8:54,8,222.229.226.90,Mobile,709,0.003,FALSE,FALSE,1,university,normal
+APP00192,Matthew Lopez,courtney7664@outlook.com,308808032,UET Lahore,Software Engineering,2.77,08/05/2024 22:57,22,97.122.57.11,Desktop,840,0.38,FALSE,FALSE,1,legit,normal
+APP00997,Samuel Meyer,catherine02@outlook.com,314480849,NED University,Mechanical Engineering,2.92,31/03/2024 4:39,4,186.75.93.78,Tablet,692,0.441,FALSE,FALSE,1,legit,suspicious
+APP00516,Emily Garcia,warreneric160@lums.edu.pk,336622207,COMSATS,Mechanical Engineering,3.55,15/01/2024 21:33,21,137.26.119.67,Desktop,426,0.373,FALSE,FALSE,1,university,normal
+APP00813,Jodi Williamson,terri90467@uet.edu.pk,315266245,IBA Karachi,Data Science,3.1,18/06/2024 21:10,21,186.224.148.173,Mobile,132,0.051,FALSE,FALSE,1,university,normal
+APP00917,Tiffany Oneill,bradshawalexandra@outlook.com,322081652,Quaid-i-Azam University,Business Administration,3.94,04/05/2024 11:44,11,103.182.213.211,Mobile,59,0.153,FALSE,FALSE,7,legit,suspicious
+APP00481,Mr. Eric Davis,donald99249@gmail.com,315826554,FAST NUCES,Business Administration,3.32,29/01/2024 12:28,12,222.223.216.152,Mobile,602,0.115,FALSE,FALSE,1,legit,normal
+APP00284,Jeremy Owens,samanthacruz518@yahoo.com,317616116,NUST,Data Science,3.08,21/04/2024 18:08,18,87.68.213.167,Mobile,362,0.468,FALSE,FALSE,1,legit,normal
+APP01081,Mary Thompson,user3790@guerrillamail.com,3007883587,IBA Karachi,Accounting,3.8,21/01/2024 23:00,23,129.226.0.248,Mobile,6,0.9,TRUE,TRUE,20,disposable,fake
+APP00784,Elizabeth Jackson,tylergray41@uet.edu.pk,305830358,SZABIST,Electrical Engineering,2.66,17/03/2024 14:39,14,135.18.251.89,Mobile,299,0.099,FALSE,FALSE,1,university,normal
+APP00226,Stephen Vasquez,davidanderson731@outlook.com,302376369,UET Lahore,Software Engineering,2.72,11/06/2024 10:47,10,103.188.177.200,Mobile,518,0.059,FALSE,FALSE,1,legit,normal
+APP00027,Jerry Todd,kara43324@lums.edu.pk,301156287,COMSATS,Data Science,3.9,26/01/2024 9:34,9,13.35.84.213,Desktop,338,0.073,FALSE,FALSE,1,university,normal
+APP01010,Danielle Rodriguez,user679@guerrillamail.com,3005328638,GIK Institute,Mechanical Engineering,3.56,14/02/2024 2:00,2,113.129.253.61,Mobile,2,0.902,TRUE,TRUE,19,disposable,fake
+APP00438,Frank Marshall,nielsenholly766@nu.edu.pk,337945583,LUMS,Software Engineering,3.62,02/02/2024 19:15,19,6.211.138.224,Mobile,797,0.409,FALSE,FALSE,1,university,normal
+APP01072,Cynthia Nguyen,user1804@mailinator.com,3001642355,LUMS,Data Science,0.29,11/05/2024 1:02,1,3.115.24.253,Mobile,7,0.931,TRUE,FALSE,5,disposable,fake
+APP00365,Carla Rodriguez,joseph66709@hotmail.com,313153888,NUST,Electrical Engineering,3.25,04/06/2024 22:20,22,30.30.73.110,Tablet,636,0.23,FALSE,FALSE,1,legit,normal
+APP00230,Elizabeth Moore,fchurch283@nust.edu.pk,336029008,COMSATS,Mechanical Engineering,2.15,05/03/2024 11:46,11,182.207.103.162,Mobile,760,0.339,FALSE,FALSE,1,university,normal
+APP00038,Lisa Newton,jessicapierce447@nu.edu.pk,307462506,University of Punjab,Data Science,2.36,12/01/2024 19:27,19,31.25.187.169,Desktop,121,0.444,FALSE,FALSE,1,university,normal
+APP00670,Tricia Stephens,kimberlyhammond595@gmail.com,315366969,LUMS,Data Science,2.94,27/03/2024 22:29,22,103.71.96.217,Mobile,255,0.391,FALSE,FALSE,1,legit,normal
+APP00750,Kelly Jackson,stephanie10967@outlook.com,308357303,GIK Institute,Computer Science,3.19,28/05/2024 9:05,9,49.180.49.189,Tablet,182,0.208,FALSE,FALSE,1,legit,normal
+APP01084,Joel Lopez,user954@throwam.com,3007817366,PMAS-UAAR,Data Science,0.36,07/03/2024 1:00,1,113.129.253.61,Mobile,5,0.915,TRUE,TRUE,17,disposable,fake
+APP00375,Lisa Maynard,chadallen951@hotmail.com,321853212,GIK Institute,Accounting,3.17,18/06/2024 12:31,12,192.94.155.69,Desktop,706,0.04,FALSE,FALSE,1,legit,normal
+APP00470,James Gibson,peterbrown139@iba.edu.pk,321110206,UET Lahore,Software Engineering,2.41,21/03/2024 8:49,8,145.172.160.73,Desktop,826,0.506,FALSE,FALSE,1,university,normal
+APP01085,Joel Lopez,user1804@mailinator.com,3007701313,Bahria University,Data Science,4.32,07/02/2024 3:00,3,117.72.183.14,Mobile,4,0.959,TRUE,TRUE,9,disposable,fake
+APP00688,Mark Crawford,ronaldgutierrez828@uet.edu.pk,326726640,University of Punjab,Mechanical Engineering,3.54,24/02/2024 10:05,10,211.83.16.215,Tablet,884,0.143,FALSE,FALSE,1,university,normal
+APP01009,Patricia Cowan,user7169@throwam.com,3008763225,FAST NUCES,Electrical Engineering,3.68,22/05/2024 2:03,2,177.219.29.131,Mobile,6,0.913,TRUE,TRUE,15,disposable,fake
+APP01057,Philip Lucas,user7169@throwam.com,3003860089,FAST NUCES,Mechanical Engineering,3.78,21/04/2024 3:02,3,3.115.24.253,Mobile,4,0.891,TRUE,FALSE,11,disposable,fake
+APP00867,Joy Gonzalez,angela98@outlook.com,312841010,NUST,Mechanical Engineering,2.04,09/02/2024 13:32,13,90.225.90.64,Desktop,133,0.835,FALSE,FALSE,1,legit,suspicious
+APP00195,Travis Shah,kwells115@uet.edu.pk,309480665,IBA Karachi,Data Science,3.02,12/02/2024 13:54,13,186.151.25.83,Mobile,652,0.374,FALSE,FALSE,1,university,normal
+APP01014,Joel Lopez,user954@throwam.com,3003517835,University of Karachi,Mechanical Engineering,4.5,24/05/2024 23:00,23,208.244.179.164,Mobile,2,0.959,TRUE,FALSE,19,disposable,fake
+APP01024,Philip Lucas,user1294@yopmail.com,3008614329,UET Lahore,Computer Science,0.38,06/05/2024 3:00,3,177.219.29.131,Mobile,4,0.996,TRUE,TRUE,7,disposable,fake
+APP00504,Joseph Nguyen,vnicholson984@hotmail.com,311059272,NED University,Mechanical Engineering,2.48,27/04/2024 15:54,15,45.40.154.88,Desktop,630,0.003,FALSE,FALSE,1,legit,normal
+APP01086,David Nichols,user1259@throwam.com,3005437702,NUST,Business Administration,0.12,03/03/2024 3:02,3,208.244.179.164,Mobile,7,0.92,TRUE,TRUE,19,disposable,fake
+APP00985,David Ortiz,lynchmegan@live.com,308253691,LUMS,Accounting,2.04,06/02/2024 21:47,21,85.58.7.24,Mobile,793,0.839,FALSE,FALSE,1,legit,suspicious
+APP00580,Jacqueline Mcmillan,whitekenneth607@lums.edu.pk,328030765,IBA Karachi,Accounting,3.29,24/03/2024 11:49,11,24.45.67.47,Mobile,232,0.054,FALSE,FALSE,1,university,normal
+APP00161,Michael Holmes,justinmelendez658@nu.edu.pk,308549319,COMSATS,Accounting,2.98,02/02/2024 22:53,22,197.65.179.84,Desktop,684,0.1,FALSE,FALSE,1,university,normal
+APP00681,Nancy Jones,kherrera124@hotmail.com,329235014,GIK Institute,Electrical Engineering,3.4,20/03/2024 22:43,22,72.242.54.239,Mobile,737,0.366,FALSE,FALSE,1,legit,normal
+APP01038,Melissa Rodriguez,user7169@throwam.com,3007204577,COMSATS,Data Science,3.57,22/01/2024 1:01,1,129.226.0.248,Mobile,5,0.89,TRUE,TRUE,17,disposable,fake
+APP00163,Mitchell Gilmore,alvarezchristopher917@iba.edu.pk,322323049,UET Lahore,Software Engineering,3.21,21/05/2024 12:08,12,206.86.113.137,Mobile,760,0.293,FALSE,FALSE,1,university,normal
+APP00706,Thomas Patel,davidholmes294@nu.edu.pk,312429986,UET Lahore,Business Administration,3.36,16/04/2024 13:40,13,46.158.181.7,Mobile,800,0.414,FALSE,FALSE,1,university,normal
+APP00863,Eric Jones,blankenshiphannah@mailinator.com,302700165,University of Karachi,Electrical Engineering,2.39,15/05/2024 16:57,16,2.27.19.70,Mobile,277,0.502,FALSE,FALSE,1,disposable,suspicious
+APP00153,Kenneth Black,randy24630@nu.edu.pk,335606274,SZABIST,Mechanical Engineering,3.8,20/01/2024 18:40,18,10.145.38.226,Mobile,535,0.441,FALSE,FALSE,1,university,normal
+APP00814,Hector Munoz,farmeralexander408@nust.edu.pk,309699607,University of Punjab,Software Engineering,3.66,12/02/2024 21:27,21,217.138.13.245,Desktop,378,0.275,FALSE,FALSE,1,university,normal
+APP00834,Carrie Swanson,martinedward@tempmail.com,335890476,Bahria University,Electrical Engineering,2.11,26/03/2024 10:52,10,172.68.155.66,Mobile,853,0.403,FALSE,FALSE,1,disposable,suspicious
+APP00968,Samantha Henderson,edward53@gmail.com,306916088,UET Lahore,Accounting,2.65,12/05/2024 20:42,20,97.139.212.223,Mobile,730,0.148,TRUE,FALSE,1,legit,suspicious
+APP00112,Nicole Cruz,alexandra0962@iba.edu.pk,323050700,University of Karachi,Business Administration,3.66,18/04/2024 21:58,21,24.115.245.205,Mobile,858,0.158,FALSE,FALSE,1,university,normal
+APP00227,Jordan Jackson,bakerjohn966@gmail.com,328461429,Quaid-i-Azam University,Mechanical Engineering,2.51,03/02/2024 9:11,9,182.105.43.159,Mobile,561,0.305,FALSE,FALSE,1,legit,normal
+APP00821,David Carr,lisanewton@hotmail.com,338939511,GIK Institute,Business Administration,3.18,27/03/2024 3:43,3,141.128.118.203,Tablet,471,0.449,FALSE,FALSE,1,legit,suspicious
+APP00104,Hannah Newman,johnjones601@outlook.com,314909069,Quaid-i-Azam University,Mechanical Engineering,2.28,01/06/2024 8:17,8,39.25.137.169,Tablet,268,0.297,FALSE,FALSE,1,legit,normal
+APP00422,Terri Henry,urogers698@lums.edu.pk,331458868,COMSATS,Computer Science,2.49,07/04/2024 18:50,18,211.144.27.27,Desktop,345,0.126,FALSE,FALSE,1,university,normal
+APP00420,Jimmy Santiago,rachel96953@lums.edu.pk,331078038,UET Lahore,Software Engineering,2.77,28/01/2024 16:04,16,62.255.57.69,Mobile,635,0.521,FALSE,FALSE,1,university,normal
+APP00894,Michael Reed,josephodom@hotmail.com,322281267,GIK Institute,Computer Science,3.68,08/02/2024 20:41,20,218.32.234.63,Mobile,270,0.843,FALSE,FALSE,1,legit,suspicious
+APP00587,Melissa Beard,smallgregory464@yahoo.com,335035113,NUST,Data Science,3.43,26/06/2024 19:26,19,211.203.5.104,Mobile,343,0.163,FALSE,FALSE,1,legit,normal
+APP00928,Kevin Campbell,sandy54@gmail.com,339445004,NED University,Mechanical Engineering,2.06,15/03/2024 4:26,4,121.57.118.204,Mobile,336,0.25,FALSE,FALSE,1,legit,suspicious
+APP00673,Joel Parker,tonyadavis55@lums.edu.pk,313493443,FAST NUCES,Software Engineering,2.35,30/04/2024 12:10,12,151.203.116.57,Mobile,842,0.064,FALSE,FALSE,1,university,normal
+APP00120,Beth Marshall,edwardmartin297@live.com,323013003,FAST NUCES,Electrical Engineering,3.42,14/02/2024 10:24,10,65.59.158.157,Desktop,665,0.275,FALSE,FALSE,1,legit,normal
+APP00054,Donald Camacho,jenniferbradshaw773@gmail.com,305148725,IBA Karachi,Mechanical Engineering,2.04,09/02/2024 11:08,11,167.59.141.146,Desktop,604,0.31,FALSE,FALSE,1,legit,normal
+APP00152,Dr. Johnathan Evans DDS,cynthiajohnson677@nu.edu.pk,326142147,COMSATS,Data Science,3.36,12/02/2024 19:28,19,124.252.125.86,Mobile,479,0.4,FALSE,FALSE,1,university,normal
+APP00404,Julie Navarro,thomas35614@nust.edu.pk,305755579,NUST,Software Engineering,2.85,30/04/2024 21:30,21,89.148.64.171,Mobile,294,0.226,FALSE,FALSE,1,university,normal
+APP01092,Melissa Rodriguez,user9900@yopmail.com,3008651518,LUMS,Computer Science,3.64,18/02/2024 1:01,1,113.129.253.61,Mobile,4,0.905,TRUE,TRUE,12,disposable,fake
+APP00208,Helen Anderson,donaldmarsh95@nu.edu.pk,311864641,UET Lahore,Electrical Engineering,3.28,03/06/2024 8:55,8,94.91.31.14,Mobile,194,0.419,FALSE,FALSE,1,university,normal
+APP00659,Johnny Wagner,omccoy617@nust.edu.pk,328604470,Bahria University,Computer Science,3.45,13/06/2024 18:11,18,152.142.0.193,Mobile,765,0.353,FALSE,FALSE,1,university,normal
+APP01002,Joel Lopez,user4532@mailinator.com,3006866446,NED University,Accounting,0.4,02/05/2024 1:00,1,129.226.0.248,Mobile,4,0.939,TRUE,TRUE,16,disposable,fake
+APP00908,Kendra Ford,whitestephanie@gmail.com,327833134,University of Punjab,Accounting,2.98,08/05/2024 20:49,20,99.0.28.39,Mobile,273,0.801,FALSE,FALSE,1,legit,suspicious
+APP00009,Sarah Martin,douglasrodriguez147@lums.edu.pk,323342608,IBA Karachi,Accounting,3.07,08/03/2024 19:37,19,182.120.237.72,Tablet,558,0.22,FALSE,FALSE,1,university,normal
+APP00957,Stephanie Spence,evillarreal@live.com,326231562,Bahria University,Electrical Engineering,3.28,09/05/2024 4:58,4,2.24.255.205,Mobile,253,0.2,FALSE,FALSE,1,legit,suspicious
+APP00037,Mrs. Dawn Johnson,breyes340@iba.edu.pk,302935113,University of Punjab,Business Administration,2.34,08/03/2024 8:06,8,166.74.82.247,Mobile,730,0.401,FALSE,FALSE,1,university,normal
+APP00453,Aaron Smith,donovanmargaret534@iba.edu.pk,305249882,COMSATS,Accounting,2.57,02/04/2024 22:03,22,148.147.84.118,Mobile,802,0.062,FALSE,FALSE,1,university,normal
+APP00652,Thomas Jones,robertpalmer509@live.com,304994266,NED University,Computer Science,3.47,21/03/2024 13:53,13,214.85.65.75,Desktop,718,0.443,FALSE,FALSE,1,legit,normal
+APP00254,Crystal Williams,tarawade552@uet.edu.pk,316430006,Bahria University,Business Administration,2.55,09/03/2024 21:32,21,165.157.86.206,Desktop,815,0.075,FALSE,FALSE,1,university,normal
+APP00304,Nicole Smith,franklinshelia764@nu.edu.pk,304992909,Quaid-i-Azam University,Business Administration,2.32,23/01/2024 21:45,21,143.151.141.96,Desktop,806,0.488,FALSE,FALSE,1,university,normal
+APP00890,Tammy Thornton,brett74@hotmail.com,301355809,PMAS-UAAR,Computer Science,2.2,16/03/2024 1:32,1,86.49.227.110,Mobile,545,0.502,FALSE,FALSE,1,legit,suspicious
+APP00572,Bianca Wolfe,tylergoodman330@hotmail.com,311764815,NED University,Software Engineering,2.64,31/01/2024 12:09,12,9.253.208.52,Mobile,895,0.383,FALSE,FALSE,1,legit,normal
+APP00624,Ronnie Ward,williamssarah542@gmail.com,314213634,UET Lahore,Software Engineering,3.71,17/05/2024 8:46,8,51.33.56.93,Tablet,221,0.506,FALSE,FALSE,1,legit,normal
+APP00846,Roberto Keller,mooremichael@guerrillamail.com,316043230,FAST NUCES,Data Science,3.76,16/03/2024 18:34,18,21.251.215.25,Mobile,575,0.27,FALSE,FALSE,1,disposable,suspicious
+APP00979,Denise Collins,rburns@yopmail.com,308061842,NUST,Mechanical Engineering,2.27,18/03/2024 20:15,20,83.47.219.106,Desktop,714,0.07,FALSE,FALSE,1,disposable,suspicious
+APP00848,Kathleen Wood,brandiparker@live.com,317024113,UET Lahore,Software Engineering,3.42,18/04/2024 2:35,2,28.52.31.76,Mobile,381,0.357,FALSE,FALSE,1,legit,suspicious
+APP00263,Dustin Wilson,wlambert837@nu.edu.pk,308085252,Bahria University,Software Engineering,2.91,28/02/2024 14:05,14,143.252.227.52,Desktop,868,0.057,FALSE,FALSE,1,university,normal
+APP00611,Mr. Robert Marks,borozco28@outlook.com,303584093,UET Lahore,Business Administration,3.82,11/06/2024 15:07,15,42.217.192.94,Desktop,789,0.158,FALSE,FALSE,1,legit,normal
+APP00298,Nathan Jones,nicholaspatel936@nu.edu.pk,306900247,NED University,Data Science,2.27,18/02/2024 21:51,21,125.153.16.182,Desktop,624,0.097,FALSE,FALSE,1,university,normal
+APP00415,Jennifer Wilson,tburns824@gmail.com,303438206,COMSATS,Data Science,2.83,17/01/2024 12:14,12,64.123.175.18,Mobile,499,0.021,FALSE,FALSE,1,legit,normal
+APP00151,Wayne Nolan,vcherry377@lums.edu.pk,322385991,Bahria University,Electrical Engineering,2.15,03/06/2024 21:11,21,18.64.118.120,Mobile,678,0.056,FALSE,FALSE,1,university,normal
+APP00936,Brian Perkins,donovanemma@gmail.com,322391894,University of Punjab,Software Engineering,3.22,12/06/2024 17:55,17,48.26.108.41,Mobile,225,0.741,FALSE,FALSE,1,legit,suspicious
+APP00779,Robert Soto,jodi8796@live.com,312750084,SZABIST,Data Science,2.34,25/06/2024 17:31,17,180.115.86.134,Mobile,147,0.038,FALSE,FALSE,1,legit,normal
+APP00641,Gina Johnson,gmiller103@lums.edu.pk,316636598,COMSATS,Data Science,3.54,19/06/2024 13:10,13,105.52.243.16,Mobile,749,0.533,FALSE,FALSE,1,university,normal
+APP01037,Mary Thompson,user531@tempmail.com,3005673426,COMSATS,Business Administration,4.45,07/05/2024 23:02,23,177.219.29.131,Mobile,7,0.934,TRUE,FALSE,5,disposable,fake
+APP00551,Eric Newman,tporter56@nu.edu.pk,322946062,FAST NUCES,Software Engineering,2.88,01/05/2024 12:30,12,9.249.80.38,Tablet,884,0.507,FALSE,FALSE,1,university,normal
+APP00939,Tracy Mcmahon,ruben89@live.com,302966409,Quaid-i-Azam University,Business Administration,2.94,06/06/2024 17:34,17,96.129.239.111,Mobile,125,0.878,FALSE,FALSE,1,legit,suspicious
+APP00489,Daniel Fitzgerald,stevenmunoz932@live.com,328535808,Air University,Software Engineering,2.39,05/02/2024 17:34,17,19.66.80.62,Desktop,820,0.474,FALSE,FALSE,1,legit,normal
+APP00820,Gerald Hahn,nicholsgary10@yahoo.com,305464094,GIK Institute,Computer Science,3.26,11/01/2024 9:13,9,222.136.196.228,Desktop,654,0.207,FALSE,FALSE,1,legit,normal
+APP00711,Connor Guzman,wagneralexis718@hotmail.com,338485810,SZABIST,Software Engineering,3.69,08/06/2024 20:39,20,154.199.222.2,Mobile,787,0.19,FALSE,FALSE,1,legit,normal
+APP00148,Allison Moore,misty67831@hotmail.com,312058651,Bahria University,Mechanical Engineering,3.79,10/01/2024 12:12,12,194.198.186.241,Desktop,164,0.487,FALSE,FALSE,1,legit,normal
+APP00147,Shannon Riggs,victoriahughes753@uet.edu.pk,323238241,FAST NUCES,Business Administration,3.04,13/06/2024 10:53,10,159.84.119.50,Mobile,821,0.382,FALSE,FALSE,1,university,normal
+APP00860,Mark Thompson,rcole@outlook.com,337360154,LUMS,Business Administration,3.89,27/03/2024 22:43,22,73.140.228.149,Desktop,12,0.468,FALSE,FALSE,1,legit,suspicious
+APP00346,Dylan Lang,webberic524@yahoo.com,305743032,NUST,Mechanical Engineering,2.2,20/02/2024 17:12,17,16.240.117.21,Desktop,389,0.535,FALSE,FALSE,1,legit,normal
+APP00882,Melissa Bernard,randymoore@gmail.com,327192640,Quaid-i-Azam University,Computer Science,3.85,20/05/2024 12:46,12,195.126.217.94,Mobile,19,0.336,FALSE,FALSE,1,legit,suspicious
+APP01033,Patricia Cowan,user2033@yopmail.com,3009987534,University of Karachi,Mechanical Engineering,0.19,25/03/2024 23:01,23,129.226.0.248,Mobile,7,0.993,TRUE,TRUE,6,disposable,fake
+APP00660,James Price,alexandermacias411@gmail.com,316126237,Quaid-i-Azam University,Data Science,2.16,10/02/2024 11:33,11,209.189.81.149,Tablet,850,0.457,FALSE,FALSE,1,legit,normal
+APP00771,Benjamin Mitchell,stevenhendrix240@lums.edu.pk,322273196,Quaid-i-Azam University,Computer Science,2.56,08/05/2024 16:34,16,172.43.189.166,Mobile,779,0.152,FALSE,FALSE,1,university,normal
+APP00349,Kendra Davis,melissaortiz304@lums.edu.pk,328789281,FAST NUCES,Computer Science,3.55,11/01/2024 21:18,21,63.49.40.94,Desktop,488,0.172,FALSE,FALSE,1,university,normal
+APP00464,Tiffany Thompson,williamslinda480@yahoo.com,307055334,Air University,Accounting,3.78,16/04/2024 21:23,21,160.32.67.142,Mobile,845,0.339,FALSE,FALSE,1,legit,normal
+APP00326,Danielle Owens,hhudson984@hotmail.com,336867997,Quaid-i-Azam University,Software Engineering,3.59,07/03/2024 19:53,19,87.181.163.6,Mobile,825,0.015,FALSE,FALSE,1,legit,normal
+APP00187,Clifford King,shaunmason857@gmail.com,339311162,LUMS,Accounting,3.83,15/03/2024 22:02,22,213.23.140.246,Mobile,129,0.332,FALSE,FALSE,1,legit,normal
+APP00124,Michael Barrett,duarteamy649@iba.edu.pk,309902071,Air University,Software Engineering,3.72,30/03/2024 13:46,13,156.78.38.123,Desktop,780,0.13,FALSE,FALSE,1,university,normal
+APP01013,Johnny Anderson,user5071@tempmail.com,3005933559,NED University,Computer Science,3.97,07/01/2024 1:01,1,154.254.232.9,Mobile,6,0.993,TRUE,TRUE,17,disposable,fake
+APP00609,Brianna Smith,alexandriakim68@nu.edu.pk,332483915,FAST NUCES,Electrical Engineering,3.21,10/03/2024 14:11,14,60.234.1.110,Mobile,689,0.312,FALSE,FALSE,1,university,normal
+APP00144,David Johnston,evansseth612@lums.edu.pk,309646569,NED University,Software Engineering,3.37,15/03/2024 14:00,14,58.60.85.110,Mobile,749,0.314,FALSE,FALSE,1,university,normal
+APP00752,Lisa Murphy,iwilliams54@iba.edu.pk,327399761,University of Karachi,Computer Science,3.17,15/04/2024 11:55,11,217.193.216.113,Desktop,733,0.343,FALSE,FALSE,1,university,normal
+APP01079,Patricia Cowan,user9103@tempmail.com,3007729618,Air University,Electrical Engineering,0.17,22/03/2024 3:00,3,154.254.232.9,Mobile,7,0.94,TRUE,FALSE,17,disposable,fake
+APP00198,Paul Fernandez,tammywong62@iba.edu.pk,308920040,FAST NUCES,Business Administration,2.78,04/02/2024 20:41,20,216.251.180.254,Desktop,866,0.231,FALSE,FALSE,1,university,normal
+APP00610,Leroy Mckenzie,sandra33205@hotmail.com,317405029,UET Lahore,Data Science,2.93,18/03/2024 21:37,21,173.155.19.56,Mobile,431,0.407,FALSE,FALSE,1,legit,normal
+APP00837,Angela Garcia,lamberttroy@tempmail.com,306101515,COMSATS,Accounting,2.32,05/02/2024 15:44,15,148.183.255.246,Mobile,614,0.08,TRUE,FALSE,1,legit,suspicious
+APP00280,Virginia Hayes,nicoleturner378@gmail.com,315892153,NED University,Mechanical Engineering,2.58,08/06/2024 11:29,11,25.197.53.167,Desktop,497,0.271,FALSE,FALSE,1,legit,normal
+APP00294,Kimberly Barrett,rebecca89814@iba.edu.pk,307417252,GIK Institute,Accounting,2.68,19/05/2024 20:31,20,166.174.11.237,Tablet,472,0.276,FALSE,FALSE,1,university,normal
+APP00986,Edward Miller,xwilliamson@outlook.com,335865999,UET Lahore,Accounting,2.2,30/05/2024 15:23,15,141.13.170.81,Mobile,99,0.212,FALSE,FALSE,3,legit,suspicious
+APP00401,Riley Rodriguez,fnavarro236@hotmail.com,309632570,SZABIST,Business Administration,2.4,17/02/2024 10:23,10,175.140.48.205,Desktop,736,0.065,FALSE,FALSE,1,legit,normal
+APP00123,Steven Smith,enorman250@yahoo.com,337718433,Air University,Computer Science,2.75,20/03/2024 19:21,19,205.201.78.50,Mobile,346,0.092,FALSE,FALSE,1,legit,normal
+APP00184,Lucas Woods,jonestiffany249@outlook.com,309909397,IBA Karachi,Accounting,2.44,26/01/2024 14:21,14,149.62.106.231,Mobile,854,0.375,FALSE,FALSE,1,legit,normal
+APP00203,Richard Booth,scottward240@lums.edu.pk,311946973,LUMS,Data Science,3.89,29/02/2024 21:58,21,82.192.14.72,Desktop,869,0.318,FALSE,FALSE,1,university,normal
+APP00439,Melissa Gregory,brandy40216@yahoo.com,317661319,NUST,Computer Science,2.12,01/05/2024 16:03,16,196.223.240.70,Desktop,146,0.288,FALSE,FALSE,1,legit,normal
+APP00836,Gail Garcia,deborahwilliams@outlook.com,327565976,University of Karachi,Computer Science,3.03,13/03/2024 12:44,12,179.85.81.33,Desktop,319,0.737,FALSE,FALSE,1,legit,suspicious
+APP00247,Kimberly Melton,bhoffman142@uet.edu.pk,338097413,LUMS,Electrical Engineering,3.21,26/06/2024 22:41,22,56.4.52.170,Desktop,297,0.269,FALSE,FALSE,1,university,normal
+APP00416,Christina Carter,toddwilliams954@nust.edu.pk,339741022,UET Lahore,Accounting,3.83,15/01/2024 20:52,20,36.248.14.64,Desktop,299,0.241,FALSE,FALSE,1,university,normal
+APP00924,Christian Randolph DDS,carolynconley@guerrillamail.com,317334348,IBA Karachi,Business Administration,2.41,18/02/2024 18:36,18,125.165.74.131,Mobile,134,0.2,FALSE,FALSE,1,disposable,suspicious
+APP00911,Valerie Robinson,granthardy@live.com,303556871,NED University,Accounting,3.94,25/01/2024 20:00,20,63.120.120.108,Desktop,103,0.17,FALSE,FALSE,3,legit,suspicious
+APP01047,Danielle Rodriguez,user3790@guerrillamail.com,3008913629,Quaid-i-Azam University,Business Administration,0.14,08/04/2024 23:02,23,154.254.232.9,Mobile,6,0.944,TRUE,TRUE,11,disposable,fake
+APP00915,Jose Gallegos,fpowell@gmail.com,305107344,Bahria University,Mechanical Engineering,3.09,09/02/2024 21:06,21,92.212.114.134,Mobile,417,0.865,FALSE,FALSE,1,legit,suspicious
+APP00053,Virginia Carson,tayloremily285@nust.edu.pk,335232413,PMAS-UAAR,Computer Science,2.89,18/05/2024 8:22,8,137.147.106.30,Desktop,349,0.43,FALSE,FALSE,1,university,normal
+APP00130,Michelle Kelley,uray382@nu.edu.pk,327499771,University of Karachi,Mechanical Engineering,2.64,02/06/2024 8:50,8,19.44.0.216,Desktop,766,0.036,FALSE,FALSE,1,university,normal
+APP00638,Timothy Lang,nvalencia784@gmail.com,327384961,NUST,Electrical Engineering,2.66,01/04/2024 14:22,14,120.165.158.105,Desktop,177,0.136,FALSE,FALSE,1,legit,normal
+APP00403,Lisa Smith,gainesmichael131@gmail.com,313260294,SZABIST,Data Science,2.07,26/05/2024 10:03,10,133.35.46.10,Mobile,290,0.099,FALSE,FALSE,1,legit,normal
+APP00932,Jessica Mendoza DDS,adam95@outlook.com,308199144,LUMS,Accounting,2.76,14/02/2024 1:57,1,182.125.108.149,Desktop,445,0.241,FALSE,FALSE,1,legit,suspicious
+APP00918,Robert Moreno,whitakerdanielle@tempmail.com,316371840,NED University,Computer Science,3.93,07/04/2024 8:59,8,156.213.17.34,Desktop,490,0.538,FALSE,FALSE,1,disposable,suspicious
+APP00736,David Rivera,simsgeoffrey863@nu.edu.pk,319561890,UET Lahore,Computer Science,2.31,16/05/2024 17:04,17,8.134.58.234,Mobile,427,0.384,FALSE,FALSE,1,university,normal
+APP00855,Rhonda Phillips,gosborne@hotmail.com,318016965,Bahria University,Electrical Engineering,2.36,31/03/2024 20:29,20,35.79.216.224,Mobile,634,0.809,FALSE,FALSE,1,legit,suspicious
+APP01050,Philip Lucas,user7252@mailinator.com,3001218011,NED University,Business Administration,4.03,27/06/2024 3:02,3,113.129.253.61,Mobile,2,0.984,TRUE,TRUE,20,disposable,fake
+APP00220,David White,andrewellis866@lums.edu.pk,336557798,NED University,Mechanical Engineering,3.85,15/05/2024 22:02,22,34.73.85.6,Mobile,355,0.477,FALSE,FALSE,1,university,normal
+APP00642,Mr. Austin Carrillo,rlawson509@outlook.com,309989803,IBA Karachi,Business Administration,2.5,17/03/2024 17:25,17,66.227.123.163,Desktop,351,0.527,FALSE,FALSE,1,legit,normal
+APP00002,Michael Cannon,mosleynicholas96@gmail.com,314903402,Air University,Data Science,2.05,20/02/2024 19:41,19,169.151.143.111,Desktop,838,0.121,FALSE,FALSE,1,legit,normal
+APP00896,Jennifer Turner,dylanbyrd@outlook.com,323318968,GIK Institute,Accounting,3.8,08/04/2024 14:35,14,63.133.49.38,Desktop,629,0.811,FALSE,FALSE,1,legit,suspicious
+APP00955,Angela Clark,jsanchez@outlook.com,335706707,Quaid-i-Azam University,Mechanical Engineering,3.43,27/02/2024 2:16,2,95.167.17.250,Desktop,423,0.194,FALSE,FALSE,1,legit,suspicious
+APP00081,Zachary Carter,clarkanthony521@uet.edu.pk,312171218,UET Lahore,Mechanical Engineering,3.5,16/04/2024 13:59,13,15.52.111.38,Mobile,639,0.001,FALSE,FALSE,1,university,normal
+APP00625,Amanda Coleman,sarakennedy376@lums.edu.pk,318376368,SZABIST,Computer Science,2.34,31/03/2024 14:27,14,117.94.200.215,Desktop,339,0.224,FALSE,FALSE,1,university,normal
+APP00994,Jonathan Henderson,katherine14@gmail.com,316388157,NUST,Accounting,2.88,04/02/2024 18:36,18,22.38.54.137,Mobile,689,0.794,FALSE,FALSE,1,legit,suspicious
+APP00906,Joseph Shelton,lamberttroy@tempmail.com,311543024,IBA Karachi,Business Administration,2.17,25/05/2024 17:02,17,109.69.168.83,Tablet,697,0.266,TRUE,FALSE,1,legit,suspicious
+APP00387,Lori Anderson,swhite313@yahoo.com,316768873,IBA Karachi,Electrical Engineering,3.72,11/05/2024 10:10,10,99.45.95.29,Mobile,308,0.459,FALSE,FALSE,1,legit,normal
+APP01088,Danielle Rodriguez,user954@throwam.com,3005947259,LUMS,Accounting,0.14,06/03/2024 2:00,2,3.115.24.253,Mobile,6,0.898,TRUE,FALSE,5,disposable,fake
+APP00807,Michael Carey,jerome1321@lums.edu.pk,338170536,PMAS-UAAR,Computer Science,3.44,17/03/2024 17:34,17,35.27.1.168,Desktop,276,0.097,FALSE,FALSE,1,university,normal
+APP00510,Heather Clark,clynch627@outlook.com,302833787,NED University,Accounting,3.86,15/05/2024 9:30,9,162.50.113.47,Desktop,861,0.514,FALSE,FALSE,1,legit,normal
+APP00268,Donald Small,hcamacho662@live.com,305015476,COMSATS,Electrical Engineering,2.21,07/05/2024 18:38,18,62.106.30.10,Desktop,192,0.538,FALSE,FALSE,1,legit,normal
+APP00970,Madison Yates,jsanchez@outlook.com,304252130,University of Punjab,Electrical Engineering,3.25,11/03/2024 22:40,22,119.154.156.24,Desktop,815,0.502,TRUE,FALSE,1,legit,suspicious
+APP00442,Sheri Brown,lwalker562@live.com,333266851,Bahria University,Data Science,2.34,01/06/2024 15:40,15,141.210.211.53,Desktop,886,0.31,FALSE,FALSE,1,legit,normal
+APP00497,Krystal Savage,castillomorgan534@gmail.com,308576751,COMSATS,Mechanical Engineering,3.67,03/03/2024 16:34,16,150.145.45.144,Tablet,525,0.022,FALSE,FALSE,1,legit,normal
+APP00830,Michael Dennis,anthony43@hotmail.com,305881775,NUST,Computer Science,2.17,31/05/2024 22:12,22,221.129.39.110,Tablet,88,0.315,FALSE,FALSE,5,legit,suspicious
+APP00113,Jonathan Fitzgerald,mcampbell361@live.com,309512969,IBA Karachi,Software Engineering,3.25,27/02/2024 21:06,21,125.91.69.189,Desktop,478,0.202,FALSE,FALSE,1,legit,normal
+APP00692,Angela Williams,edwardschmidt447@outlook.com,312444410,UET Lahore,Mechanical Engineering,2.88,01/05/2024 14:01,14,185.81.85.1,Mobile,239,0.084,FALSE,FALSE,1,legit,normal
+APP00233,Brianna Salinas,morrisonanna991@lums.edu.pk,316467463,University of Karachi,Business Administration,3.55,10/04/2024 13:07,13,149.218.218.57,Mobile,697,0.548,FALSE,FALSE,1,university,normal
+APP00472,Bradley Brown,ellen2695@live.com,334647992,Bahria University,Computer Science,3.37,03/05/2024 10:31,10,11.145.5.239,Desktop,826,0.451,FALSE,FALSE,1,legit,normal
+APP00608,Riley Ellis,aprilmurphy747@nust.edu.pk,333341557,PMAS-UAAR,Data Science,3.14,06/02/2024 11:19,11,117.72.150.180,Tablet,606,0.289,FALSE,FALSE,1,university,normal
+APP00672,Samuel Fuller,serranodarrell925@live.com,325425123,Air University,Business Administration,2.83,12/02/2024 13:47,13,103.61.159.73,Desktop,623,0.083,FALSE,FALSE,1,legit,normal
+APP00374,Natasha Nguyen,martinezdaniel439@gmail.com,325433204,LUMS,Software Engineering,3.11,06/03/2024 8:21,8,220.178.160.173,Desktop,597,0.085,FALSE,FALSE,1,legit,normal
+APP00827,Benjamin Moran,lamberttroy@tempmail.com,315082836,IBA Karachi,Software Engineering,3.47,17/06/2024 19:05,19,223.92.172.225,Mobile,228,0.394,FALSE,FALSE,1,disposable,suspicious
+APP00664,David Baird,jeffreyrodriguez982@yahoo.com,323854188,NED University,Computer Science,2.03,14/05/2024 14:49,14,168.96.7.248,Desktop,584,0.272,FALSE,FALSE,1,legit,normal
+APP01001,Melissa Rodriguez,user9900@yopmail.com,3002543349,NED University,Computer Science,3.94,25/05/2024 1:00,1,177.219.29.131,Mobile,2,0.887,TRUE,FALSE,19,disposable,fake
+APP00234,Larry Alexander,ruizmargaret699@hotmail.com,308744735,Bahria University,Software Engineering,2.83,15/03/2024 21:44,21,40.29.118.224,Desktop,190,0.438,FALSE,FALSE,1,legit,normal
+APP00819,James Moore,maryrusso890@yahoo.com,312338986,UET Lahore,Computer Science,2.72,11/03/2024 9:21,9,9.79.52.136,Desktop,150,0.263,FALSE,FALSE,1,legit,normal
+APP00933,Brandon Cross,everetterin@yahoo.com,307576872,PMAS-UAAR,Mechanical Engineering,3.22,07/03/2024 21:35,21,214.69.48.89,Tablet,282,0.736,FALSE,FALSE,1,legit,suspicious
+APP00677,Paul Horn,gary82404@yahoo.com,322779557,PMAS-UAAR,Business Administration,2.29,21/01/2024 15:53,15,211.25.126.203,Desktop,844,0.25,FALSE,FALSE,1,legit,normal
+APP00318,Sharon Olsen,upayne533@live.com,331207430,GIK Institute,Accounting,3.18,13/05/2024 20:26,20,62.186.127.241,Mobile,235,0.082,FALSE,FALSE,1,legit,normal
+APP00649,Robin Lopez,bryantelizabeth207@gmail.com,315575347,LUMS,Computer Science,2.49,12/03/2024 18:35,18,84.239.118.246,Desktop,300,0.023,FALSE,FALSE,1,legit,normal
+APP00411,Pamela Brown,fthompson419@nu.edu.pk,322788169,LUMS,Electrical Engineering,3.24,05/03/2024 12:54,12,55.166.190.45,Mobile,668,0.201,FALSE,FALSE,1,university,normal
+APP01041,Shane Knapp,user679@guerrillamail.com,3004311279,COMSATS,Mechanical Engineering,4.49,09/06/2024 23:01,23,117.72.183.14,Mobile,5,0.881,TRUE,TRUE,8,disposable,fake
+APP00710,Anthony Smith,james09430@live.com,336105693,Bahria University,Accounting,2.6,29/03/2024 8:52,8,149.11.85.195,Tablet,406,0.336,FALSE,FALSE,1,legit,normal
+APP00359,Meghan Lam,pedro31563@iba.edu.pk,302524974,GIK Institute,Data Science,3.83,12/06/2024 12:56,12,104.182.208.24,Desktop,640,0.36,FALSE,FALSE,1,university,normal
+APP00259,Dr. James Carpenter Jr.,cthomas873@uet.edu.pk,336766993,University of Punjab,Accounting,3.45,12/01/2024 9:40,9,5.220.101.27,Mobile,590,0.511,FALSE,FALSE,1,university,normal
+APP00745,Aaron Parker,james19197@live.com,309941274,NED University,Business Administration,3.29,26/04/2024 8:27,8,60.55.131.30,Desktop,776,0.358,FALSE,FALSE,1,legit,normal
+APP00628,Dawn Vasquez,michaelleon194@nust.edu.pk,308980532,SZABIST,Business Administration,2.34,21/06/2024 15:43,15,124.136.14.127,Mobile,227,0.287,FALSE,FALSE,1,university,normal
+APP00633,Caitlin Nelson,hglover639@uet.edu.pk,302283746,SZABIST,Mechanical Engineering,2.99,06/05/2024 20:29,20,48.240.78.78,Mobile,326,0.274,FALSE,FALSE,1,university,normal
+APP00283,Mallory Rowe,meghancook96@live.com,304883465,University of Punjab,Mechanical Engineering,2.99,28/06/2024 22:23,22,201.220.64.181,Tablet,589,0.047,FALSE,FALSE,1,legit,normal
+APP00377,Teresa Walker,petersonmary680@outlook.com,326554374,Quaid-i-Azam University,Business Administration,2.42,07/06/2024 16:30,16,88.251.205.22,Desktop,694,0.54,FALSE,FALSE,1,legit,normal
+APP00385,Wanda Davis,douglas99405@nust.edu.pk,308952193,LUMS,Data Science,2.42,10/04/2024 20:51,20,134.13.115.219,Mobile,678,0.349,FALSE,FALSE,1,university,normal
+APP00225,Steven Smith,bakerjennifer503@lums.edu.pk,316969521,Air University,Electrical Engineering,2.82,23/06/2024 17:42,17,110.40.130.218,Mobile,509,0.34,FALSE,FALSE,1,university,normal
+APP01076,Mary Carter,user4532@mailinator.com,3006714252,Quaid-i-Azam University,Business Administration,0.15,23/02/2024 2:03,2,113.129.253.61,Mobile,5,0.959,TRUE,TRUE,7,disposable,fake
+APP00964,John Cardenas,michelle25@live.com,321052124,NUST,Software Engineering,2.98,28/06/2024 17:30,17,21.17.204.196,Mobile,876,0.761,FALSE,FALSE,1,legit,suspicious
+APP00473,John Gonzales,coreyrichardson610@yahoo.com,321626991,Bahria University,Mechanical Engineering,3.09,21/01/2024 20:03,20,153.115.175.87,Mobile,462,0.449,FALSE,FALSE,1,legit,normal
+APP00348,Julia Williams,wrightluis929@yahoo.com,309289690,LUMS,Computer Science,3.48,20/01/2024 19:46,19,63.101.80.198,Tablet,223,0.354,FALSE,FALSE,1,legit,normal
+APP00506,Stephanie Ortega DDS,rachel04840@iba.edu.pk,311820721,LUMS,Software Engineering,2.1,30/03/2024 8:09,8,36.84.50.148,Desktop,153,0.461,FALSE,FALSE,1,university,normal
+APP00640,Barry Lin,xgarcia582@nust.edu.pk,335473122,FAST NUCES,Accounting,2.89,06/01/2024 13:24,13,166.124.191.76,Mobile,704,0.315,FALSE,FALSE,1,university,normal
+APP01095,David Nichols,user451@mailinator.com,3005760630,SZABIST,Business Administration,3.67,23/05/2024 3:03,3,208.244.179.164,Mobile,3,0.881,TRUE,TRUE,20,disposable,fake
+APP00798,Michael Conley,awilson341@hotmail.com,316334600,PMAS-UAAR,Accounting,2.92,26/03/2024 8:38,8,12.212.165.67,Mobile,719,0.281,FALSE,FALSE,1,legit,normal
+APP00340,Jennifer Garcia,josephsnow642@gmail.com,314796108,Bahria University,Business Administration,2.59,27/01/2024 14:32,14,128.20.203.227,Mobile,722,0.036,FALSE,FALSE,1,legit,normal
+APP00556,Amy Lewis,jasonjones225@nu.edu.pk,325226115,IBA Karachi,Computer Science,2.05,24/01/2024 8:38,8,136.191.138.146,Tablet,792,0.119,FALSE,FALSE,1,university,normal
+APP00620,Julie Johnson,grayangelica705@hotmail.com,316157791,LUMS,Software Engineering,2.25,21/01/2024 14:44,14,57.166.24.250,Mobile,234,0.426,FALSE,FALSE,1,legit,normal
+APP01015,Whitney Krueger,user2033@yopmail.com,3005916819,University of Punjab,Software Engineering,4.17,26/04/2024 3:00,3,117.72.183.14,Mobile,5,0.923,TRUE,TRUE,16,disposable,fake
+APP00952,Craig Boyle,janice60@yahoo.com,301174416,LUMS,Computer Science,3.94,25/06/2024 19:27,19,30.247.196.149,Mobile,20,0.105,FALSE,FALSE,1,legit,suspicious
+APP00646,Savannah Gonzalez,obryant829@iba.edu.pk,332004647,Air University,Software Engineering,2.69,07/02/2024 11:09,11,159.2.204.250,Desktop,884,0.165,FALSE,FALSE,1,university,normal
+APP01005,Dana Spencer,user8236@yopmail.com,3006040091,PMAS-UAAR,Computer Science,4.04,07/04/2024 23:03,23,129.226.0.248,Mobile,3,0.926,TRUE,TRUE,18,disposable,fake
+APP00557,Darrell Nielsen,kberger654@uet.edu.pk,303012881,NUST,Mechanical Engineering,3.15,06/04/2024 18:48,18,13.37.46.125,Desktop,783,0.532,FALSE,FALSE,1,university,normal
+APP00682,Chelsea Smith,brendareynolds525@nu.edu.pk,319214511,COMSATS,Electrical Engineering,2.91,24/05/2024 17:27,17,73.173.72.107,Desktop,212,0.446,FALSE,FALSE,1,university,normal
+APP00578,Valerie Collins,matthew51510@lums.edu.pk,313680321,SZABIST,Computer Science,2.1,03/04/2024 12:13,12,116.210.135.37,Mobile,565,0.339,FALSE,FALSE,1,university,normal
+APP00796,Jenna Phelps,madison80470@outlook.com,312107569,SZABIST,Mechanical Engineering,2.53,08/06/2024 13:02,13,114.0.123.218,Tablet,188,0.226,FALSE,FALSE,1,legit,normal
+APP00086,Bradley Cabrera,kenneth44710@uet.edu.pk,332347467,PMAS-UAAR,Business Administration,3.62,16/05/2024 14:20,14,71.152.220.1,Desktop,761,0.418,FALSE,FALSE,1,university,normal
+APP00243,Jose Vance PhD,michaelwallace656@hotmail.com,337636771,FAST NUCES,Accounting,3.17,20/02/2024 15:37,15,32.197.57.134,Mobile,559,0.388,FALSE,FALSE,1,legit,normal
+APP00699,Jason Fleming,bgilbert213@uet.edu.pk,322446060,SZABIST,Electrical Engineering,2.25,21/02/2024 10:38,10,126.224.167.134,Mobile,623,0.229,FALSE,FALSE,1,university,normal
+APP00839,Deborah York,kimberlypeterson@gmail.com,306965707,COMSATS,Software Engineering,3.84,31/01/2024 16:41,16,221.103.29.209,Desktop,91,0.533,FALSE,FALSE,8,legit,suspicious
+APP00160,Suzanne Smith,kellyarnold479@nu.edu.pk,312446455,NUST,Business Administration,2.76,02/05/2024 16:26,16,132.79.82.49,Desktop,539,0.041,FALSE,FALSE,1,university,normal
+APP00525,Angela Martin,brittneygomez327@iba.edu.pk,323374929,Bahria University,Mechanical Engineering,2.54,03/03/2024 10:04,10,116.157.88.250,Desktop,438,0.186,FALSE,FALSE,1,university,normal
+APP00036,Mark Dougherty,kristycarson229@outlook.com,304240180,University of Karachi,Business Administration,2.53,18/01/2024 20:17,20,10.108.249.26,Desktop,479,0.22,FALSE,FALSE,1,legit,normal
+APP00541,Sydney Perez,adavis674@lums.edu.pk,333277939,NUST,Software Engineering,3.22,16/04/2024 21:29,21,63.138.131.205,Desktop,832,0.234,FALSE,FALSE,1,university,normal
+APP00171,Betty Munoz,rodriguezkevin293@lums.edu.pk,302803501,University of Karachi,Software Engineering,3.68,03/04/2024 20:25,20,157.138.102.147,Mobile,494,0.028,FALSE,FALSE,1,university,normal
+APP00655,Allison Nguyen,sydneycruz22@live.com,301917249,Bahria University,Mechanical Engineering,3.28,05/03/2024 16:24,16,91.46.83.221,Desktop,436,0.385,FALSE,FALSE,1,legit,normal
+APP00749,Stephanie Grant,jessicagordon828@nust.edu.pk,306608665,PMAS-UAAR,Business Administration,2.47,01/05/2024 11:21,11,134.16.106.50,Desktop,175,0.286,FALSE,FALSE,1,university,normal
+APP01040,Cynthia Nguyen,user9152@throwam.com,3004955049,Quaid-i-Azam University,Electrical Engineering,3.93,21/01/2024 1:03,1,197.67.240.58,Mobile,5,0.971,TRUE,TRUE,10,disposable,fake
+APP01006,Peter Molina,user3446@yopmail.com,3006835191,University of Punjab,Computer Science,0.33,31/05/2024 2:00,2,117.72.183.14,Mobile,7,0.984,TRUE,TRUE,6,disposable,fake
+APP00485,William Barnes,jacob65497@nu.edu.pk,304127564,IBA Karachi,Data Science,3.84,23/05/2024 22:45,22,96.107.109.188,Mobile,142,0.507,FALSE,FALSE,1,university,normal
+APP00734,Ebony Mcfarland,hhayes209@iba.edu.pk,317263022,Air University,Software Engineering,3.49,17/05/2024 14:58,14,63.142.210.33,Mobile,688,0.001,FALSE,FALSE,1,university,normal
+APP00900,Paige Walls,gibsonkenneth@gmail.com,308999822,PMAS-UAAR,Data Science,3.7,08/01/2024 10:23,10,53.64.21.131,Mobile,264,0.817,FALSE,FALSE,1,legit,suspicious
+APP00096,Jasmin Aguilar,joann71991@lums.edu.pk,326682698,GIK Institute,Computer Science,2.89,20/01/2024 10:48,10,217.233.14.247,Tablet,351,0.398,FALSE,FALSE,1,university,normal
+APP00564,Yvonne Duncan,markanderson342@nu.edu.pk,327721201,FAST NUCES,Accounting,3.89,14/06/2024 9:23,9,139.58.3.153,Tablet,667,0.187,FALSE,FALSE,1,university,normal
+APP00241,Christopher Cervantes PhD,charlesrobert449@yahoo.com,336350413,NUST,Business Administration,2.08,30/01/2024 8:54,8,139.180.53.240,Desktop,471,0.372,FALSE,FALSE,1,legit,normal
+APP00743,Dr. Tiffany Crawford,davidmeyer215@uet.edu.pk,304289790,PMAS-UAAR,Accounting,2.75,12/03/2024 17:32,17,184.121.29.96,Mobile,625,0.107,FALSE,FALSE,1,university,normal
+APP00864,Brittany Sanchez,ospencer@hotmail.com,318897013,University of Karachi,Business Administration,2.58,19/04/2024 22:11,22,50.20.163.137,Desktop,96,0.06,FALSE,FALSE,8,legit,suspicious
+APP00575,Robert Vincent,fthompson709@lums.edu.pk,314458794,LUMS,Accounting,2.51,25/04/2024 14:15,14,116.7.134.77,Desktop,298,0.021,FALSE,FALSE,1,university,normal
+APP00691,Anthony Taylor,gmartin129@yahoo.com,311232799,IBA Karachi,Computer Science,3.55,27/06/2024 11:54,11,206.249.223.204,Mobile,147,0.357,FALSE,FALSE,1,legit,normal
+APP00461,Bryan Avery,kelleyashley195@nust.edu.pk,333585897,NED University,Business Administration,2.61,13/06/2024 13:07,13,135.138.33.168,Desktop,218,0.037,FALSE,FALSE,1,university,normal
+APP00892,Jamie Gonzales,thompsonmichael@hotmail.com,322279932,NED University,Business Administration,2.23,22/01/2024 22:02,22,154.190.119.26,Mobile,19,0.236,FALSE,FALSE,1,legit,suspicious
+APP00554,Craig Vega,salaspaul822@live.com,305283960,SZABIST,Data Science,2.74,21/06/2024 19:15,19,200.83.82.224,Desktop,871,0.424,FALSE,FALSE,1,legit,normal
+APP00858,Madeline Reyes,nathan57@live.com,307802682,FAST NUCES,Data Science,2.37,02/01/2024 19:27,19,59.181.110.238,Desktop,839,0.889,FALSE,FALSE,1,legit,suspicious
+APP01029,Peter Molina,user3790@guerrillamail.com,3008502316,Quaid-i-Azam University,Software Engineering,0.13,18/06/2024 1:02,1,197.67.240.58,Mobile,7,0.973,TRUE,TRUE,20,disposable,fake
+APP00207,Amanda Weaver,lawrencejodi576@gmail.com,337987842,Air University,Data Science,2.25,03/03/2024 12:13,12,51.224.59.113,Desktop,458,0.507,FALSE,FALSE,1,legit,normal
+APP00393,Stephen Adams,thomas07913@hotmail.com,315416344,Bahria University,Accounting,2.15,20/01/2024 22:01,22,82.216.215.145,Desktop,639,0.447,FALSE,FALSE,1,legit,normal
+APP00795,Gina Salazar,sallymccarthy405@iba.edu.pk,333026754,IBA Karachi,Software Engineering,2.2,23/03/2024 10:00,10,207.73.223.229,Desktop,531,0.007,FALSE,FALSE,1,university,normal
+APP00871,Lee Hill,tamara04@guerrillamail.com,324882711,IBA Karachi,Business Administration,2.83,16/01/2024 16:27,16,58.32.157.184,Mobile,779,0.061,FALSE,FALSE,1,disposable,suspicious
+APP00398,Nicholas Meyers,thomasbrenda481@nust.edu.pk,331779091,FAST NUCES,Accounting,2.62,29/06/2024 16:40,16,196.228.150.155,Desktop,400,0.145,FALSE,FALSE,1,university,normal
+APP00767,Kyle Ford,matthewedwards384@iba.edu.pk,339705569,COMSATS,Software Engineering,2.61,05/04/2024 16:44,16,214.101.143.80,Desktop,614,0.272,FALSE,FALSE,1,university,normal
+APP01007,Bradley Nelson,user8236@yopmail.com,3005822081,PMAS-UAAR,Data Science,3.78,07/03/2024 2:03,2,129.226.0.248,Mobile,7,0.896,TRUE,FALSE,5,disposable,fake
+APP00218,Cody Baird,zanderson540@uet.edu.pk,326946534,UET Lahore,Mechanical Engineering,2.75,05/04/2024 14:29,14,14.227.79.193,Mobile,698,0.383,FALSE,FALSE,1,university,normal
+APP00005,Amanda Pollard,davidsanders907@uet.edu.pk,324226067,Bahria University,Computer Science,2.09,28/02/2024 20:18,20,204.29.155.128,Tablet,201,0.477,FALSE,FALSE,1,university,normal
+APP00769,Melissa Garcia,maryholland586@nust.edu.pk,317276479,UET Lahore,Data Science,2.16,22/01/2024 12:28,12,45.225.251.97,Mobile,651,0.321,FALSE,FALSE,1,university,normal
+APP00643,Kevin Taylor,sarabrown98@uet.edu.pk,325586302,NUST,Data Science,3.52,01/05/2024 14:13,14,43.207.57.254,Desktop,475,0.358,FALSE,FALSE,1,university,normal
+APP00462,Robert Hoffman,dawsondouglas183@hotmail.com,304390323,NUST,Electrical Engineering,2.36,09/01/2024 17:41,17,103.227.24.77,Desktop,517,0.289,FALSE,FALSE,1,legit,normal
+APP00943,Adam Smith,bscott@outlook.com,338485284,University of Karachi,Data Science,3.46,22/03/2024 17:06,17,188.150.235.4,Mobile,120,0.11,FALSE,FALSE,5,legit,suspicious
+APP00613,Jennifer Rodriguez,kristy15644@live.com,333006281,Quaid-i-Azam University,Data Science,3.39,05/01/2024 21:16,21,149.86.116.38,Desktop,286,0.08,FALSE,FALSE,1,legit,normal
+APP00739,Benjamin Mclaughlin,ujimenez488@uet.edu.pk,301160702,SZABIST,Software Engineering,2.79,27/06/2024 19:31,19,31.76.142.118,Mobile,900,0.045,FALSE,FALSE,1,university,normal
+APP00961,Danny Thompson,douglas99@mailinator.com,315932600,IBA Karachi,Electrical Engineering,2.34,11/03/2024 16:38,16,115.242.200.71,Desktop,625,0.06,FALSE,FALSE,1,disposable,suspicious
+APP00547,Ashley Sims,asalazar593@lums.edu.pk,311866037,SZABIST,Business Administration,3.54,08/06/2024 8:18,8,199.47.211.76,Mobile,616,0.278,FALSE,FALSE,1,university,normal
+APP00987,Joseph Smith,megan25@yopmail.com,311469269,UET Lahore,Electrical Engineering,2.23,09/04/2024 8:37,8,72.86.189.219,Mobile,430,0.358,FALSE,FALSE,1,disposable,suspicious
+APP00726,Michele Luna,robert05725@hotmail.com,306181610,Air University,Accounting,2.24,23/05/2024 9:12,9,172.51.133.53,Desktop,753,0.417,FALSE,FALSE,1,legit,normal
+APP01093,Dana Spencer,user5071@tempmail.com,3008789179,NUST,Data Science,4.44,20/02/2024 23:00,23,208.244.179.164,Mobile,2,0.904,TRUE,TRUE,11,disposable,fake
+APP00684,Angela Wood,jonathanweeks540@lums.edu.pk,305877187,COMSATS,Electrical Engineering,2.15,02/05/2024 12:09,12,217.53.158.35,Desktop,250,0.165,FALSE,FALSE,1,university,normal
+APP00099,Henry Gentry,blowery651@yahoo.com,336069909,SZABIST,Electrical Engineering,2.22,12/01/2024 8:19,8,191.214.154.76,Mobile,624,0.129,FALSE,FALSE,1,legit,normal
+APP00805,Alexis Hart,williamsmith739@hotmail.com,315109158,University of Karachi,Software Engineering,3.15,18/03/2024 12:36,12,215.177.69.94,Tablet,579,0.111,FALSE,FALSE,1,legit,normal
+APP00728,Lisa Murphy,pjones455@uet.edu.pk,309951380,NED University,Business Administration,2.76,12/01/2024 15:55,15,192.156.33.205,Mobile,143,0.099,FALSE,FALSE,1,university,normal
+APP00574,Patrick Jones,david47901@gmail.com,332354300,FAST NUCES,Computer Science,2.34,23/01/2024 19:41,19,219.192.199.82,Tablet,727,0.229,FALSE,FALSE,1,legit,normal
+APP00407,Mr. Brett Riley,gregorysara615@uet.edu.pk,309915915,Air University,Mechanical Engineering,2.22,03/05/2024 18:08,18,68.96.12.104,Desktop,737,0.001,FALSE,FALSE,1,university,normal
+APP00503,Shaun Jensen,mwilliams890@hotmail.com,314000886,GIK Institute,Accounting,2.1,19/03/2024 12:46,12,92.74.191.35,Mobile,576,0.099,FALSE,FALSE,1,legit,normal
+APP00048,Thomas Richards DDS,scott6083@iba.edu.pk,313530518,IBA Karachi,Electrical Engineering,3.32,29/06/2024 11:04,11,36.94.126.211,Mobile,544,0.298,FALSE,FALSE,1,university,normal
+APP00033,David Howard,ricerobin921@gmail.com,324524499,SZABIST,Software Engineering,3.27,31/03/2024 20:35,20,91.43.90.36,Tablet,536,0.412,FALSE,FALSE,1,legit,normal
+APP00930,Brandon Todd,edward93@outlook.com,325489736,University of Punjab,Accounting,2.52,16/04/2024 18:15,18,177.207.165.115,Tablet,124,0.228,TRUE,FALSE,1,legit,suspicious
+APP00780,Shawn Gutierrez,greenbenjamin291@nust.edu.pk,314909752,UET Lahore,Accounting,3,26/04/2024 8:23,8,129.51.95.9,Mobile,650,0.18,FALSE,FALSE,1,university,normal
+APP00840,Jill Kelly,hsantiago@gmail.com,305040883,University of Karachi,Electrical Engineering,2.59,01/06/2024 10:41,10,141.13.170.81,Mobile,51,0.38,FALSE,FALSE,8,legit,suspicious
+APP00201,James Martinez,dmartinez254@outlook.com,336807596,LUMS,Business Administration,2.36,29/01/2024 8:51,8,55.181.51.226,Mobile,796,0.421,FALSE,FALSE,1,legit,normal
+APP00135,Megan Allen,anthony17386@uet.edu.pk,313722056,LUMS,Mechanical Engineering,3.32,08/06/2024 20:57,20,219.206.224.67,Desktop,289,0.024,FALSE,FALSE,1,university,normal
+APP00028,Raymond Pierce,paige96903@nu.edu.pk,305098412,Quaid-i-Azam University,Business Administration,2.3,19/05/2024 19:19,19,134.221.140.221,Tablet,746,0.444,FALSE,FALSE,1,university,normal
+APP00041,Alexander Ramos,zimmermancameron416@live.com,306098175,UET Lahore,Software Engineering,2.82,28/05/2024 17:41,17,41.205.45.51,Mobile,449,0.243,FALSE,FALSE,1,legit,normal
+APP00231,Joel Foster,shall110@lums.edu.pk,316111313,FAST NUCES,Electrical Engineering,2.63,07/06/2024 14:51,14,196.203.100.21,Mobile,457,0.237,FALSE,FALSE,1,university,normal
+APP00490,Michael Murphy,cheyennepatterson706@live.com,318215281,University of Punjab,Mechanical Engineering,2.28,24/05/2024 22:10,22,168.91.40.88,Mobile,445,0.293,FALSE,FALSE,1,legit,normal
+APP00773,Jennifer Lawson,joshua08196@live.com,315381125,FAST NUCES,Mechanical Engineering,2.57,29/03/2024 20:25,20,219.143.80.53,Desktop,535,0.417,FALSE,FALSE,1,legit,normal
+APP00379,Victor Murphy,wdouglas396@yahoo.com,325745083,FAST NUCES,Data Science,3.56,05/04/2024 16:51,16,12.245.3.253,Mobile,640,0.024,FALSE,FALSE,1,legit,normal
+APP00289,Michele Jackson,paigechandler105@lums.edu.pk,313037647,FAST NUCES,Computer Science,3.58,26/02/2024 10:12,10,137.169.158.185,Mobile,530,0.347,FALSE,FALSE,1,university,normal
+APP00419,Robin Rice,charlesanderson942@yahoo.com,305773013,Bahria University,Mechanical Engineering,3.06,29/05/2024 13:22,13,77.250.174.237,Mobile,403,0.53,FALSE,FALSE,1,legit,normal
+APP00675,Darryl Mcgrath,christie11209@yahoo.com,324030887,PMAS-UAAR,Software Engineering,3.42,10/03/2024 17:57,17,179.71.68.91,Desktop,799,0.321,FALSE,FALSE,1,legit,normal
+APP00392,Corey Mills,hernandezjessica474@lums.edu.pk,337018685,GIK Institute,Business Administration,2.93,28/01/2024 10:41,10,22.246.94.5,Mobile,741,0.154,FALSE,FALSE,1,university,normal
+APP00593,Melinda Jones,rogerspatricia772@outlook.com,316376490,Quaid-i-Azam University,Business Administration,2.96,18/04/2024 12:03,12,27.118.48.111,Mobile,184,0.249,FALSE,FALSE,1,legit,normal
+APP00648,Danielle Tran,christinanash416@outlook.com,312905196,LUMS,Software Engineering,2.05,20/03/2024 15:31,15,97.239.216.2,Tablet,693,0.232,FALSE,FALSE,1,legit,normal
+APP00521,Melissa Thomas,sara23318@iba.edu.pk,323404091,GIK Institute,Mechanical Engineering,2.19,12/05/2024 18:08,18,46.113.78.60,Desktop,330,0.253,FALSE,FALSE,1,university,normal
+APP00065,Travis Webb,zacharybryant304@outlook.com,317054579,LUMS,Business Administration,2.03,16/05/2024 10:17,10,56.139.95.138,Tablet,166,0.304,FALSE,FALSE,1,legit,normal
+APP00015,Matthew Black,ryang970@uet.edu.pk,302437026,Bahria University,Electrical Engineering,3.55,16/05/2024 20:08,20,191.34.14.174,Desktop,251,0.521,FALSE,FALSE,1,university,normal
+APP00493,Jamie Merritt,andrewbest237@outlook.com,307027405,NUST,Accounting,3.48,04/02/2024 16:54,16,139.20.5.255,Mobile,739,0.357,FALSE,FALSE,1,legit,normal
+APP00380,Jacob Rice,alyssa50329@outlook.com,302609881,LUMS,Mechanical Engineering,3.02,02/01/2024 18:04,18,62.149.250.211,Desktop,335,0.425,FALSE,FALSE,1,legit,normal
+APP00188,Robert Munoz,donald64292@nu.edu.pk,339796605,COMSATS,Software Engineering,3.62,29/04/2024 12:12,12,134.200.116.247,Mobile,235,0.402,FALSE,FALSE,1,university,normal
+APP00764,Daniel Edwards,hernandezrebecca122@yahoo.com,313194370,GIK Institute,Software Engineering,2.36,06/04/2024 19:23,19,113.105.231.124,Desktop,445,0.537,FALSE,FALSE,1,legit,normal
+APP00217,Zachary Johnson,joseph49294@iba.edu.pk,309425786,PMAS-UAAR,Accounting,3.28,15/02/2024 9:58,9,222.132.224.255,Desktop,218,0.133,FALSE,FALSE,1,university,normal
+APP00792,Jennifer Patton,erobinson657@iba.edu.pk,307553489,Bahria University,Business Administration,2.84,02/06/2024 8:03,8,169.186.16.234,Desktop,506,0.511,FALSE,FALSE,1,university,normal
+APP00879,Mrs. Rachel Smith,danabarnes@yahoo.com,339544273,University of Karachi,Data Science,3.52,12/04/2024 17:17,17,220.184.208.166,Mobile,15,0.088,FALSE,FALSE,1,legit,suspicious
+APP00338,Keith Wilson,christopher94780@outlook.com,313658100,COMSATS,Mechanical Engineering,3.45,23/01/2024 10:39,10,46.94.182.182,Desktop,564,0.222,FALSE,FALSE,1,legit,normal
+APP00720,Jordan Rice,elizabethpeterson133@lums.edu.pk,304567549,COMSATS,Electrical Engineering,2.06,10/02/2024 16:23,16,121.9.166.69,Desktop,241,0.225,FALSE,FALSE,1,university,normal
+APP00296,Amanda Gibson,ianhall998@outlook.com,312679975,IBA Karachi,Accounting,2.46,16/05/2024 21:50,21,194.244.169.29,Mobile,874,0.548,FALSE,FALSE,1,legit,normal
+APP01017,Shane Knapp,user5500@mailinator.com,3007853539,University of Karachi,Data Science,4.49,16/02/2024 23:00,23,117.72.183.14,Mobile,2,0.912,TRUE,TRUE,20,disposable,fake
+APP00456,Kevin Fry,sspencer62@gmail.com,323582322,Bahria University,Data Science,3.5,02/02/2024 15:14,15,15.40.191.217,Tablet,444,0.434,FALSE,FALSE,1,legit,normal
+APP00816,Teresa Chavez,woodkimberly276@hotmail.com,317676832,Bahria University,Business Administration,2.01,13/02/2024 21:31,21,48.175.5.255,Mobile,121,0.426,FALSE,FALSE,1,legit,normal
+APP00270,Ashley Mitchell,mary7618@yahoo.com,301231415,UET Lahore,Software Engineering,2.08,16/01/2024 20:25,20,6.133.58.169,Mobile,638,0.392,FALSE,FALSE,1,legit,normal
+APP00996,Matthew Jenkins,susananderson@yahoo.com,307032432,GIK Institute,Electrical Engineering,3.11,19/01/2024 13:11,13,220.11.250.198,Desktop,29,0.501,FALSE,FALSE,1,legit,suspicious
+APP00202,Jacqueline Brock,twright247@gmail.com,312128954,NUST,Data Science,2.06,02/06/2024 18:45,18,31.120.174.36,Mobile,169,0.024,FALSE,FALSE,1,legit,normal
+APP00162,Joseph Austin,clarkvictoria444@hotmail.com,303083077,Air University,Software Engineering,2.58,11/02/2024 13:59,13,57.102.210.38,Mobile,846,0.521,FALSE,FALSE,1,legit,normal
+APP00730,Keith Armstrong,kmorris158@yahoo.com,327832964,SZABIST,Software Engineering,2.11,24/03/2024 10:01,10,110.145.57.61,Mobile,850,0.214,FALSE,FALSE,1,legit,normal
+APP00402,Ray Wade,autumn52425@outlook.com,322901507,COMSATS,Accounting,2.91,23/02/2024 17:10,17,213.76.174.226,Desktop,782,0.012,FALSE,FALSE,1,legit,normal
+APP00703,Christina Serrano,eringarcia819@lums.edu.pk,332861110,NUST,Mechanical Engineering,3.16,27/01/2024 21:35,21,158.189.71.123,Desktop,162,0.092,FALSE,FALSE,1,university,normal
+APP00566,Amanda Graham,tatejames499@nu.edu.pk,308348147,Bahria University,Software Engineering,2.27,19/02/2024 8:46,8,203.89.98.169,Mobile,727,0.214,FALSE,FALSE,1,university,normal
+APP01022,Jessica Dorsey,user8852@yopmail.com,3006274209,NUST,Business Administration,0.14,27/02/2024 2:02,2,177.219.29.131,Mobile,6,0.991,TRUE,FALSE,13,disposable,fake
+APP01026,Bradley Nelson,user954@throwam.com,3001597875,SZABIST,Accounting,4.01,21/06/2024 2:02,2,208.244.179.164,Mobile,3,0.978,TRUE,FALSE,20,disposable,fake
+APP00206,Jonathan Morales,richarddunn308@hotmail.com,334084977,GIK Institute,Data Science,2.9,27/02/2024 12:54,12,41.117.150.231,Mobile,844,0.255,FALSE,FALSE,1,legit,normal
+APP00035,Larry Taylor,chelseamurphy274@outlook.com,312813543,University of Karachi,Mechanical Engineering,2.07,30/04/2024 11:12,11,188.21.62.96,Mobile,591,0.451,FALSE,FALSE,1,legit,normal
+APP00776,Stephen Stevenson,lcollins31@iba.edu.pk,323331197,NED University,Mechanical Engineering,2.24,03/01/2024 15:51,15,214.100.225.69,Desktop,794,0.187,FALSE,FALSE,1,university,normal
+APP00509,Michael Stephenson,gpitts777@yahoo.com,332089275,UET Lahore,Electrical Engineering,2.26,26/06/2024 21:17,21,46.84.31.11,Desktop,457,0.289,FALSE,FALSE,1,legit,normal
+APP01087,Dana Spencer,user1420@yopmail.com,3001599695,GIK Institute,Software Engineering,0.19,24/05/2024 3:02,3,197.67.240.58,Mobile,7,0.948,TRUE,TRUE,14,disposable,fake
+APP00092,Bryan Montgomery,handrews589@nu.edu.pk,325953150,FAST NUCES,Mechanical Engineering,3.25,11/03/2024 8:36,8,98.81.73.225,Desktop,822,0.535,FALSE,FALSE,1,university,normal
+APP00898,Ashley King,melissasanchez@outlook.com,312848116,FAST NUCES,Business Administration,2.7,05/02/2024 4:29,4,69.221.108.142,Desktop,267,0.303,FALSE,FALSE,1,legit,suspicious
+APP00565,Shannon Thompson,bberry779@lums.edu.pk,324407796,LUMS,Data Science,2.07,08/04/2024 18:12,18,163.145.180.153,Desktop,426,0.493,FALSE,FALSE,1,university,normal
+APP00777,Don Alvarez,stewartjulia436@nust.edu.pk,336027078,Quaid-i-Azam University,Data Science,2.04,09/01/2024 22:08,22,76.225.220.182,Tablet,277,0.547,FALSE,FALSE,1,university,normal
+APP00242,Nicholas Roberts,jason35953@hotmail.com,319656941,LUMS,Data Science,2.3,23/05/2024 14:29,14,90.238.179.159,Desktop,357,0.346,FALSE,FALSE,1,legit,normal
+APP00014,Geoffrey Buckley,sharon92941@iba.edu.pk,306438436,COMSATS,Computer Science,2.21,02/04/2024 22:53,22,11.179.221.166,Mobile,434,0.132,FALSE,FALSE,1,university,normal
+APP00316,Patrick Johnson,allenjared972@hotmail.com,314554926,GIK Institute,Software Engineering,2.24,18/04/2024 9:43,9,141.41.85.48,Mobile,565,0.452,FALSE,FALSE,1,legit,normal
+APP00601,Christopher Simpson,vaughnanthony725@iba.edu.pk,306317433,Quaid-i-Azam University,Software Engineering,2.71,18/05/2024 10:34,10,122.58.91.175,Mobile,428,0.014,FALSE,FALSE,1,university,normal
+APP00388,Kristen Gross,erika70118@outlook.com,311912484,PMAS-UAAR,Mechanical Engineering,3.77,20/05/2024 15:41,15,103.81.144.10,Mobile,682,0.369,FALSE,FALSE,1,legit,normal
+APP00167,Morgan Bell,rmejia148@uet.edu.pk,326357240,Bahria University,Mechanical Engineering,2.66,12/04/2024 10:48,10,137.212.92.231,Desktop,499,0.058,FALSE,FALSE,1,university,normal
+APP00841,Lawrence Smith,colemanjoseph@mailinator.com,328467845,Quaid-i-Azam University,Computer Science,2.23,22/01/2024 9:31,9,15.79.5.80,Desktop,776,0.28,FALSE,FALSE,1,disposable,suspicious
+APP00021,Thomas Guzman,qperez286@hotmail.com,335191056,PMAS-UAAR,Computer Science,2.84,20/05/2024 9:03,9,27.226.170.135,Tablet,787,0.46,FALSE,FALSE,1,legit,normal
+APP00647,Deanna Wagner,laura26421@nust.edu.pk,322080914,SZABIST,Software Engineering,3.61,09/03/2024 21:18,21,158.250.193.167,Mobile,781,0.378,FALSE,FALSE,1,university,normal
+APP00832,Jennifer Smith,ericadavis@live.com,312788215,University of Karachi,Computer Science,3.05,27/04/2024 4:09,4,138.37.152.24,Desktop,423,0.275,FALSE,FALSE,1,legit,suspicious
+APP00563,Susan Gross,harperjoshua447@lums.edu.pk,332176077,Air University,Software Engineering,2.01,25/06/2024 21:49,21,41.40.42.239,Mobile,613,0.294,FALSE,FALSE,1,university,normal
+APP01075,Cynthia Nguyen,user3960@throwam.com,3004713195,IBA Karachi,Computer Science,3.81,04/06/2024 23:03,23,154.254.232.9,Mobile,6,0.945,TRUE,TRUE,20,disposable,fake
+APP00687,Joel Jones,msimmons864@hotmail.com,331759315,NUST,Electrical Engineering,3.67,17/03/2024 13:37,13,45.173.180.239,Mobile,861,0.369,FALSE,FALSE,1,legit,normal
+APP00958,Margaret Miller,andreahutchinson@live.com,317714324,IBA Karachi,Computer Science,2.54,12/02/2024 1:19,1,204.147.160.164,Desktop,711,0.081,FALSE,FALSE,1,legit,suspicious
+APP00190,Christopher Harrison,seanchavez847@nust.edu.pk,339644974,Quaid-i-Azam University,Computer Science,2.76,25/01/2024 10:08,10,171.188.1.188,Mobile,608,0.136,FALSE,FALSE,1,university,normal
+APP00976,Amanda Bernard,michael34@outlook.com,337696015,University of Punjab,Computer Science,3.74,18/03/2024 17:19,17,188.150.235.4,Desktop,57,0.373,FALSE,FALSE,7,legit,suspicious
+APP00700,Heather Bailey,bobjohnston311@lums.edu.pk,314513701,Air University,Computer Science,3.9,01/04/2024 22:16,22,219.114.37.231,Desktop,485,0.096,FALSE,FALSE,1,university,normal
+APP00511,Barbara Hampton,smithdavid438@live.com,325356372,Air University,Data Science,3.89,31/03/2024 22:08,22,67.196.132.228,Desktop,749,0.286,FALSE,FALSE,1,legit,normal
+APP00475,Jason Skinner,estesjill327@gmail.com,316483324,Air University,Accounting,2.42,13/01/2024 18:46,18,24.37.113.8,Tablet,522,0.414,FALSE,FALSE,1,legit,normal
+APP00857,Jason Kelley,andersonnicholas@gmail.com,329268659,GIK Institute,Mechanical Engineering,2.02,18/04/2024 18:32,18,86.47.159.40,Mobile,30,0.274,FALSE,FALSE,1,legit,suspicious
+APP00748,Nicole Shaw,blairmary707@outlook.com,332248902,University of Punjab,Software Engineering,2.37,25/03/2024 12:04,12,110.26.193.39,Desktop,761,0.015,FALSE,FALSE,1,legit,normal
+APP00253,Lisa Welch,kenneth43706@uet.edu.pk,328183451,LUMS,Data Science,2.26,22/02/2024 21:13,21,97.13.118.16,Desktop,180,0.293,FALSE,FALSE,1,university,normal
+APP00022,Mr. Juan Rocha,ashleycervantes949@yahoo.com,313790237,University of Karachi,Electrical Engineering,2.91,12/04/2024 22:03,22,110.31.18.95,Mobile,288,0.542,FALSE,FALSE,1,legit,normal
+APP00460,Deborah Reid,benjaminthompson752@nust.edu.pk,311314067,NED University,Mechanical Engineering,2.69,07/06/2024 11:20,11,142.234.196.44,Mobile,858,0.532,FALSE,FALSE,1,university,normal
+APP00277,Maria White,grace66234@yahoo.com,301738833,PMAS-UAAR,Mechanical Engineering,2.02,12/01/2024 15:23,15,144.51.61.137,Tablet,512,0.098,FALSE,FALSE,1,legit,normal
+APP00956,James Barnett,asimpson@yahoo.com,302260713,COMSATS,Computer Science,2.41,20/06/2024 11:29,11,186.85.155.95,Mobile,514,0.755,FALSE,FALSE,1,legit,suspicious
+APP00386,Stephanie Mack,xjackson694@live.com,321187069,Air University,Mechanical Engineering,3.05,01/02/2024 8:00,8,15.25.133.55,Desktop,706,0.295,FALSE,FALSE,1,legit,normal
+APP00806,Kimberly Thomas,lbrooks82@lums.edu.pk,327681433,University of Karachi,Software Engineering,2.89,18/04/2024 16:39,16,201.42.138.167,Mobile,872,0.086,FALSE,FALSE,1,university,normal
+APP00344,Justin Finley,joneswilliam50@uet.edu.pk,301331211,FAST NUCES,Accounting,2.22,23/04/2024 14:07,14,106.75.213.43,Mobile,680,0.386,FALSE,FALSE,1,university,normal
+APP00770,Mary Contreras,kelly21525@lums.edu.pk,328148811,COMSATS,Electrical Engineering,2.82,04/04/2024 20:31,20,42.159.40.79,Mobile,444,0.014,FALSE,FALSE,1,university,normal
+APP00131,Robert Johnson,thompsonjason572@yahoo.com,335767195,UET Lahore,Accounting,3.62,03/06/2024 21:09,21,83.98.13.64,Mobile,461,0.365,FALSE,FALSE,1,legit,normal
+APP00872,Jeremy Waters,clarktimothy@yahoo.com,335143446,Quaid-i-Azam University,Computer Science,2.35,01/01/2024 8:42,8,91.151.119.82,Mobile,882,0.157,TRUE,FALSE,1,legit,suspicious
+APP00088,Victoria Gonzalez,virginia44455@yahoo.com,316024207,University of Punjab,Computer Science,2.09,15/01/2024 12:22,12,51.176.24.119,Mobile,503,0.134,FALSE,FALSE,1,legit,normal
+APP00331,Cory Trevino,scottandrew193@live.com,319678746,GIK Institute,Software Engineering,3.71,02/06/2024 14:42,14,50.94.32.100,Desktop,447,0.397,FALSE,FALSE,1,legit,normal
+APP00467,Kimberly Mitchell,jason91905@nust.edu.pk,303798595,GIK Institute,Software Engineering,3.04,09/05/2024 13:42,13,163.27.160.135,Desktop,281,0.33,FALSE,FALSE,1,university,normal
+APP00122,Amy Johnson,stewartnicole297@nust.edu.pk,307795314,FAST NUCES,Business Administration,2.33,07/06/2024 15:53,15,49.107.125.109,Tablet,826,0.048,FALSE,FALSE,1,university,normal
+APP01045,Bradley Nelson,user531@tempmail.com,3004398864,NUST,Data Science,0.32,24/05/2024 1:01,1,117.72.183.14,Mobile,6,0.92,TRUE,TRUE,13,disposable,fake
+APP01096,Patricia Cowan,user5500@mailinator.com,3008248007,SZABIST,Business Administration,3.67,17/05/2024 2:01,2,129.226.0.248,Mobile,3,0.917,TRUE,FALSE,14,disposable,fake
+APP00861,Henry Wells,mooremichael@guerrillamail.com,335924868,UET Lahore,Software Engineering,2,10/06/2024 17:25,17,99.228.86.62,Tablet,342,0.511,TRUE,FALSE,1,legit,suspicious

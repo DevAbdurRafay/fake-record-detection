@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dashboard — AnomalyGuard</title>
+  <link rel="stylesheet" href="/static/style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+  <nav class="navbar">
+    <div class="nav-brand">
+      <div class="brand-icon">🛡️</div>
+      <span>AnomalyGuard</span>
+    </div>
+    <div class="nav-links">
+      <a href="/">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+        Upload
+      </a>
+      <a href="/dashboard" class="active">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
+        Dashboard
+      </a>
+    </div>
+  </nav>
+
+  <div class="page-glow"></div>
+
+  <main class="dashboard-page">
+
+    <!-- EMPTY STATE -->
+    <div class="empty-state" id="emptyState">
+      <div class="empty-icon">📊</div>
+      <h2>No Results Yet</h2>
+      <p>Upload a CSV file on the Upload page to run anomaly detection and see results here.</p>
+      <a href="/" class="btn-analyze empty-cta">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+        Go Upload a File
+      </a>
+    </div>
+
+    <!-- DASHBOARD CONTENT -->
+    <div id="dashboardContent" class="hidden">
+
+      <div class="dash-header">
+        <div>
+          <h1 class="dash-title">Detection Results</h1>
+          <p class="dash-sub" id="dashSub">Loaded from last analysis session</p>
+        </div>
+        <button class="btn-new-analysis" onclick="window.location.href='/'">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+          New Analysis
+        </button>
+      </div>
+
+      <!-- SUMMARY CARDS -->
+      <div class="summary-row">
+        <div class="summary-card total">
+          <div class="sc-top">
+            <div class="sc-icon">📋</div>
+            <div class="sc-trend" id="trendTotal"></div>
+          </div>
+          <div class="s-value" id="statTotal">0</div>
+          <div class="s-label">Total Applications</div>
+          <div class="sc-bar"><div class="sc-bar-fill" style="width:100%;background:var(--accent)"></div></div>
+        </div>
+        <div class="summary-card fake">
+          <div class="sc-top">
+            <div class="sc-icon">🚫</div>
+          </div>
+          <div class="s-value" id="statFake">0</div>
+          <div class="s-label">Fake Records</div>
+          <div class="sc-bar"><div class="sc-bar-fill fake-bar" id="fakeBar"></div></div>
+        </div>
+        <div class="summary-card suspicious">
+          <div class="sc-top">
+            <div class="sc-icon">⚠️</div>
+          </div>
+          <div class="s-value" id="statSusp">0</div>
+          <div class="s-label">Suspicious</div>
+          <div class="sc-bar"><div class="sc-bar-fill susp-bar" id="suspBar"></div></div>
+        </div>
+        <div class="summary-card normal">
+          <div class="sc-top">
+            <div class="sc-icon">✅</div>
+          </div>
+          <div class="s-value" id="statNorm">0</div>
+          <div class="s-label">Normal Records</div>
+          <div class="sc-bar"><div class="sc-bar-fill norm-bar" id="normBar"></div></div>
+        </div>
+      </div>
+
+      <!-- CHARTS -->
+      <div class="charts-grid">
+        <div class="chart-card">
+          <div class="chart-card-header">
+            <h3>Prediction Distribution</h3>
+            <span class="chart-tag">Doughnut</span>
+          </div>
+          <div class="chart-container">
+            <canvas id="distributionChart"></canvas>
+          </div>
+        </div>
+        <div class="chart-card">
+          <div class="chart-card-header">
+            <h3>Cluster Composition</h3>
+            <span class="chart-tag">Bar</span>
+          </div>
+          <div class="chart-container">
+            <canvas id="clusterChart"></canvas>
+          </div>
+        </div>
+      </div>
+
+      <!-- FILTERS -->
+      <div class="filters-row">
+        <div class="filter-group">
+          <label>Filter by</label>
+          <select id="filterPrediction">
+            <option value="all">All Records</option>
+            <option value="fake">Fake</option>
+            <option value="suspicious">Suspicious</option>
+            <option value="normal">Normal</option>
+          </select>
+        </div>
+        <div class="search-group">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          <input type="text" id="searchInput" placeholder="Search name, email, university..." />
+        </div>
+        <button class="btn-export" id="exportBtn">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+          Export CSV
+        </button>
+      </div>
+
+      <!-- TABLE -->
+      <div class="table-container-glass">
+        <div class="table-meta" id="tableMeta">Showing all records</div>
+        <div class="table-wrapper">
+          <table class="results-table" id="resultsTable">
+            <thead>
+              <tr>
+                <th>App ID</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>University</th>
+                <th>CGPA</th>
+                <th>Submitted</th>
+                <th>Fill Time</th>
+                <th>Score</th>
+                <th>Cluster</th>
+                <th>Verdict</th>
+                <th>Alerts</th>
+              </tr>
+            </thead>
+            <tbody id="tableBody"></tbody>
+          </table>
+        </div>
+        <div class="pagination" id="pagination"></div>
+      </div>
+
+    </div>
+  </main>
+
+  <script src="/static/dashboard.js"></script>
+</body>
+</html>

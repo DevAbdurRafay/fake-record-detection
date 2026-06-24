@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Anomaly Detector — Upload</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+
+  <nav class="navbar">
+    <div class="nav-brand">
+      <div class="brand-icon">🛡️</div>
+      <span>AnomalyGuard</span>
+    </div>
+    <div class="nav-links">
+      <a href="/" class="active">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+        Upload
+      </a>
+      <a href="/dashboard">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
+        Dashboard
+      </a>
+    </div>
+  </nav>
+
+  <div class="page-glow"></div>
+
+  <main class="upload-page">
+
+    <div class="hero">
+      <div class="hero-eyebrow">
+        <span class="pulse-dot"></span>
+        ML-Powered Detection Engine
+      </div>
+      <h1>Catch Fake Internship<br/><em>Applications Instantly</em></h1>
+      <p>Drop your CSV. Our Isolation Forest + K-Means pipeline scores every record for anomalies, bot behavior, and duplicate patterns in seconds.</p>
+
+      <div class="hero-stats">
+        <div class="stat-item">
+          <strong>Isolation Forest</strong>
+          <span>Unsupervised anomaly detection</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+          <strong>K-Means Clustering</strong>
+          <span>Behavioral pattern grouping</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+          <strong>8 Heuristic Rules</strong>
+          <span>Instant flag triggers</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="upload-card">
+      <div class="upload-card-header">
+        <h2>Upload Application Log</h2>
+        <span class="badge-format">CSV only</span>
+      </div>
+
+      <div class="drop-zone" id="dropZone">
+        <div class="drop-visual">
+          <div class="drop-icon-wrap">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="12" y1="18" x2="12" y2="12"/><line x1="9" y1="15" x2="15" y2="15"/></svg>
+          </div>
+          <p class="drop-label">Drag & drop your CSV here</p>
+          <span class="drop-sub">or</span>
+          <label class="btn-browse" id="browseBtn">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+            Browse Files
+          </label>
+          <input type="file" id="fileInput" accept=".csv" hidden />
+        </div>
+
+        <div class="file-preview hidden" id="filePreview" style="display:none">
+          <div class="file-icon">📄</div>
+          <div class="file-info">
+            <div class="file-name" id="fileName"></div>
+            <div class="file-size" id="fileSize"></div>
+          </div>
+          <button class="file-remove" id="fileRemove" title="Remove">✕</button>
+        </div>
+      </div>
+
+      <button class="btn-analyze" id="analyzeBtn" disabled>
+        <span id="btnText">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          Run Detection
+        </span>
+        <span id="btnSpinner" class="spinner hidden"></span>
+      </button>
+
+      <div class="progress-wrap hidden" id="progressWrap">
+        <div class="progress-bar" id="progressBar"></div>
+        <span class="progress-label" id="progressLabel">Initializing pipeline...</span>
+      </div>
+
+      <div class="alert-box error hidden" id="errorBox"></div>
+
+      <div class="required-cols">
+        <details>
+          <summary>Required CSV columns</summary>
+          <div class="cols-grid">
+            <code>application_id</code><code>applicant_name</code><code>email</code>
+            <code>phone</code><code>university</code><code>department</code>
+            <code>cgpa</code><code>submission_time</code><code>submission_hour</code>
+            <code>ip_address</code><code>device_type</code><code>time_to_fill_sec</code>
+            <code>resume_similarity_score</code><code>is_duplicate_email</code>
+            <code>is_duplicate_phone</code><code>apps_from_same_ip_1hr</code>
+            <code>email_domain_type</code>
+          </div>
+        </details>
+      </div>
+    </div>
+
+    <div class="features-grid">
+      <div class="feature-card">
+        <div class="feat-icon-wrap" style="--clr:#6366f1">🌲</div>
+        <h3>Isolation Forest</h3>
+        <p>200-tree ensemble that isolates outliers by random feature partitioning — no labels needed.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feat-icon-wrap" style="--clr:#10b981">🎯</div>
+        <h3>K-Means Clustering</h3>
+        <p>Groups applications into 3 behavioral clusters, exposing bulk-submission and automation patterns.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feat-icon-wrap" style="--clr:#f43f5e">🚨</div>
+        <h3>Heuristic Rules</h3>
+        <p>8 instant-flag rules: disposable emails, bot-speed fills, IP bursts, duplicate contacts, and more.</p>
+      </div>
+    </div>
+
+  </main>
+
+  <script src="/static/upload.js"></script>
+</body>
+</html>
